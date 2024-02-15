@@ -1,0 +1,356 @@
+Speeches CLARITY AND STATUTE LAW SOCIETY
+
+JOINT CONFERENCE
+
+CAMBRIDGE UNIVERSITY 13 JULY 2002
+
+TOWARDS A GRAND THEORY OF INTERPRETATION
+
+THE CASE OF STATUTES AND CONTRACTS
+
+The Hon Justice Michael Kirby AC CMG*
+
+THE SEARCH FOR MEANING
+
+The search for meaning is the preoccupation of judges.  It is a task in which I have been engaged for three decades. Not the meaning of life and death, mind you.  I have long since abandoned that puzzle, for I cannot solve it. I refer to the meaning of words.  Words in disputed documents that come before courts for elucidation.  Words in wills [1] , guarantees [2] and international treaties  [3] .  But above all, words in written contracts and in legislative enactments.
+
+So far as contracts are concerned, the question of their interpretation lies at the heart of our theory about the enforceable civil obligations that people enter, intending to be bound by the words they use [4] .  Contracts afford the foundation for the market economy in which individuals, corporations and nations take part.  Yet, in recent years, as final courts in England  [5] , Australia [6] , New Zealand [7] and elsewhere have shown themselves readier to accept contextual approaches to meaning, it has been said that it is difficult to predict the outcome of disputed cases of contractual interpretation [8] .  Judicial divisions of opinion on such subjects have been described as "extraordinary" and "notorious" because the divided judges all loudly proclaim their adherence to a principle of commercial realism, essential to the proper operation of the market, if not to civilisation as we know it  [9] .
+
+If the interpretation of contractual documents is an important part of the modern judge's vocation, the construction of statutes is now, probably, the single most important aspect of legal and judicial work  [10] .  In Australia, courts have discovered that many lawyers dislike this feature of their lives intensely.  They find the obligation to read Acts of Parliament, from beginning to end, so distasteful  [11] that they will do almost anything to postpone the labour.  Often, the High Court of Australia has been moved to protest at this unwillingness to grapple with the words of the statutory text, instead of returning to the much loved words of judges, written long ago and far away, who uttered them before the legislature's text became the law  [12] .  Whilst this tribute to the judiciary is understandable, even touching, it does not represent the law.  The world of common law principle is in retreat.  It now circles in the orbit of statute.  Where statute speaks - and particularly a curious statute like a Constitution or a Bill of Rights Act - there is no escaping the duty to give meaning to its words.  That is what I, and every other judge in the countries of the world that observe the rule of law, spend most of our time doing.
+
+I want to explore the extent to which new and common themes have come to inform the task of interpretation of written contracts and statutory provisions.  It would not be surprising to discover that there were common themes.  After all, the basic function involved in both tasks is much the same.  In its essence, it involves an attempt to elucidate the meaning of that mode of communication between human beings that is expressed in language.
+
+Communication can be effected in ways other than the use of words - the raising of eyebrows; a grimace; a threatening look; a gentle touch; a gesture of defiance  [13] .  In some legal regimes, such modes of communication may themselves attract legal consequences [14] .  But this is not the subject of my concern, which is the attempt by one person through the medium of language to convey to another ideas that have legal
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (1 of 12) [24/07/2002 9:56:26]
+
+consequences.
+
+In its objective state, language is made up of sounds spoken in a recognisable form.  But in most races [15] , the experience of human existence has included a capacity to divide sounds into words and sentences and then to write them down.  Part of the struggle waged by courts in recent times has been directed to persuading lawyers, most of whom were brought up in earlier theories of interpretation, that giving meaning to words, read in isolation, can be misleading, artificial and even dangerous.
+
+The natural unit for the communication of meaning is a sentence  [16] .  But even a sentence may be too confined a context.  To discover the true meaning of a written contract or of a statute, it may be necessary to read the whole of the document, from beginning to end, so as to arrive at an understanding of the meaning of a word and sentence in its proper context.
+
+Surprisingly, there is not much discussion in legal texts about the common principles that inform the interpretation of contested language in contracts and in statutes.  The explanation for this dearth of analysis may lie in the fact that the scholars who are interested in issues of contract interpretation are likely to be experts in private law.  Those who are interested in developments in statutory construction are likely to be devotees of jurisprudence or public law  [17] .  The twain, it seems, rarely meet.
+
+There are certainly some common features of interpretation, whether it concerns a written contract or a statutory text:
+
+*       In so far as each document is expressed in the English language, it appears in a verbal tradition richly endowed with "fruitful … resonances, overtones and ambiguities" advantageous for literature and poetry  [18] , but less perfect for the precise expression that is desirable when it comes to a legal document intended to control future conduct;
+
+*       Although rules for the construction of statutes or written contacts may be laid down in Acts of Parliament [19] or court decisions [20] , "problems of legal interpretation are not solved satisfactorily by ritual incantations which emphasise the clarity of meaning which words have when viewed in isolation, divorced from their context".  The modern approach to interpretation "insists that the context be considered in the first instance, especially in the case of general words, and not merely at some later stage when ambiguity might be thought to arise"  [21] .
+
+*       Neither the interpretation of contracts or statutes is concerned, as such, with discovering the subjective intentions of the writers of the document in question.  Thus, in the case of a written contract, uncommunicated intentions, not expressed in the written instrument, could not on any view, without more, bind the other party.  At least to that extent there is consensus that the interpretation of written contracts must follow an objective approach [22] .  So far as Acts of Parliament are concerned, it is unfortunately still common to see reference in judicial reasons and scholarly texts to the "intention of Parliament".  I never use that expression now.  It is potentially misleading [23] .  In Australia, many other judges also regard the fiction as unhelpful [24] .  It is difficult to attribute the "intention" of a document such as a statute, prepared by so many hands and submitted to a decision-maker of so many different opinions, as having a single "intention"  [25] .  Clearly, it cannot be a reference to a subjective "intention".  Being objective, and therefore the meaning which the decision-maker ascribes to the words, the abandonment of the fiction is long overdue.  Even as a fiction, the idea is threadbare.  In both legal documents then, the search is an objective and not a purely subjective one  [26] .
+
+*       In both modes of interpretation, the correct starting point is the written text - all relevant parts of it.  That text is examined to ascertain the meaning to be attributed to the words used.  The purpose is not to ascertain the meaning that, with hindsight, those who wrote the words truly meant to say or wish they had said  [27] ;
+
+*       If, when the words in question are read in this way, the resulting interpretation is unreasonable, bizarre or clearly inapplicable to the object, it is reasonable for the person construing the document to infer, at least as a preliminary conclusion, that this was not the meaning that the document bears [28] .  If, in those circumstances, another interpretation is available that can fit the language used then, whether the document is a written contract or an Act of Parliament, a court will tend to prefer the other meaning.  In short, it will accept a non-literal meaning in preference to a wholly
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (2 of 12) [24/07/2002 9:56:26]
+
+unreasonable construction that has only the literal interpretation to commend it  [29] .
+
+Whether in a written contract or an Act of Parliament, the proper approach to the task of interpretation is to attempt to read the words as they would be understood in everyday life, where words and sentences are the commonplace of human communication [30] .  This approach, that lies at the heart of the modern interpretation of written instruments, facilitates the use of plain or ordinary English expression.  Artificial, cumbersome, verbose and repetitious language is then replaced by clearer, simpler statements.  The price of doing this is a more wholehearted effort by the courts to discover, and give effect to, the apparent purpose of the words.  To the extent that courts frustrate that objective, they encourage the drafters of contracts and documents to stick with prolixity and complexity, in an attempt to cover all the bases.
+
+PLAIN MEANING
+
+An important trend in the interpretation of written contracts and statutes in the last quarter of the twentieth century saw the emergence of a greater willingness of courts to look beyond the literal meaning of the words in contest to a range of materials deemed useful to the ascertainment of their meaning.
+
+In the field of statutory interpretation, this process has been stimulated by legislative requirements [31] obliging decision-makers to have regard to the apparent purpose or object of the legislative provisions.  [32]   This has facilitated the use of extrinsic materials in the interpretation of legislation.  However, the search for the "mischief" at which a statute was directed is nothing new  [33] .  Further, the larger use of extrinsic materials, in aid of statutory and constitutional construction  [34] had already begun in the common law, well in advance of legislative changes  [35] .
+
+In the field of contractual interpretation, the common law rule, forbidding reference to materials extrinsic to a written document, was never an absolute one.  A carefully constructed (some might say artificial) set of sub-rules and exceptions was devised to allow extrinsic evidence to be received in aid of an understanding of what the written text truly meant  [36] .  Recently, in England [37] , Australia [38] and elsewhere, an even greater flexibility has been tolerated in the search for the meaning of written contracts.  The object has been to ensure that the decision-maker, struggling with the contested words, is armed with "all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract".
+
+As if in recognition of the fact that resort to such extrinsic materials presents a risk of diverting the attention of the decision-maker too far from the primary task in hand, some limits have been maintained. The key that originally unlocked the door to extrinsic materials was "ambiguity" in the written words  [39] .  Yet perception of ambiguity is itself variable.  The extent to which "ambiguity" can be seen in words, read in isolation, or may be suggested by extrinsic materials themselves, is a matter for much debate.  Even judges sympathetic to the use of extrinsic materials in aid of construction, recognise the practical limits that have to be observed in unravelling the meaning of written words [40] .
+
+To the extent that a decision-maker widens the lens of the inquiry to allow a larger range of information to be received in the form of evidence, the area of a potential contest is expanded.  The duration of trials is increased.  The ambit of the factual and legal debate is enlarged.  The focus of attention is changed.  The efficiency of decision-making may be reduced. Ultimately, what is involved here is a compromise between a semi-arbitrary rule of judicial restraint that focuses attention on the written text, sometimes at a price of excessive formalism and a quest for true justice which a wider inquiry might help courts to attain but at a price of longer enquiries and more contentious outcomes.
+
+Nearly a decade ago, I tried to explain what was involved in the compromise accepted by the law [41] :
+
+"The social purpose secured by [the parol evidence rule] is to discourage litigation, with the time consuming, costly and dilatory exploration of detailed facts and the resolution of conflicts of recollection and testimony.  It is to discourage curial exploration of the unfathomable depths of subjective intentions.  It is to add to certainty by adherence to the effect of the clearly expressed written word.  But as in statutory construction, so in the construction of contracts, there is now a growing appreciation of the ambiguity of all languages but of the English language in
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (3 of 12) [24/07/2002 9:56:26]
+
+particular.  The perception of ambiguity differs from one judicial eye to the other.  A realisation of the imperfections of language to express thoughts with unambiguous clarity has tended to promote a greater willingness on the part of courts (and in the task of statutory construction actually encouraged by Parliament) to have regard to extrinsic material to assist them in their task.  It is obviously desirable that there be as harmonious an approach between the way in which courts give meaning to ambiguous language in statutes and the way in which they give meaning to ambiguous language in private written instruments, such as contracts.  Each must respond to modern understandings of linguistics and notions of realism.  Each must avoid the sense of injustice which will arise if considerations thought useful to the task of interpretation are rejected or excluded.  Just as a wider range of materials is now typically taken into account in the construction of statutes so, I believe, the common law will allow access to a wider range of material in the elucidation of the meaning of private instruments, including written contracts.  But in the construction of written contracts the old rule is still given judicial obeisance.  … Perhaps adherence to the narrow rule has survived because of the exceptions which are accepted and the further exceptions which the courts have developed".
+
+Looking back on the decade since those words were written, it is clear that the trend towards the reception of extrinsic materials in support of both forms of writing has gathered pace.  Yet it still has its outer boundaries  [42] .  The trend is probably connected with other movements in the law that challenge the conviction that it is possible, or even desirable, to observe strict rules of interpretation that make the law less ambiguous and more predictable, but at the price of individual justice.
+
+The demise of the declaratory theory of the judicial function  [43] has been accompanied by a decline in the conviction that judges can give true meaning to words, viewed solely in their immediate verbal context  [44] .  Sometimes, the same judges who resist the use of extrinsic aids to construction also object to the notion that their function involves choices, informed not only by legal authority but also by considerations of legal principle and legal policy  [45] .  A judge who, by disposition, feels that a constitutional or statutory text or rule of the common law is "settled" or "clear" in its meaning will often be the same judge who resists an invitation to examine ministerial second reading speeches and law reform reports for the meaning of statutes or rejects the attempted proof of contextual circumstances, proffered in aid of the meaning of written contracts  [46] .
+
+Those who hanker after certainty can sometimes convince themselves that it exists more often than it does.  The wish is parent to the fact.  Their conviction can lead them, with full intellectual integrity no doubt, to oppose what they see as attempts to undermine the certainties of legal interpretation.  For them, the search for contextual understanding and rummaging amongst extrinsic materials involves a serious departure from the proper function of a judge.  That function, in disputed questions of interpretation, is to give meaning to words - a task that can usually be performed simply by examining the words in question closely, perhaps with the aid of a dictionary; nothing more.
+
+Towards the last quarter of the twentieth century, Lord Reid and other writers of like mind, effectively demolished the intellectual foundations of the declaratory theory of the judicial function  [47] .  They ushered in greater transparency in judicial reasoning and a greater willingness to acknowledge the value judgments that inescapably influence judicial decisions  [48] .  In the tasks of construction, within limits not yet fully defined, the trend has been to claim access to contextual materials.  In Australia, Chief Justice Mason and in England, Lord Hoffmann, have been leaders of this trend.   There have been many others.  In my view, there is no going back.
+
+There are other similarities that can be noticed in the contemporary approach to the interpretation of particular types of contracts and statutory provisions.  Thus, in the past, it has been traditional to approach ambiguous provisions in an insurance policy (or other standard forms of written contract) in a way that is favourable to the recipient of the document, rather than the author  [49] . Peter Butt and Richard Castles, in their splendid new book Modern Legal Drafting - A Guide to Using Clearer Language [50] , explain:
+
+"… An ambiguous provision in a lease imposing obligations on the tenant is construed in favour of the tenant; in a contract for the sale of land, it is construed in favour of the purchaser; in a guarantee it is construed in favour of the guarantor; in a grant it is construed in favour of the grantee; and in an ambiguous provision concerning the extent of the borrower's liability under a loan agreement is construed
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (4 of 12) [24/07/2002 9:56:26]
+
+in favour of the borrower".
+
+In the past, there were similar judicial presumptions in construing particular statutory provisions.  For example, presumptions were frequently stated in relation to ambiguous Acts of Parliament imposing criminal liability  [51] or the burden of taxation [52] .  Likewise, statutes which, construed one way, would diminish time honoured civil rights [53] , deprive people of their property without compensation [54] , or subject them to governmental action without procedural fairness  [55] were construed in accordance with a presumption that the legislature would not have had such purposes unless it spelt them out in clear and unmistakable language.
+
+Some of these presumptions remain part of the armoury of judicial interpretation.  The contra proferentem rule for the construction of certain written contracts remains available to this day.  However, as Butt and Castle explain, that presumption nowadays tends only to be invoked "if the ambiguity cannot be resolved by any other legitimate means.  In that sense, it is a rule of last resort"  [56] .  In practice, the presumption resulted in exemption clauses expressed in the widest possible form to counteract the conventional inclination to read them narrowly.  Generally speaking, today, the judicial interpreter tries harder to perform the task of construction without resort to such excuses  [57] .
+
+The same is true of statutory interpretation.  Judges in England  [58] , Ireland [59] , Australia [60] and other countries of the common law now insist that the "modern" approach to statutory construction involves a search for the "purpose" of the text. The old presumptions in favour of the taxpayer may be less persuasive in a time of widespread tax avoidance and demands for more equitable sharing of the tax burden imposed by democratically elected parliaments [61] .  Likewise, there may be less inclination to adopt a construction of narrow literalism in the case of statutes imposing criminal liability.  Once it is reasonably clear that a larger operation is precisely what Parliament had in mind [62] , courts today will tend to give effect to that purpose. They will not now strain so much in the opposite direction.  It is difficult to justify an intermittent "purposive" interpretation of legislation.   Yet how can this general approach be reconciled with time honoured presumptions, expressed by judges of the common law, for decades, even centuries?
+
+In some instances, written contracts and statutes are today subject to the pressures of regionalism and globalism now operating upon contemporary legal systems.  In the field of international trade law, for example, stimulated by the increasing importance of electronic commerce, the United Nations Commission on International Trade Law (UNCITAL) has established a set of legal principles to harmonise the approaches of municipal legal systems to inter-jurisdictional disputes that could otherwise impede the growth of electronic commerce. Developments of this kind (which, in Europe, are reinforced by the institutions and laws of the European Union) will inevitably tend to reduce the adherence of common law systems to their old literalist traditions  [63] .  So much has been acknowledged in the recent report of the Irish Law Reform Commission, Statutory Drafting and Interpretation:  Plain Language and the Law [64] .
+
+The former approach to interpretation probably derived from an historical perception of the limited function of the judiciary in British constitutional arrangements [65] .  In contemporary circumstances, especially in countries with written constitutions which judges must interpret and uphold (sometimes against the will of an elected Parliament) a different judicial role is emerging.   Furthermore, no-one today views legislation as an unfortunate exception to the desirable operation of the judge-made principles of the common law and of equity, necessary only to correct rare cases where judge-made law has proved imperfect.  The old judicial attitude to interpretation may also have been reinforced by a belief that the legislature, which enacted statute law, was not fully representative of the community.  Half of it (women) played no part until the twentieth century.  Whilst that fact would not, in all probability, have seemed in the slightest inappropriate to the judges who expounded and applied the literalist rule, it was symptomatic of other perceived weaknesses in the legitimacy of parliamentary law.
+
+As modern legislatures have become more representative, and much more active in lawmaking, the literalist approach to interpretation became more anomalous.  The more recent advance of attempts to express legal texts in plain language, both in private instruments (such as written contracts) and in public instruments (such as statute law) has made the rule of literalism even more inappropriate.  Purposive construction has generally replaced it.  This approach is now commonly accepted in
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (5 of 12) [24/07/2002 9:56:26]
+
+both fields.  Butt and Castle put it this way  [66] :
+
+"To those who urge against the purposive or commercial approach to interpreting documents, two answers can be given.  First, the approach is now entrenched.  Judges are unlikely to return to a literal approach.  This reflects a movement in the law generally, away from conformity to a strict code and towards judgment on the merits".
+
+DIFFERENCES
+
+Having establishing a number of common themes in each sphere of interpretation, rooted deeply in the contemporary conception to the judicial function and stimulated by global and domestic legal developments, it remains to acknowledge that there are some points of distinction.  They result in differences between the way in which judges approach the construction of written contracts and the way that they approach the interpretation of legislation.
+
+Confronted with a question about the broad trends of contractual and statutory interpretation, most scholars, whatever their specialty, would insist upon the need for caution before embracing an overarching or "grand theory".  Generalities may mask important points of difference, inherent in the task of interpretation itself.  Each written contract and each legislative text is unique  [67] .  Each requires attention to its own peculiar features if its meaning is to be ascertained in an accurate and convincing way [68] .
+
+This said, there are a number of general features of each form of legal instrument that may make it dangerous to assume that exactly the same approach to interpretation will be apt for both:
+
+*       A written contract is typically an agreement between a small number of identified parties (commonly only two), to be bound to certain legal consequences in terms that they mutually agree upon.  A statute, or law made under statute, ordinarily has a much wider application.  It is addressed to the entire community affected.  Further, a statute typically has not only a wider ambit and application.  It also generally enjoys a longer duration and typically, more coercive consequences in the case of a breach.
+
+*       The fact that, normally, a statute will have a broader and more enduring operation means, inevitably, that different considerations commonly inform the giving of meaning to the text.  This is especially so in the case of a written national or state constitution, difficult to amend. In such a case, every word tends to take on a broader operation and hence a wider meaning.  This makes notions of limiting the language of that particular from of legislation, to the "intentions" of the drafter, quite inappropriate [69] .  Although there are still some traditionalists who adhere to the notion that constitutional language must be construed strictly, by reference to the intentions of the founding fathers [70] , that naive view is now largely discarded.  This point was made recently, in the context of the Australian constitutional provision referring to the federal legislative power with respect to "marriage"  [71] .  In 1900, when the Australian Constitution was enacted by the Imperial Parliament, that word would undoubtedly have been interpreted as meaning only the permanent civil union between two persons of the opposite sex for the life to the exclusion of all others.  Today it might be construed as referring to same-sex marriages.  Such has undoubtedly been the advance in the concept of "marriage" in the Netherlands.  In a private written contract, the time frame is normally much shorter; the focus narrower. In particular circumstances, the context might demonstrate that "marriage" had a special and wider meaning in a written contract or will  [72] .  However, the considerations available for expanding the denotation of words are different in different instruments, having regard to their differing purposes, scope and duration.
+
+*       The same point may be made with respect to ordinary legislation.  It is illustrated by the meaning given by the House of Lords to the word "family" in Fitzpatrick v Sterling Housing Association  [73] . The legislation in question dated back, originally, to 1915.  At that time, "family" would not, subjectively or objectively, have had, or been construed to have, application to the survivor of a same-sex relationship.  Yet in 1999 the House of Lords majority held that, in contemporary England, the concept was broad enough to have that operation  [74] .  This "purposive" construction of the statute, adopted by the majority in that case, was probably influenced by notions about the justice of the case, the avoidance of unfair discrimination and contemporary ideas of fairness.  In a particular case, some of these considerations might influence the interpretation of a private instrument such as a written contract or a will.  However, in the ordinary case they would be much less
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (6 of 12) [24/07/2002 9:56:26]
+
+likely to play a role in the interpretation of such a document.  This is so because the statute has a general application to society and the legal effect of the private instrument is ordinarily confined to the parties.
+
+*       Although specific statutes have been enacted to govern the interpretation of written contracts or particular contractual provisions  [75] , sometimes having the consequence of avoiding their legal effect, normally the interpretation of a written contract will be controlled by the rules of the common law.  On the other hand, a statute, or subordinate instrument made under statute, will be governed by detailed rules established by legislation, including the Interpretation Acts that, in every jurisdiction, provide basic rules for elucidating the meaning of legislation.  Such rules are often quite particular.  To the extent that they depart from the principles of the common law, they impose their own peculiar regimes which must be obeyed in statutory interpretation. Many of the rules are innocuous enough.  However, some might not necessarily coincide with a contemporary common law approach to interpretation.  For example, in Australia, one of the general provisions of the Acts Interpretation Act 1901 (Cth) is s 13(3).  That sub-section provides that:  "No marginal note, footnote or endnote to an Act, and no heading to a section of an Act, shall be taken to be part of the Act".  It is by no means obvious (at least in the absence of an express written provision to like effect) that the same approach would now be taken by the common law to a marginal note, footnote, endnote or heading in a written contract. The regimes of interpretation are therefore, in such respects, different by virtue of statutory provisions.  Where a statute applies its regime must be obeyed  [76] .
+
+*       Whilst a written contract between private parties having large consequences may, on occasion, involve the need for great precision and go through many drafts, ordinarily there is less formality about most written contracts.  At least this is so when compared to the preparation of legislation.  In the nature of writing that expresses binding public law, legislation is addressed to the community at large and usually has no stated termination date. It is typically prepared by highly trained and expert parliamentary counsel.  It is ordinarily accompanied by explanatory memoranda.  It is introduced into the legislature with a ministerial second reading speech.  Typically, this degree of formality is missing from private instruments.  Lacking a public purpose, they will also lack the same kinds of extrinsic materials, available on the public record to help elucidate their meaning.   Different extrinsic materials may be available in the case of a written contract, including earlier drafts, if any, and any admissible details of prior negotiations  [77] .  But whereas it is possible, by the law of rectification or by invoking equitable remedies, sometimes to afford relief from, or correction of, the language of a private contract, the remedies in a case where the text of a public law has miscarried are much more restricted.  Unless a court can properly construe the legislation to overcome a perceived deficiency, the only solution is a political one:  repeal of the statute or revocation of the statutory instrument.  If the statutory provision is valid and clear, a court may not ignore it or frustrate its implementation [78] .  A contract may have legal consequences  as between the parties to it.  But it is not, as such, part of the general law. A statute, because of the democratic legitimacy of its origins, has a higher force that attracts to it the greater authority conventionally ascribed to its source.
+
+*       Whereas, in the view of some, subsequent conduct of the parties may sometimes be available to throw light on the meaning of the provisions of a written contract, it is less likely that the subsequent conduct of the Executive Government in implementing a law would influence a court to construe the law in a way different from the meaning conveyed by the text [79] .  There can be no estoppel by governmental action or inaction against the binding requirements of valid legislation.
+
+CONCLUSIONS
+
+It is surprising that there has not been more consideration of the points in common, and points of difference, in the approach of the law to the interpretation of written contracts and statutory texts.  Perhaps the reason for this reticence in the past is indeed the division of scholarly expertise between those who are involved in private and public law.  If this is the explanation, it is breaking down.  Such is the expansion of parliamentary law-making that few important written agreements today can be drafted without some regard to statute law, if only the law on taxation and trade practices.  Stimulated by international and regional developments, and by the moves for clearer drafting of legal documents in plain English, the words of contractual and statutory expression are, to some extent, coming closer together.
+
+This development has occurred at a time when judges have generally abandoned
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (7 of 12) [24/07/2002 9:56:26]
+
+the pretence of the declaratory theory of their function.  Most judges today candidly acknowledge the choices that they must make, including in the task of the interpretation of contested language.  A notion that there is but one meaning of words, whether in a private contract or a public statute, and that the role of the judge is the mechanical one of declaring that meaning, has given way to an acknowledgment of the complexity of the process of interpretation  [80] .  This change has been stimulated by a diminished judicial adherence to the formalism of rules and by a heightened concern to attain just outcomes in particular cases.  In the field of interpretation of private contracts, it has produced a greater willingness to adopt contextual interpretation with the benefit of a more wholehearted endeavour to construe the document in its entirety [81] .  In the case of statutes, it has produced the abandonment of literalism in favour of the "purposive approach", stimulated by legislative instruction and encouraged by a greater judicial willingness to use extrinsic materials to assist in the task of construction.
+
+Although the winds of change continue to blow in the field of interpretation of public and private texts, practical considerations still restrict the attempt to remove completely the focus of attention on the contested words themselves.  Nor should that focus be lost.  Realism requires the acknowledgment of differing judicial inclinations to look beyond the text and to utilise available extrinsic materials.  Such disparities of attitude are often connected with the differing judicial inclinations to let go of the declaratory theory of the judicial function in a world where there is, as yet, no agreement about the theory that is to take its place.
+
+The current trend may invite a tendency for judges, on some occasions, to concentrate on the words and on others to view those words in a wider context without adequately defining the reasons for the differentiation.  Interpretation is often, at base, an intuitive process of judgment.  Just as the parties to contracts and the drafters of statutes have difficulties in conveying their precise meaning in language (assuming that they had a precise meaning to convey) so judges may have difficulty in explaining exactly why they chose one interpretation over another.  The rule of law suggests that there should be a discriminating reason and that judges should be obliged to identify and justify it.  Yet the limitations inherent in the communication of the thoughts of one person to another through the medium of language may laugh at our human endeavours to impose on the function of interpretation of written texts a scientific precision that the task simply cannot bear  [82] .
+
+It is obvious enough that both for contractual interpretation and statutory construction, the doctrine of the "plain meaning" and literal interpretation have, so far as they purported to provide a self-contained universe for interpretation, been overthrown.  Ironically perhaps, this is a desirable development for the introduction of simpler, plainer language in documents having legal consequences.  The move to plain English in legal expression could make no real headway whilst the old doctrine prevailed.  But where exactly we go from here in the task of interpretation is less certain.  And it is less certain still how far public and private instruments, with their different characteristics and purposes, support a common approach.
+
+*   Justice of the High Court of Australia.  A patron of Clarity.
+
+[1]     Harris v Ashdown (1985) 3 NSWLR 193 at 199-200 (The prima facie rule of construction that a "child" in a will meant only a legitimate child of the testator was overruled.)
+
+[2]     eg Ankar Pty Ltd v National Westminster Finance (Australia) Ltd (1987) 162 CLR 549 at 560, 573; cf Tricontinental Corp Ltd v HDFI Ltd (1990) 21 NSWLR 689; J Gava, "The Perils of Judicial Activism:  the Contracts Jurisprudence of Justice Michael Kirby" (1999) 15 Journal of Contract Law 156 at 164.
+
+[3]     DeL v Director-General, NSW Department of Community Services (1996) 187 CLR 640 at 683; Applicant A v Minister for Immigration and Ethnic Affairs (1997) 190 CLR 225 at 252-256, 293-295; cf Royal Botanic Gardens and Domain Trust v South Sydney City Council (2002) 76 ALJR 436 at 449 [69].
+
+[4]     S van Schalkwyk, "Subsequent Conduct as an Aid to Interpretation" (2000) 7 Canterbury Law Review 541 at 543; cf Royal Botanic (2000) 76 ALJR 436 at 455 [102].
+
+[5]   Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896 at 912 per Lord Hoffmann; Mennai Investments Co Ltd v Eagle Star Life
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (8 of 12) [24/07/2002 9:56:26]
+
+Assurance Co Ltd [1997] AC 749 at 774-775.  See also Bank of Credit and Commerce International SA v Ali [2001] 2 WLR 735 at 739; [2001] 1 All ER 961 at 965 per Lord Bingham of Cornhill.
+
+[6]   Codelfa Constructions Pty Ltd v State Rail Authority of NSW (1982) 149 CLR 337 at 350-352 per Mason J; Royal Botanic (2002) 76 ALJR 436 at 445 [39], 455 [102]; Maggbury Pty Ltd v Hafele Aust Pty Ltd (2001) 76 ALJR 246 at 248 [11].
+
+[7]     Air New Zealand Ltd v Nippon Credit Bank Ltd [1997] 1 NZLR 218; Attorney-General v Dreux Holdings Ltd (1996) 7 TCLR (NZ) 617 at 632; D W McLauchlan, "The New Law of Contract Interpretation" (2000) 19 New Zealand Universities Law Review 147.
+
+[8]   McLauchlan, above n 7, 175.
+
+[9]   McLauchlan, above n 7, 175; Gava, above, n 2, 173.
+
+[10]    Lord Hailsham, Hamlyn Revisited:  The British Legal System Today  (Hamlyn Lectures), 65 cited F Bennion, Statutory Interpretation - A Code (3rd ed, 1997).  His Lordship said that nine tenths of the cases heard in the Court of Appeal involved questions of statutory interpretation.  See also J J Spigelman, "The Poet's Rich Resource:  Issues in Statutory Interpretation" (2001) 21 Australian Bar Review 224.
+
+[11]    K M Hayne, "Letting Justice Be Done Without the Heavens Falling In" (2001) 27 Monash Uni Law 12.
+
+[12]    Roy Morgan Research Centre Pty Ltd v Commissioner of State Revenue (Vic) (2001) 75 ALJR 1342 at 1351 [46]; Victorian WorkCover Authority v Esso Australia Ltd (2001) 75 ALJR 1513 at 1526-1527 [63]; Allan v Transurban City Link Ltd (2001) 75 ALJR 1551 at 1561 [54]; The Commonwealth v Yarmirr (2001) 75 ALJR
+
+1582 at 1620 [249]; Conway v The Queen (2002) 76 ALJR 358 at 371 [65].
+
+[13]    Levy v Victoria (1997) 189 CLR 579 at 637-638.
+
+[14]   Schenck v Pro Choice Network of Western New York  137 Law Ed 2d 1; 117 S Ct 855 (1977).
+
+[15]   Before European settlement, Aboriginal Australians did not communicate in a written language.
+
+[16]    R v Brown [1996] 1 AC 543 at 561 per Lord Hoffmann; applied Collector of Customs v Agfa Gevaert Ltd (1996) 186 CLR 389 at 397; Minister for Immigration and Multicultural Affairs v Khawar (2002) 76 ALJR 667 at 685-686 [109]; SGH Ltd v Commissioner of Taxation (2002) 76 ALJR 780 at 797 [88].
+
+[17]    cf J Hellmer, "Interpretation of Contracts under the Influence of Statutory Laws" in Essays in Honour of John Henry Merryman (1990), 173.
+
+[18]    Stock v Frank Jones (Tipton) Ltd [1978] 1 WLR 231 at 236 per Lord Simon of Glaisdale.
+
+[19]    eg Acts Interpretation Acts in the case of statutes and Sale of Goods Acts or unfair or unconscionable contacts legislation, in the case of contracts.  See J Hellmer, above n 17, 173 at 178.
+
+[20]    eg Prenn v Simmonds [1971] 1 WLR 1381 at 1383-1384; Reardon Smith Line Ltd v Yngvar Hansen-Tangen [1976] 1 WLR 989 at 996; cf Codelfa Construction Pty Ltd v State Rail Authority of NSW (1982) 149 CLR 337 at 350-352.
+
+[21]    K & S Lake City Freighters Pty Ltd v Gordon and Gotch Ltd  (1985) 157 CLR 309 at 315 per Mason J citing Attorney-General v Prince Ernest Augustus of Hanover [1957] AC 436 at 461.
+
+[22]   Investors Compensation [1998] 1 WLR 896 at 912-913.
+
+[23]    Wik Peoples v Queensland (1996) 187 CLR 1 at 168-169; The Commonwealth v Yarmirr (2001) 75 ALJR 1582 at 1633 [261]-[262]; cf Black Clawson International Ltd v Papierwerke AG [1975] AC 591 at 629-630.
+
+[24]    Brodie v Singleton Shire Council (2001) 75 ALJR 992 at 1056 [325] per Hayne J; 180 ALR 145 at 233 referring to Byrne v Australian Airlines Ltd (1995) 185 CLR 410 at 458-459.
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (9 of 12) [24/07/2002 9:56:26]
+
+[25]    S van Schalkwyk, above n 4, 552.
+
+[26]    Royal Botanic (2002) 76 ALJR 436 at 455 [103].
+
+[27]    S van Schalkwyk, above n 4, 543 citing Norton on Deeds (2nd ed, 1928), 20.  The author of that text says that:  "The question to be answered always is 'What is the meaning of what the parties have said?' not 'What did the parties mean to say?' … It being a presumption … that the parties intended to say what they have said".
+
+[28]    L Schuler AG v Wickman Machine Tool Sales Ltd  [1974] AC 235 at 251 per Lord Reid ["The more unreasonable the result the more  unlikely it is that the parties can have intended it".]
+
+[29]    CIC Insurance Ltd v Bankstown Football Club Limited (1997) 187 CLR 384 at 408; Newcastle City Council v GIO Ltd (1997) 191 CLR 85 at 112-113; Project Blue Sky Ltd v Australian Broadcasting Corporation (1998) 194 CLR 355 at 381 [69], 384 [78].
+
+[30]   McLauchlan, above n 7, 150 citing Lord Hoffmann's remarks in Investors Compensation [1998] 1 WLR 896 at 913.
+
+[31]    eg Acts Interpretation Act 1901 (Cth), s 15AA.
+
+[32]    eg Acts Interpretation Act 1901 (Cth), s 15AB.
+
+[33]    eg the rule in Heydon's Case (1584) 3 Co Rep 7a; 76 ER 637; Fothergill v Monarch Airlines Ltd [1981] AC 251 at 272; Pambula District Hospital v Herriman (1988) 14 NSWLR 387 at 410.
+
+[34]    Cole v Whitfield (1988) 165 CLR 360 at 386-392 (use of the pre-constitution Australian convention debates in aid of construction).
+
+[35]    Black Clawson International Ltd v Papierwerke AG [1975] AC 591 at 613-614, 629, 643-644; Pepper v Hart [1993] 1 All ER 42 at 50.
+
+[36]    P M Perell, "The Ambiguity Exception to the Parol Evidence Rule" (2001) 36 Canadian Business Law Journal 21 at 28 referring to the uncertainty of the differentiation between "patent and latent ambiguities".
+
+[37]   Investors Compensation [1998] 1 WLR 896 at 912, per Lord Hoffmann.
+
+[38]    eg Royal Botanic (2002) 76 ALJR 436 at 445 [39]; Maggbury (2001) 76 ALJR 246 at 248 [11]; cf Codelfa (1983) 149 CLR 337 at 350-352.
+
+[39]   Codelfa (1983) 149 CLR 337 at 352; Royal Botanic (2002) 76 ALJR 436 at 445 [39]; 456 [104]. In Manufacturers' Mutual Insurance Ltd v Withers (1988) 5 ANZ Insurance Cas Â¶60-853 at 75, 343, McHugh JA pointed out that "Few, if any, English words are unambiguous or not susceptible of more than one meaning or have a plain meaning.  Unless a word, phrase or sentence is understood in the light of the surrounding circumstances, it is rarely possible to know what it means"; cf B & B Constructions v Brian A Cheesman (1994) 35 NSWLR 227 at 235.
+
+[40]    Royal Botanic (2002) 76 ALJR 436 at 449 [71].  See also B & B Constructions (1994) 35 NSWLR 227 at 234; McLauchlan, above n 7, 171.
+
+[41]    B & B Constructions (1994) 35 NSWLR 227 at 234.
+
+[42]    Re Bolton; Ex parte Beane (1987) 162 CLR 514 at 518; Federal Commissioner of Taxation v Ryan (2000) 201 CLR 109 at 145; Saraswati v The Queen (1991) 172 CLR 1 at 22.
+
+[43]    M H McHugh, "The Law-making Function of the Judicial Process" (Pts 1 & 2) (1988) 62 Australian Law Journal 15, 116.
+
+[44]    Lord Wensleydale's "golden rule" originated in Grey v Pearson (1857) 6 HLC 61 at 106; 10 ER 1216 at 1234. It was stated in the context of "construing wills and indeed statutes and all written instruments".
+
+[45]    eg James Hardie Co Pty Ltd v Wootten  (1990) 20 NSWLR 713 at 719, per Meagher JA; cf Oceanic Sun Line Special Shipping Co Inc v Fay (1998) 165 CLR 192 at 252; Northern Territory v Mengel (1995) 185 CLR 307 at 347.
+
+[46]    Royal Botanic (2002) 76 ALJR 436 at 449 [68]; A Vermeule, "The Cycles of
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (10 of 12) [24/07/2002 9:56:26]
+
+Statutory Interpretation" 68 Uni of Chicago Law Rev 149 at 186 (2001).  In the report of the Irish Law Reform Commission, Statutory Drafting and Interpretation  (2000) at 19 [2.34] it is stated that:  "Judges have … differed in their views as to how far one can go …".  This is probably an Irish understatement.
+
+[47]    Lord Reid, "The Judge as Lawmaker" (1972) 12 Journal of Public Teachers of Law 22.
+
+[48]   McLauchlan, above n 7, 147.
+
+[49]   Johnson v American Home Assurance Co (1998) 192 CLR 266 at 274 [19.4].
+
+[50]   Cambridge University Press (2001) 47.  Footnotes omitted.
+
+[51]    Scott v Cawsey (1907) 5 CLR 132 at 154-155; The King v Adams (1935) 53 CLR 563 at 567-568; Smith v Corrective Services Commissioner (1981) 147 CLR 124 at 139; Piper v Corrective Services Commission of NSW (1986) 6 NSWLR 352.
+
+[52]    Inland Revenue Commissioners v Westminster (Duke)  [1936] AC 1 at 24-25; Anderson v Commissioner of Taxation (Vic)  (1937) 57 CLR 233 at 239; Western Australian Trustee Executor and Agency Co v Commissioner of State Taxation (WA) (1980) 147 CLR 119 at 127.
+
+[53]   Bropho v Western Australia (1990) 171 CLR 1 at 17-18; Coco v The Queen (1994) 179 CLR 427 at 437; R(Morgan Grenfell Ltd) v Special Commissioner  [2002] 2 WLR 1299.
+
+[54]   Durham Holdings Ltd v New South Wales (2001) 75 ALJR 501 at 506-507 [29]-[32].
+
+[55]    Re Refugee Tribunal; ex parte Aala  (2000) 203 CLR 82 at 121 [101], 130 [129].
+
+[56]    Butt and Castle, above n 50, 58.
+
+[57]   McCann v Switzerland Insurance Australia Ltd  (2000) 203 CLR 579 at 600-602 [74].
+
+[58]   Pepper v Hart [1993] 1 All ER 42 at 50, per Lord Griffith.
+
+[59]    DPP (Ivers) v Murphy [1999] 1 ILRM 46 per Denham J.  See Irish LRC 61-200, 15-16 [2.18]-[2.22]; cf Krackouer v The Queen (1998) 194 CLR 202 at 223 [62]; KRM v The Queen (2001) 75 ALJR 550 at 570 [99].
+
+[60]   Kingston v Keprose Pty Ltd (1987) 11 NSWLR 404 at 423-424 per McHugh JA; approved Bropho v Western Australia (1990) 171 CLR 1 at 20.
+
+[61]   Federal Commissioner of Taxation v Westraders Pty Ltd  (1980) 144 CLR 55 at 80 per Murphy J (diss); Cooper Brookes (Wollongong) Pty Ltd v Federal Commissioner of Taxation (1981) 147 CLR 297 at 321 per Mason and Wilson JJ.
+
+[62]    The decision of the Supreme Court of Ireland in DPP (Ivers) v Murphy [1999] 1 ILRM 46 is an illustration.
+
+[63]   Hellmer, above n 17, 178; Spigelman, above n 10, 225.
+
+[64]    LRC 61-2000 (Dec 2000), 33-34.  See also Law Commission of England and Wales and Scottish Law Commission The Interpretation of Statutes (Law Com 21) (1969); cf Royal Botanic (2002) 76 ALJR 436 at 455 [103].
+
+[65]    M Schwarzschild, "Mad Dogmas and Englishmen: How Other People Interpret and Why" in J Goldsworthy and T Campbell, Legal Interpretation in Democratic States (2002) 105-109; cf Vermeule above n 46, 161 citing Lieber's analysis (1839).
+
+[66]    LRC 61-2000, ibid, 50.
+
+[67]   Perrell, above n 36, 22.
+
+[68]   Hellmer, above n17, 182.
+
+[69]    Grain Pool of WA v The Commonwealth (2001) 202 CLR 479 at 522-525 [110]-[118]; cf D Meagher, "New Day Rising?  Non-originalism, Justice Kirby and Section 80 of the Constitution" (2002) 24 Sydney Law Review 141.
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (11 of 12) [24/07/2002 9:56:26]
+
+[70]    N Scalia, A Matter of Interpretation:  Federal Courts and the Law  (1997); D Znotnik, "Justice Scalia and his Critics:  An Exploration of Scalia's Fidelity to his Constitutional Methodology", 48 Emory Law Journal 1377 (1999).
+
+[71]    Re Wakim; Ex parte McNally (1999) 198 CLR 511 at 553 [45], per McHugh J.
+
+[72]    cf R Sullivan, "Some Implications of Plain Language Drafting" (2001) 22 Statute Law Review 175 at 194-195 referring to Canada v Perrier [1996] 1 FC 586 (CA) [14] per Linden JA.
+
+[73]   [1999] 3 WLR 113.  See also Yuill v Corporate Affairs Commission  (1990) 20 NSWLR 386 at 402; ACCC v Daniels Corporation International Pty Ltd  (2001) 108 FCR 123 at 142 [72].  Contrast the approach of Brennan J in Corporate Affairs Commission v Yuill (1991) 172 CLR 319 at 322-323.
+
+[74]    A Samuels, Current Developments - "How to Construe Statutory Language which has Changed its Meaning in Ordinary Usage:  Fitzpatrick v Stirling Housing Association" (2001) 22 Statute Law Review 154; DC Pearce and RS Geddes Statutory Interpretation in Australia (4th ed, 2001) para 4.6; cf Spigelman, above n 10, 224.
+
+[75]    eg Trade Practices Act 1974 (Cth) and Contracts Review Act 1980 (NSW).  In New Zealand, Parliament has enacted the Contractual Mistakes Act 1977 (NZ), granting power to courts to afford relief where certain types of mistakes have occurred in the formation of contracts.  See van Schalkwyk, above n 4, at 551.
+
+[76]   Sullivan, above n 72, 203.
+
+[77]    Prenn v Simmonds [1971] 1 WLR 1381 at 1384-1385; Investors Compensation [1998] 1 WLR 896 at 912-913 (Principle 3); McLauchlan, above n 7, 149, 170-171.
+
+[78]   Durham Holdings Ltd v New South Wales (2001) 75 ALJR 501 at 513-515 [60]-[70]; Vanit v The Queen (1997) 149 ALR 1 at 11; Yuill v Corporate Affairs Commission (1990) 20 NSWLR 386 at 402-403.
+
+[79]    White v ANZ Theatres Pty Ltd (1943) 67 CLR 266 at 271, 281; Royal Botanic (2002) 76 ALJR 436 at 457 [109]-[112]; Hide and Skin Trading Pty Ltd v Oceanic Meat Traders Ltd (1990) 20 NSWLR 310 at 315, 328; cf L Schuler AG v Wickman Machine Tool Sales Ltd [1974] AC 235 at 268; Attorney-General (NZ) v Dreux Holdings Ltd (1996) 7 TCLR (NZ) 617  per Thomas J (diss); Valentines Properties Ltd v Huntco Corp Ltd [2000] 3 NZLR 16 at 27; McLauchlan, above n 7 at 172-173.
+
+[80]    See eg Malika Holdings Pty Ltd v Stretton  (2001) 75 ALJR 626 at 644-645 [103], [121]; SGH Ltd v Commissioner of Taxation  (2002) 76 ALJR 780 at 900 [97].
+
+[81]    Van Schalkwyk, above n 4, at 543; Butt and Castle, above n 50, 41.
+
+[82]    R Dworkin, Law's Empire (1986), ch 5.
+
+
+
+
+
+THE CASE OF STATUTES AND CONTRACTS
+
+http://www.hcourt.gov.au/speeches/kirbyj/kirbyj_statute.htm (12 of 12) [24/07/2002 9:56:26]
+

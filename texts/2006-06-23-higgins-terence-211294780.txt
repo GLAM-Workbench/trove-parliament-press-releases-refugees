@@ -1,0 +1,438 @@
+THE APPLICATION OF HUMAN RIGHTS AND THE JUDICIAL SYSTEM
+
+(Revised) Paper presented by Chief Justice Terence Higgins at the  Australian Lawyers Alliance ACT Branch Conference  23 June 2006, Hyatt Hotel Canberra*
+
+I. Introduction
+
+Ladies and Gentlemen, my warm thanks for inviting me to take part in the Australian
+
+Lawyers Alliance ACT Branch Annual Conference once again. At last year’s
+
+conference I addressed the “Wrongful life” cases that were pending hearing in the
+
+High Court. I spoke then of the two courses available to the Court: to take a traditional
+
+legal approach and hence deny the respective plaintiffs’ claims, or else take an
+
+unorthodox approach and thereby provide both plaintiffs the opportunity to live their
+
+difficult lives with greater dignity.1 This year, I find myself about to discuss very
+
+similar themes - not in the context of tort law, but under the heading of “Human
+
+Rights and the Judicial System”.
+
+
+
+Human rights is an apt focus for this year’s forum. Australians have as much reason
+
+as ever to be sceptical of Executive action. With “Children Overboard” now a fading
+
+memory, the Australian public can only watch dumbfounded as it learns that it was
+
+easier for an isolated community to rescue miners trapped beneath a kilometre of rock
+
+than it was for Australia’s top military and political brass to repatriate Private Jake
+
+Kovko’s body. In “The War on Terror” we have seen draconian anti-terror legislation
+
+enacted; an immigration policy subjecting children to mandatory detention; an
+
+emigration policy of deporting Australian citizens who are in urgent need of medical
+
+help exposed - all while battles are being fought between Australians on Sydney
+
+beaches and at suburban football games. Now, more than ever, the judiciary is being
+
+called upon to stand up for individual rights against a tide of public opinion.2
+
+
+
+There is, however, hope on the horizon. It is almost two years since the Human Rights
+
+Act 2004 (ACT) commenced. At the time of writing the Victorian Parliament had
+
+
+
+*  The initial version of this paper contained typographical errors. I thank Anna Haynes and John  Plumidis for their research and contribution to this paper.  1
+
+See Higgins, Chief Justice Terence, “Wrongful Life: Tricky Stuff, but Someone has to do it” (Paper  presented at ACT ALA 2005 Annual Conference, Canberra, 24 June 2005).   2  Compare, perhaps, the circumstances of the Australian Communist Party v Commonwealth  (‘Communist Party case’) (1951) 83 CLR 1.
+
+2
+
+tabled similar legislation3 and hopefully New South Wales will follow. These are
+
+signs that, at least at State and Territory level, legislators are alert to the human rights
+
+issues that exist at both a domestic and international level.
+
+
+
+Unlike parliaments, election cycles do not influence decision-making by courts.
+
+Rather, at least since Federation, the judiciary has built a framework for the protection
+
+of rights in this country. To see this we may look to cases such as DPP (NSW) v
+
+Kable, recognising a form of the separation of powers doctrine at State level; A v
+
+Hayden, confirming that the rule of law is more than just a phrase; and Applicant
+
+S157, recognising that legislatures cannot completely oust the inherent power of
+
+courts to review administrative action.4 Further, the common law has, to a tangible
+
+extent, been shaped by human rights concerns. Without going into specific detail, I
+
+would highlight Dietrich, Mabo, Kartinyeri and the so-called ‘wrongful life’ cases
+
+Harriton and Waller.5
+
+
+
+In short, there does exist a robust framework for judicial protection of human rights.
+
+But it has limitations. For example, much of what the Executive does is simply not
+
+justiciable. Also, there is a limit to how activist courts can be in performing their
+
+judicial function.
+
+
+
+I will divide what I have to say on human rights and the judiciary into two parts. The
+
+first part is the broad perspective. I will discuss what a culture of human rights means
+
+for the judiciary in general terms; and address whether a culture of the type
+
+encouraged by the ACT Human Rights Act is the best means of maintaining that
+
+culture.  I will also review my recent decision in SI v KS. The second part will be
+
+confined to looking at individual ‘hard cases’ and their human rights implications.
+
+
+
+II. Human Rights and the Judiciary - the Broad Perspective
+
+A true culture of human rights in the judiciary must be supported by outcomes. The
+
+question is how to achieve those outcomes. In a speech earlier this year in honour of
+
+
+
+3  See Charter of Human Rights and Responsibilities Bill 2006 (Vic), tabled 2 May 2006.  4  Kable v DPP (NSW) (1996) 189 CLR 51; A v Hayden (1984) 156 CLR 532; Plaintiff S157/2002 v  Commonwealth of Australia (2003) 211 CLR 476.
+
+3
+
+Lord Scarman, Justice Kirby contrasted the approach of two English judges: the
+
+traditional, conservative judicial style of Scarman against the creative, often activist
+
+style of Lord Denning.6 Both jurists are renowned for their contributions to the law.
+
+However, whereas Denning suffered criticism for his hand in pioneering new
+
+equitable or common law remedies in the interests of justice,7 Scarman went about his
+
+judicial task with strict conservative consistency with the view that major change is
+
+better left to Parliament.
+
+
+
+The Scarman philosophy is, to some extent, evident in the ACT’s present Human
+
+Rights Act. The primary aim of the Act is to:8
+
+…establish a ‘dialogue model’ for the protection of human rights in the ACT.
+
+The long-term aim is to ‘build a human rights culture’ of tolerance and
+
+respect for human rights reflecting the shared values of Canberrans.
+
+
+
+This goal is a noble one. Certainly, the Act promotes dialogue.9 However, and I say
+
+this somewhat light-heartedly, a true culture of human rights is like love; like peace;
+
+like litigation - dialogue is merely a starting point.10 Litigation commences with
+
+parties talking at each other, until, hopefully, they start speaking to each other. The
+
+road to peace from war also commences with dialogue, often following defeat,
+
+disarmament or the oil wells running dry. As for love - it is enough to say that
+
+dialogue is usually the starting point, maybe after first sight.
+
+
+
+In relation to the judiciary, the consequences of the Act are subtle. It does not, for
+
+example, create a tort of privacy (as exists in the United Kingdom11) nor any other
+
+new cause of action. Rather, the Act mandates a particular approach to statutory
+
+
+
+5  Dietrich v R (1992) 177 CLR 292; Mabo and Others v Queensland (No. 2) (‘Mabo’) (1992) 175 CLR  1; Kartinyeri v Commonwealth of Australia (‘Hindmarsh Island Bridge Case’) (1998) 195 CLR 337;  Harriton v Stephens [2006] HCA 15; Waller v James, Waller v Hoolahan [2006] HCA 16.  6
+
+Kirby, Justice Michael, “Law Reform and Human Rights - Scarman's Great Legacy” (Speech  delivered as the inaugural Scarman Lecture, London, 20 February 2006).  7  See eg Anton Piller KG v Manufacturing Processes Ltd [1976] 1 All ER 779.  8
+
+ACT Department of Justice and Community Safety, “Human Rights Act 2004: Twelve-Month  Review - Discussion Paper” (2006), 2.  9  See Human Rights Act 2004 Pts 5 (formal scrutiny of proposed Territory laws for consistency with  human rights), 6 (the office of Human Rights Commissioner), s 41(1)(b) (a function of the  Commissioner to provide education about human rights and the Act).  10
+
+Cf English v Rogers & Anor [2005] NSWCA 327 at [44].  11  See Campbell v MGN Ltd [2004] 2 All ER 995; [2004] UKHL 22.
+
+4
+
+interpretation and, if an interpretation consistent with human rights is not possible,
+
+allows a court to make a declaration of incompatibility.12
+
+
+
+Because of this subtle approach, it is easy to criticise the Act for not going far enough
+
+in its protection of rights. Courts do not require a legislative instruction to interpret
+
+legislation consistently with human rights. Nor do courts require a legislative mandate
+
+to criticise law, be it the common law or an Act of Parliament. They do it anyway,
+
+albeit some judges do so more than others. Significantly, the Act does not provide that
+
+the breach of a human right will automatically sound in damages or any other
+
+remedy.13 Nonetheless, I would still say that the Act has had a positive effect on the
+
+jurisprudence of the Territory. The case I will highlight is my judgment in SI v KS,14
+
+handed down in December of last year.
+
+
+
+The case was, to say the least, unusual. It was an appeal from a decision purportedly
+
+made by an ‘unidentified magistrate’, but in fact by a Registrar, to issue a final
+
+protection order in place of an interim protection order without hearing from the
+
+subject of the order, who had attended at court at the time and place notified as the
+
+date for hearing. It was an appeal that could have been upheld on a number of bases.
+
+One was that an Executive officer had purportedly exercised a judicial function.15
+
+Another was that the respondent to the order was denied a fair and public hearing.16 A
+
+further reason was that the subject of the order was a child who was not represented
+
+by a legal guardian.17 As I said, the appeal was an unusual one, in that the doctrine of
+
+separation of powers, the right to a fair trial and the rule of law were simultaneously
+
+breached.
+
+
+
+In the result, I upheld the appeal on the basis that the statute under which the order
+
+was made had not been complied with.18 On its face the relevant provision could have
+
+been construed in a way that could have allowed the final order to be made
+
+notwithstanding the injustice this would cause. However, the relevant provision had
+
+
+
+12  Human Rights Act 2004 (ACT) Pt 4.  13  Although Human Rights Act 2004 s 23 entitles a wrongfully convicted person to damages.  14
+
+SI bhnf CC v KS bhnf IS [2005] ACTSC 125.  15  Ibid, [99]-[103].  16
+
+Ibid, [104]-[105]  17  Ibid, [104].  18
+
+Ibid, [98], [113].
+
+5
+
+been scrutinised by a standing committee which had reported it to be consistent with
+
+human rights. I interpreted the provision accordingly.
+
+
+
+I highlight SI because it is a case where the traditional judicial approach for protecting
+
+human rights can be compared with the Human Rights Act regime. Absent significant
+
+judicial activism, for example, by invoking the inherent jurisdiction of the court to do
+
+justice in the Territory,19 the Human Rights Act cannot be used as a sword in the same
+
+way as the common law or a Constitution. Although SI demonstrates that the Act can
+
+have some utility in the right circumstances there are, regrettably, a number of “hard
+
+cases,” both criminal and civil, where courts are required to deal with difficult issues
+
+in the absence of guiding legislation. Let me provide examples.
+
+
+
+III. Human Rights and the Judiciary - Hard Cases
+
+A sentencing matter before me was for an offence involving a despicable act of
+
+indecency against two children. This matter was committed to the Supreme Court for
+
+sentencing. When the sentencing proceedings came before me three complicating
+
+factors became apparent. First, the offender is affected by a mental illness that had
+
+been undiagnosed for some time. Second, the offender is not an Australian citizen, but
+
+an asylum seeker with a poor command of English. Third, at the time of the hearing,
+
+he had been kept in custody at Belconnen Remand Centre for almost 18 months.
+
+
+
+It was apparent that the sentencing would have to adjourned so that the offender could
+
+be referred to the Mental Health Tribunal. But for that fact, I would have imposed a
+
+sentence of imprisonment with a non-parole period of 18 months. At issue was
+
+whether, pending the Mental Health Tribunal proceedings, the offender should
+
+continue to be detained in custody, and thereby serve a sentence longer in custody
+
+than he would otherwise have had to.
+
+
+
+In such a case a balancing act is required. The offence was serious. There was a high
+
+risk that the offender would re-offend if released into the community. The community
+
+has a right to be protected, and, in particular, children have the right to be protected as
+
+
+
+19  Supreme Court Act 1933 s 20(1)(a). See eg R v YL (2004) 187 FLR 84; R v Upton [2005] ACTSC 52;  R v Martiniello [2005] ACTSC 9.
+
+6
+
+the most vulnerable members of our community. A term of imprisonment was
+
+appropriate.
+
+
+
+On the other hand, the offender is a human being. I will repeat words I said on the day
+
+of Van Nguyen’s execution: We would be shocked if a medical practitioner
+
+abandoned someone who needed treatment and thereby allowed that person to die
+
+because the patient represented a hard case. Equally, we should demand that the
+
+justice system take steps to treat, rather than merely punish, the offenders who come
+
+before it and are suitable cases for treatment rather than punishment. Here, the
+
+offender had a mental illness, a claim for asylum and had been in custody for a period
+
+exceeding that he would otherwise have served but for his illness. To convict the man
+
+and allow him to be deported would have been contrary to the interests of justice.
+
+
+
+Regrettably, I had to order that the offender be detained at the BRC. It would have
+
+been preferable to have him detained at a secure facility where his mental illness
+
+could be treated. That would have struck an appropriate balance between the
+
+respective rights of the offender and the community. But such a facility does not
+
+currently exist in this jurisdiction.
+
+
+
+Before I conclude, let me briefly also mention the recent High Court decisions in
+
+Harriton and Waller.20 Put simply, in both cases it was argued that the respective
+
+plaintiffs’ parents would not have proceeded with their pregnancy had the defendant
+
+medical professionals properly advised of the high risk that the plaintiffs would be
+
+born with severe disabilities.21 The plaintiffs, in effect, sought to hold the doctors
+
+accountable in tort for the fact that they were born. To put the claims into context,
+
+both plaintiffs were severely disabled: Alexia Harriton was born blind, deaf, mentally
+
+retarded and spastic; Keeden Waller suffered from permanent brain damage, cerebral
+
+palsy and uncontrollable seizures.
+
+
+
+The plaintiffs’ respective claims, had they been successful, would have allowed them
+
+to live their lives with greater dignity. There would, however, have been other
+
+
+
+20  Harriton v Stephens [2006] HCA 15; Waller v James, Waller v Hoolahan [2006] HCA 16.  21  For more detail refer to Harriton v Stephens [2006] HCA 15, [216] per Crennan J; Waller v James,  Waller v Hoolahan [2006] HCA 16, [79] per Crennan J.
+
+7
+
+consequences of allowing the claim. As Justice Crennan said in her judgment in
+
+Harriton:22
+
+In the eyes of the common law of Australia all human beings are valuable in,  and to, our community, irrespective of any disability or perceived  imperfection. … [The appellant's] disabilities are only one dimension of her  humanity. It involves no denial of the particular pain and suffering of those  with disabilities to note that while alive, between birth and death, human  beings share biological needs, social needs and intellectual needs and every  human life, within its circumstances and limitations, is characterised by an  enigmatic and ever-changing mixture of pain and pleasure related to such  needs.
+
+…Alexia Harriton is no different in this respect from fellow human beings,  despite the fact that her grave disabilities include mental retardation. A  seriously disabled person can find life rewarding and it was not contended to  the contrary on behalf of the appellant.
+
+
+
+The outcome of the case, in strict terms, was that Alexia and people like her are
+
+denied a financial means to improve their lives under common law. But the only way
+
+to have provided that outcome would have been, in effect, to hold that Alexia was
+
+better off never having been born.23 It is hard to say that the judiciary fosters a
+
+universal culture of human rights if, at the same time, it says that there is a class of
+
+people who are better off never having been born.
+
+
+
+IV. Conclusion
+
+In conclusion: I have pointed to the pros, cons and limits of the judicial approach to
+
+protecting human rights. In many areas further legislation is required. I am sure that
+
+our next speakers - Crispin Hull, Hillary Charlesworth and Bill Stefaniak - will
+
+address and canvass those other issues.
+
+
+
+
+
+
+
+22  Harriton v Stephens [2006] HCA 15, [259]-[260].  23  As an aside: This proposition is not intended to be as forthright as the reasons of decision given by  Callinan J in his judgment.
+

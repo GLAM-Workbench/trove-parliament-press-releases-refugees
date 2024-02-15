@@ -1,0 +1,694 @@
+10
+
+Social protection through   social assistance
+
+Ross Mackay   Social Policy Agency   Department of Social Welfare   New Zealand
+
+Much of the debate about welfare reform over the past decade has focused on social insurance   systems and, in particular, on pensions. This is hardly surprising, since the bulk of social   security expenditure worldwide is on :social insurance and since pensions account for the largest   component of this expenditure. Moreover, pensions systems are facing increasing pressure on   funding as the demographic bulge of the baby-boom years moves inexorably closer to
+
+retirement, while at the same time life expectancy continues to rise.
+
+One result of the preoccupation of social security scholars with the future of pensions is that   comparatively little attention has been paid to social assistance. In the last few years, however,   there has been renewed interest in the topic, in particular with the publication of a major study   by Eardley et al. (1996).
+
+There are good reasons for a revival of interest in social assistance. In the first place, although   social assistance accounts for only ‘a minority of social security funds worldwide, its importance   varies considerably from country to country and in some countries it plays a dominant role.   Indeed, in the two antipodean countries (Australia and New Zealand), there is little social
+
+insurance dimension in the social security system and the principal apparatus of social security   is founded on social assistance principles.
+
+Secondly, as welfare reforms are enacted in the social insurance tier, these have tended to   exclude more and more people from coverage, through changes such as tighter targeting,   tighter time-limiting and tighter conditionality. As a result, increasing numbers of people are   compelled to seek aid through the social assistance tier. This places additional pressure on
+
+social assistance programmes, which find themselves in a double bind, since they must not only   absorb this increasing demand but must also undergo reforms aimed at reducing costs.
+
+Thirdly, many recent welfare reforms have focused particularly on the social assistance tier.   Indeed, the past three years have seen a number of highly significant and far-reaching reforms   to social assistance, in particular in the United States and the United Kingdom. To understand   the most significant recent welfare reforms, it is therefore necessary to focus on social   assistance.
+
+R. Mackay 1
+
+I. Social assistance and social insurance
+
+A fault-line runs through the social security landscape, separating the terrain of social insurance   from that of social assistance. This makes it convenient to define what we mean by social   assistance by contrasting the two types of programmes. Social assistance programmes can be   distinguished from social insurance programmes on a number of grounds:
+
+. they are targeted at people who have no other source of significant income with which to   support themselves, whereas social insurance programmes are less concerned with   whether claimants have! other income;
+
+. they are generally aimed at providing a minimum standard of living for claimants, whereas   social insurance programmes are often aimed at maintaining the previous income of   claimants who lose their earning capacity for some reason; and
+
+. they are generally funded from general taxation, whereas social insurance prograrnmes   are funded from contributions of workers.
+
+This division of social security into social insurance and social assistance programmes is   something of an over-simplification. A third class of social security programmes also ex sts -   the so-called “demogrant” or Llniversal programmes, which have different characteristics again.   They resemble social assistalice programmes in that they generally involve flat-rate payments   funded from general taxation, but they are not restricted to those with no other source of inc:ome
+
+and are payable to all people who meet the entitlement criteria (for example parents of   dependent children). These programmes occupy a smaller space in the social security   landscape than either social assistance or social insurance programmes.
+
+The fault-line carves through different countries in different ways. In the Nordic countries, the   terrain is dominated by social insurance, with social assistance having little more than a SirnaIl   residual role. In the two antipodean countries, on the other hand, there is only a very minor role   for social insurance-based progt-ammes and the principal apparatus of social security is founded
+
+upon social assistance principles. And while social insurance plays a dominant role in most   countries of continental Europe, social assistance plays a larger role in the United States and   the United Kingdom. These di?ferences naturally affect the amount of attention that is afforded   to social assistance in welfare reform agendas. It is for this reason that much of the discussion
+
+in this chapter is devoted to developments in the English-speaking countries.
+
+2. The context for social security reform
+
+In recent years, social security systems all over the world have come under increasing pressure   from a number of sources, including demographic change, social transformations, econclmic   difficulties and fiscal pressures.
+
+The demographic changes are well enough known. The demographic bulge of the immediate   post-war years, known as the baby boom, was followed by a “baby bust” as succeeding   generations evinced markedly reduced fettility patterns, through the agency of improved fertility   control technology. In more recent years, fertility rates across the developed world have   continued to decline (in many cases to well below replacement rates, especially in Italy, Spain   and Germany but also, outside Europe, in Japan, Singapore and the Republic of Korea). The
+
+2 R. Mackay
+
+resultant greying of populations places a double pressure on pensions expenditure, through
+
+higher projected levels of claims as the baby boomers retire which will have to be met by   dwindling numbers of people in the productive work force.
+
+Ageing populations place pressure on social security expenditure in other ways. As life   expectancy increases, a larger slice of the population survives to frail olid age, which implies   both higher expenditure on health care and higher demand for long-term care. Added to this’is   the impact of exponential advances in medical technology, which have afforded an enormously
+
+enhanced capacity to cure disease and prolong life, but which have, as a result, produced an   ever-widening gulf between what is possible and what is affordable.
+
+The fertility declines noted above are linked to a wider set of social transformations concerning   processes of family formation and dissolution. These changes have been complex but have   been partly due to the changing siatus of women in society and their enhanced economic   position through improved access to labour market opportunities. The combined effects of   greater economic independence and improved control over fertility have contributed to a decline
+
+in the predominance of nuclear families supported by a male breadwinner and a proliferation   of other family types, especially those headed by a lone parent. Increased rates of lone   parenting, evident across the developed world, place additional pressure on social security as   such families are vulnerable to financial hardship.
+
+Changing economic conditions have also placed social security systems under additional   pressure. Following the oil shocks of the 197Os, most developed economies experienced a   period of economic downturn during which the unemployment rolls increased dramatically.   These increases in unemployment were not able to be easily reversed even when economic   conditions improved and it soon became evident that a qualitative shift had occurred. Full   employment could no longer be regarded as a normal condition of the labour markets; instead
+
+a new status quo had emerged involving persistently higher rates of unemployment. This new   scenario presented a two-fold cha lenge to social security administrators, through negative   impacts on both expenditure and funding. More expenditure was needed to meet the higher   levels of claims from those out of work, but at the same time there was increased difficulty in   funding the increased demand because of faltering economic performance. Moreover, as
+
+unemployment rates remained high, many people who had lost their jobs found it increasingly   difficult to find others, which led in turn to rising rates of longer-term dependence on social   security. Longer-term recipients of social security posed a special challenge, as the longer they   spent out of the work force the harder it became to re-enter.
+
+Changes in the labour market, and in the nature of work itself, represent an additional challenge.   Many social security programmes are aimed at providing short-term assistance to people who   have lost jobs until they are able to find another. Underlying this aim is an ideal notion of full-   time, secure and permanent employment. But labour markets have been evolving away from   this ideal and jobs in the modem labour market are increasingly likely to be part-time, short-term
+
+in tenure or casual in nature. Such jobs are less likely to be subject to social insurance coverage   which implies reductions in the insurance contributions base. At the same time, this is likely to   give rise to increased pressure on the social assistance tier, since when people in such jobs fall   in need of income support, they have no social insurance cover and are obliged to apply for
+
+social assistance. More fundamentally, these changes raise questions about whether social   security systems are well configured to provide support to all people who meet difficulties in the   modern labour market.
+
+While the above shifts have resulted in escalating demand for social security expenditure,   system administrators are under pressure not only not to increase expenditure but actually to
+
+R. Mackay 3
+
+reduce it. In the globalized economy, political leaders face growing pressure to reduce reliance
+
+on deficit budgeting in order to maximize competitiveness and to reduce the risk of exposure   to adverse international financial flows. As the largest item on the expenditure side, social   security is increasingly likely to attract the attention of prudent fiscal managers.
+
+A further element in the mix of ingredients posing a challenge to social security is an expansion   in the community of analysts, commentators and advisers giving voice to a range of increasingly   trenchant criticisms of the welfare state. Among other things, it is claimed that the welfare state   represents a burden on economies and has a negative impact on competitiveness and growth;   that the growth of spending on social security has squeezed other desirable spendil?g for   example on health and education; that the expansion in supply of social security programmes   fosters an increasing demand for benefits; and that social security benefits dull the incentives   for people to make their own j#ay in life.
+
+Taken together, this represents a formidable set of challenges for administrators of ;ocial   security. The nature and degi*ee of the responses which are made vary considerably from one   country to another. The form of the response is also considerably influenced by local factors,   including historical development, economic conditions and cultural norms. The Nordic countries,   for example, have a tradition of full social protection coverage associated with high Labour
+
+market participation, while t,?e countries of Southern Europe are at an earlier stage of   development with lower levels of social protection, and higher reliance on family and r;ocial   networks to fill gaps in coverage. A contrast can also be drawn between the United State:; with   its good record of job creation? and lower levels of unemployment but higher levels of inc:ome
+
+inequality, and the countries of continental Europe, with higher levels of social protection and   lower levels of poverty, but higher welfare costs and higher levels of unemployment. These   contextual differences are important in influencing the nature of the responses that are made   in welfare reform efforts.
+
+3. Trends in reform of social assistance
+
+programmes
+
+In response to the various challenges outlined above, social security administrators have   undertaken a range of reforms in the social assistance tier. Five main themes have eme+ged   in the reforms enacted to date: an increased emphasis on work requirements; a concern with   cost containment; creation of incentives for different components of the social security system   to reduce costs; partnership-building initiatives; and a concern with presentational aspecis of   the reforms. The following discussion provides an account of each of these main themes, with
+
+examples drawn from a range of countries.
+
+3.1 Increased emphasis on work requirements
+
+One of the clearest trends is for strengthened work requirements for people receiving sccial   assistance payments. This has involved reforms on a number of dimensions, including both   “carrot” and “stick” approaches. Among the ‘carrot”-like measures are enhanced returns to w ark,   often through the use of income tax credits, increased assistance to lone parents with child care   costs and facilitative assistance with job search. The “stick”-like measures include the
+
+4 R. Mackay
+
+introduction of statutory requirements for job search and take-up of employment opportunities
+
+and the use of sanctions for non-compliance with these new requirements.
+
+3.1.1 Statutory work requirements
+
+In most countries, unemployed people have traditionally been subject to a work test, but work   obligations are now being expanded beyond this group. In the United States, the Netherlands,   New Zealand and some Canadian provinces, lone parents are now to be subject to a work test.   In New Zealand and the Netherlands, those with preschool children are exempt from the work
+
+requirement and in New Zealand the requirement for those with children aged less than 13 is   for part-time work only. In the United States, lone parents with children aged less than 6 are   included in the work requirement (under which they have to work at least 20 hours per week),   although these parents will not be sanctioned if they are unable to find child care.
+
+Several Canadian provinces also require lone parents on welfare-to-work. In Alberta those with   children aged over six months are required to seek work or enter training, while in Quebec and   Saskatchewan those with children under school age are exempt.
+
+Under the current New Zealand reforms, the work-test requirement will also be extended to   other groups. People who are sick or disabled will be subject to an assessment of their capacity   to work, and those who are found to have some capacity will be subject to a work test. In   addition spouses of unemployment beneficiaries will also be required to seek work. In Germany,   work-test requirements for welfare recipients have also been strengthened.
+
+3.1.2 Sanctions
+
+Sanctions are increasingly being deployed in the case of failure to comply with work obligations.   In the United States, failure to comply with work requirements can result in disqualification from   eligibility for welfare in some states and in reductions in levels of payments in others. In   Germany, there is provision to impose a 25 per cent cut in the benefit of anyone who refuses   to take up work he or she can reasonably be expected to do. Canada, New Zealand and the
+
+United Kingdom also have provis.ions to sanction those who fail to comply with work   requirements.
+
+Sanctions are used more widely than for enforcing the work-test requirement. In some US   states, parents who fail to have their children immunized are liable to have their welfare   payments reduced. People failing to comply with child support enforcement can be subject to   sanctions. Misrepresentation of information and fraud also attract sanctions, generally in the   form of disqualification from receiving assistance for a period. In Canada, sanctions are
+
+available for dereliction of child support payments, supplying false information and fraud.
+
+3.1.3 Enhanced returns to work
+
+The increase in obligations in the form of a work requirement has generally been associated   with enhanced rewards for those who do find work, often in the form of in-work tax credits. The   United States Earned Income Tax Credit has existed for some years to provide additional   assistance to low-income working families and to create a margin over the amount they would
+
+have received on welfare. In the United Kingdom, a new Working Families Tax Credit will
+
+R. Mackay 5
+
+replace the existing Family Credit programme in October 1999. The new programme will reduce
+
+the amount of benefit withdr,awn as earned income increases from 70 per cent to 55 pt?r cent.
+
+New Zealand introduced an Independent Family Tax Credit in 1996 for low-income families in   work. In the same year, New Zealand adopted a new abatement regime for lone parent and   invalid beneficiaries to reduce the rate at which the benefit is withdrawn as earnings rise. A   range of measures to enhance rewards for work have also been implemented at the provincial
+
+level in Canada, including wage top-ups, earnings exemptions and health benefit cover,3ge for   limited periods for those moving into jobs not covered by health plans. In Germany, the   Lohnabstandsgebot (which provides a guaranteed income difference between low wage earners   and welfare recipients) was further strengthened in 1996.
+
+3.1.4 Increased assistance with child care costs
+
+In a number of countries, additional emphasis is being placed on child care, especially to help   lone parents move into work. Lack of affordable and accessible child care has been fo.rnd in   many past studies to be one of the most significant barriers to the movement of lone parents   into work. The affordability of child care is generally being addressed through public   subsidization of child care places, while the accessibility barrier is being surmounted by a range   of initiatives including direct Investment in child care centres, efforts to upgrade the qu:rlity of   child care and targeting of areas which are deficient in child care facilities.
+
+In the United States, there has been a significant increase in funding allocated to child c; re for   low-income families and those on welfare to allow them to find work. Funding which was   formerly available through a range of programmes has been consolidated in a single inteclrated   system. States are required to use up to 4 per cent of the funds to improve the qualit,/ and
+
+availability of child care. In the United Kingdom, the Family Tax Credit is to be replaced by a   new childcare tax credit, which will be part of the Working Families Tax Credit. Under the new   programme, any lone parent working 16 hours or more per week will be eligible for up to 70 per   cent of the costs of registered child care up to a specified maximum. In New Zealand addi:ional   assistance is also being provided to lone parents to cover the costs of child care.
+
+3.1.5 Facilitative assistance with job search
+
+Facilitative assistance approaches have been prominent features of reforms in many of the   countries surveyed. New Zealand has placed considerable emphasis on active assistance as   a means of helping people to chart their movement towards independence, through its adol>tion   of customized support as its new standard model for work with income support claimants. III the
+
+United States, states are required to make an initial assessment of welfare recipients’ skills.   Many states also require individual responsibility plans to be developed for welfare recipients.   For example, in California, the Greater Avenues for Independence (GAIN) programme provides   assistance with job search, basic education and training under a case management approach   and other states run similar programmes. The United Kingdom New Deal programmes also   provide for facilitative assistanc8e to assist lone parents and long-term unemployed to help them   prepare for employment.
+
+6 R. Mackay
+
+3.2
+
+Cost containment
+
+A second clear trend in the changes to social assistance programmes is a concern with   containment of costs. This has taken a variety of forms, including reduction of replacement   rates, tighter targeting and conditionality, reclassification of cases so that the costs fall   elsewhere and time-limiting of benefits.
+
+3.2.1 Reduced replacement rates
+
+While those who find work are generally better off, those who remain on welfare in many   countries will find themselves worse off after recent changes. A number of the Canadian   provinces have lowered rates for some benefits and special allowances. Other benefits have   been reduced in real terms by freezing the rates for a period, so that the real value of the   payment atrophies at the rate of inflation. The amounts of assistance payable have also been   reduced through tighter asset tests, so that recipients have to draw down their personal
+
+resources to a greater extent before becoming eligible for assistance.
+
+In the United States, states are permitted to reduce the amounts payable and some are doing   so. Other states have introduced a downward gradation in payment rates as welfare recipients   approach the time limit on assistance. For example, in New York benefits are reduced by 10 per   cent after 18 months on welfare, by 15 per cent after two years, by 30 per cent after three years   and by 45 per cent after four years. Welfare recipients who
+
+find some work are, however,
+
+permitted to retain any earnings up to the level of the amount by which the grant has been   reduced.
+
+In New Zealand, the Sickness Benefit is scheduled to be replaced by a new Community Wage,   which will payable at a lower rate (equivalent to that of the Unemployment Benefit, which it will   also replace). The level of payment received by people transferring from Sickness Benefit to the   Community Wage will be reduced in real terms by freezing the rate until the inflation-indexed
+
+Community Wage reaches the same level.
+
+3.2.2 Tighter conditionality and targeting
+
+In addition to work requirements, some countries have imposed other obligations on recipients   of social assistance. The United Sta’:es in particular has imposed conditions on payments to a   range of groups. Single parents are required to cooperate in establishing paternity of the child.   Those who fail to cooperate are liable to have their cash grant cut by at least 25 per cent. They
+
+are also required to fulfil certain standards of parenting in order to collect their full benefits: for   example they must show proof that their children have been immunized in order to qualify for   aid and the children must attend school regularly. Unmarried parents who are minors are   required to live with a responsible adult or in an adult-supervised setting and participate in   education or training activities. Assistance is declined if these conditions a,re not fulfilled. States   are responsible for assisting with the placement of teen parents.
+
+Most recent legal immigrants are now ineligible for federal welfare assistance until they attain   citizenship. There are some exceptions, including refugees in their first five years of residence,   veterans and people who have been employed for ten years. States are also empowered to   declare most legal immigrants ineligible for state assistance. These changes represent a   significant reduction in entitlements from those available under the former law.
+
+R. Mackay 7
+
+In the United States a new and stricter definition of disability has also been estaolished
+
+specifically for children. Uncler the former definition, children were considered disabled if their   impairments were of comparable severity to an impairment that would disable an adult. T,le new   definition has severed the connection with the adult standard. Children are now considered   disabled if they have a “medically determinable physical or mental impairment which re:;ults in   marked or severe functional limitations”. As a result of the change, an estimated
+
+135 000 children are no long,er eligible for Supplemental Security Income benefits.
+
+Other countries have also introduced tighter controls on some programmes. The New Z’saland   reforms will provide tighter control over entry to Invalids Benefit through the new work capacity   assessment procedures. Some people receiving this benefit and others formerly rec:eiving   Sickness Benefit will be plac:ed on the new Community Wage programme, which will be paid
+
+at a lower level than the Invalids Benefit. In Germany, asylum seekers are excluded from   eligibility for the main social assistance programme and are catered for under a new programme   which provides lower levels of assistance under stricter entitlement criteria. In Finland, finit-time   entrants to the labour market must complete a five-month waiting period before becoming
+
+eligible for labour market support (except those who have recently graduated from a   vocationally-oriented educational institution). Prior to the change, the waiting period for this   group was three months.
+
+3.2.3 Reclassification of cases
+
+Some Canadian provinces have used the technique of reallocating particular groups reclsiving   welfare to other programmes in order to reduce the welfare rolls and cut costs. In particular,   some people participating in post-mandatory education have been reallocated to student   assistance or student loans programmes. People aged over 60 in some provinces are recluired   to apply for early retirement from the Canada Pension Plan. And some disabled groups have
+
+been reallocated to permanent disability assistance programmes.
+
+3.2.4 Time limiting
+
+Time-limited benefits are a well-established feature of the social insurance tier, but have seldom   been used in social assistance, which has generally been regarded as aid of last resort The   US welfare reform has thus broken new ground by restricting the duration of receipt of payments   under the Temporary Assista17ce for Needy Families programme. Recipients have a lifcttime   eligibility of five years to assistance under this programme and can only receive assistance for   two years before being required to find work.
+
+This raises the issue of what happens to people who have exhausted their entitlements to   assistance under this programme. They will remain entitled to food stamps; however, ever this   entitlement is no longer open-ended. The other option that remains is for states to waive: the   time limit for up to 20 per cent of their caseload, although they will have to absorb the costs of   this. On the other hand, states are also mandated to implement tighter time limits and other
+
+restrictions on assistance if they wish to do so. Many are doing so in practice. To date, no other   countries have followed the United States in time-limiting the social assistance tier.
+
+8 R. Mac:kay
+
+3.3
+
+Incentives for cost containment
+
+Some aspects of the reforms have created incentives for particular components of the system   to implement cost containment measures. In particular, this is a feature of the US reforms,   where states are now provided wil:h block grant funding to run programmes which were   previously funded according to the level of demand for assistance. This means that states are
+
+being forced to exert tighter management of the funds and have an incentive to control costs   within the overall level of the block grants. The level of the block grants has also been frozen   for a fixed period, so that states are also being forced to be mindful of the implications of their   management for future growth of programmes.
+
+To allow the states freedom to manage their resources within the constraints of the block grants,   they are mandated to implement tighter restrictions on the availability of assistance. Some are   doing so. On the other hand, they are also mandated to provide additional assistance to people   in need and are able to waive the time limit for 20 per cent of their caseload, provided that any   excess expenditure is met from their own budget. No additional funds will be provided to allow   them to do this. This means that states have considerable freedom to decide how to implement   their new responsibilities but that they also have strong financial incenti,ves to maintain tight
+
+control over expenditure and expenditure growth.
+
+In addition to the incentives implicit in the block funding arrangement, the federal government   has established a series of bonuses and sanctions aimed at encouraging states to achieve   specified targets in a range of performance areas, including the rate of employment of welfare   parents and unmarried teenage pregnancies.
+
+In a similar way, the introduction of block funding in Canada under the Canada Health and   Social Transfer has provided strong incentives for provinces and territories to cut the costs of   social assistance programmes and to reduce the welfare rolls. Some provinces which still   maintain two tiers of provision have applied the same discipline to municipalities under their   jurisdiction, which has produced a second round of cost-cutting at the municipal level.
+
+Partnership building
+
+The United Kingdom New Deal programmes are premised on a partnership with employer   groups under which the government will provide subsidies to employers of people coming within   the ambit of the programmes. In return, employers are expected to provide on-the-job training   to programme participants. Competitive bids are also currently being sought from organizations   to operate innovative programmes aimed at assisting people with disabilities or long-term
+
+illnesses into work. In a similar way, the United States has made funds available for a range of   welfare-to-work grants which are to be used for such purposes as job creation through public   or private sector wage subsidies, on-the-job training, work experience placements and so on.   A fixed proportion of these funds are to be used in conjunction with Private Industry Councils
+
+and part of the funds will also be available for competitive bids from local governments or private   sector organizations to operate such programmes.
+
+In the Netherlands, municipalities are being given more responsibility and discretion to develop   local policies on supplements to the assistance programme. They are also required to develop   individual plans for insertion of beneficiaries into the labour market, which requires them to work   collaboratively with local labour offices.
+
+R. Mackay 9
+
+In New Zealand, the From Welfare to Well-being initiative also seeks to forge a pattnenjhip with
+
+business and community leaders, at a local level. Under this programme, no subsidies are   offered to employers. Instea’ leaders in local communities are encouraged to think abollt taking   on people who are unemployed in their local communities as a response to the issue of local   welfare dependency. The New Zealand Community Wage programme will also require a
+
+partnership between government, businesses and voluntary organizations, modeled on the   existing Community Taskforce programme.
+
+3.5 Presentational aspects of the reforms
+
+Another significant elemen:: in the reform process has been an emphasis on presentational   elements. This has involvecl both rebranding of programmes to signify changed emphases of   reformed programmes and increased attention to marketing the reforms and building a   constituency for a renewed vision of welfare.
+
+In a number of countries, programme titles have been rebranded to give additional emphasis   to the new requirements that are placed on recipients, especially the increased expectation that   recipients will search for work. Examples of this are the United Kingdom Jobseeker’s Allclwance   (replacing both Unemployment Benefit and Income Support for the Unemployed) and tt e New
+
+Zealand Community Wage (replacing both Unemployment Benefit and Sickness Benefit). The   term “benefit” thus appears to be losing its place as part of the terminology of the social   assistance tier. This is a reflection of a number of developments: increased emphasis on active   assistance approaches (rather than passive receipt of a benefit), increased emphasis on
+
+reciprocal responsibilities (especially work) and de-emphasis (especially in the United 3ates)   of the notion of an “entitlement” to a benefit.
+
+Another example of rebranding comes from the United States, where the former Aid to FE milies   with Dependent Children programme has been replaced by the new Temporary Assistance to   Needy Families programme. The word “temporary” is a significant element of the ct ange,   signalling the time-limited nature of the new provision. The term “dependent” ha$) also
+
+disappeared and has been replaced by “needy” in another significant semantic shift, which   signals both an intention to target resources to those who need them and an attempt to move   away from the notion of “dependency”.
+
+The United Kingdom reforms have adopted the phrase “New Deal”, which signals the   significance of the reform by allusion to the United States response to the Great Depression,   but also locating it in the United Kingdom context with its consonance with the New Labour   imagery: “New Labour: New Deal”.
+
+This indicates that the symbolic value of programme titles is increasingly being recognized and   is being harnessed in the aim of achieving fundamental shifts in public attitudes to welfare.   These developments are not essentially new, since programme titles have evolved contir ually   over the years and some of the early programmes now sound distinctly quaint to modern ‘zars.
+
+Nevertheless, there is no doubt that the pace of change in the terminology has accelel*ated   recently (although the Australian Unemployment Benefit was replaced by Newstart Allow,snce   and Jobsearch Allowance as long ago as 1991). More recent changes have signalled a new   shift where the notions of “benefit” and “entitlement” are being de-emphasized and the notion   of reciprocal obligation is being brought into the foreground.
+
+70 R. Mar:kay
+
+Many of the reform programmes have also been accompanied by public relations campaigns
+
+to market the reforms and build constituencies for a renewed vision of welfare. This has been   a particular focus of the United Kingdom reforms, as the new Labour Government actively   campaigned on the need for the reforms and has supported its case through the issue of a   Green Paper setting out both the case for reform and the proposed approach. The United States
+
+reforms have also been carried out against a background of considerable debate over a period   of some years. The case for reform has been endorsed by both main political parties and was   underlined by President Clinton’s pledge to “end welfare as we know it”.
+
+4. A review of social assistance reforms
+
+in different countries
+
+Despite the above account of similarities in reforms undertaken by different countries, the nature   of the changes that have been implernented in individual countries has varied substantially. The   following section provides details on reforms made by selected countries.
+
+4.1 United States
+
+The Personal Responsibility and Work Opportunity Act 1996 (PRWOA) has ushered in a   significant and far-reaching reform of the social assistance system in the United States. Under   the new Act, the former Aid to Farnilies with Dependent Children (AFDC) programme was   replaced by the new Temporary Assistance for Needy Families (TANF) programme. Prior to the
+
+legislative change, there had been a groundswell of change building up in particular states,   which were mandated to proceed with their own reforms on the basis of waivers from federal   requirements. Wisconsin, California and many other states had implemented a number of   changes which prepared the way for the changes introduced in the PRWOA.
+
+The new regime differs in a number of important respects from the former one. Three significant   features of the new regime are tine-limiting of assistance, increased emphasis on work   requirements and the use of federal block grants.
+
+4.1 .I Time-limited assistance
+
+One of the most significant changes is signalled by the word “temporary” in the title of the new   TANF programme. Under the former AFDC programme, single parents satisfying the means test   were eligible for assistance until the youngest child turned age 18. Under the new programme,   single parents are eligible for assistance for a cumulative total of 60 months during their lifetime.
+
+States can exempt up to 20 per cent of their caseloads from this time limit. They also have the   discretion to introduce even tighter Itime limits and many are doing so. For example, Utah has   a 36 month lifetime limit on assistance, with extensions are available on a case-by-case basis   up to the federal limit of 60 months. C,onnecticut has a 21 month limit on “employable” recipients   with no limit for other people classified as “unemployable”.
+
+There is also a further and tighter ttme limit on assistance during any single spell on welfare.   Within two years of receiving assistance, single parents are required to work for at least twenty   hours per week. Some states have introduced tighter time limits before requiring people to work:
+
+R. Mackay 11
+
+in North Carolina, for example, welfare recipients are required to get a job, either paid or Jnpaid,
+
+or be in short-term job training within twelve weeks.
+
+Food stamps are also provided on a time-limited basis. Able-bodied persons aged between 18   and 50 without dependent c:hildren are able to receive food stamps for only three months in   every 36 month period unless they are working or participating in an employment or training   programme. Those who have participated in such a programme and lost their placement may   qualify for food stamps for a ?uTther three months out of the same 36 month period.
+
+4.1.2 Work requirements
+
+As noted above, single parents are required to work for at least 20 hours per week within two   years of receiving assistance. The work requirement is to be increased to 30 hours pel’ week   by fiscal year 2000. Two parent families are required to work at least 35 hours per week. States   are required to make reductions in the assistance for any period in which an adult merr ber of
+
+a family refuses to engage in work under the TANF plan. There are some exemptions: single   parents with children aged under 6 who can not find child care will not be penalized for failure   to meet work requirements. And states can exempt single parents with children under on 3 year   of age from the work requirement.
+
+States are required to meet federal targets for employment rate of welfare families. In fisc~~l year   1997, states were required to achieve a 25 per cent employment rate among all welfare families.   This target will rise to 50 per cent by fiscal year 2002. For two-parent families, the 1997   employment rate target was 75 per cent and this is scheduled to rise to 90 per cent by fiscal   year 2002. States will be penalized for not meeting these targets. The penalties are not
+
+negligible: a state would lose 5 per cent of its block grant for failing to meet the employment rate   in the first year and this would increase by 2 percentage points for each consecutive year of   failure.
+
+There had been employment targets under the previous regime: for example in fiscal year 1994,   15 per cent of the non-exempt caseload were required to participate in activities undc!r the   former JOBS programme (an employment and training programme for AFDC recipients) And   40 per cent of two-parent families were required to participate in work activities for at least 16
+
+hours per week. However, the new requirements are stricter in a number of ways: the required   activities are more tightly defined; there is a stronger emphasis on work rather than training (not   more than 20 per cent of participants are to be in vocational training); the number of hoLlrs of   participation is increased; the targets for states are increased; there are fewer exemptions; :here   are stricter sanctions for non-compliance; and there are stronger incentives for states to neet   their targets.
+
+Following the passing of the PRWOA, the Balanced Budget Act 1997 provided for grants 1.0 be   made to states and local communities to create additional job opportunities for TANF families   who are assessed as hardest to employ. Funds are available for a variety of purposes: job   creation through public or private sector wage subsidies; on-the-job training; contracts with
+
+public or private providers of job readiness, job placement and post-employment services; job   vouchers for similar services; community service or work experience; or job retention and   supportive services. States are required to target funds on high poverty areas and on people   who have been on welfare for long periods and who face specified labour market deficiencies
+
+(such as poor work history, low educational achievement, or a history of substance abuse).
+
+72 R. Mac:kay
+
+4.1.3
+
+Federal block grant funding
+
+Federal funding for the TANF programme is now made by means of a block grant to states.   Each state receives a set amount according to a formula based on expenditure in the years   immediately prior to the implementation to the new Act. Under the previous regime, federal   funding was open-ended and matched the funds provided by states. When welfare caseloads   were growing, states would simply apply to the federal government for additional assistance.
+
+Under the new regime, if the costs of operating the TANF programme exceed the amount of the   federal block grant, states are obliged to meet the additional cost. Alternatively, states are   mandated to cut costs by reducing aid to recipients - for example by reducing grant levels,   imposing tighter time limits or implernenting tighter targeting of benefits. On the other hand, if   the federal block grant is under-expended in any year, the state is allowed to carry forward the
+
+unexpended amount to subsequent fiscal years. Both of these provisions provide states with   strong incentives to implement tight eligibility rules.
+
+These incentives are strengthened by the provision for sanctions and rewards for state   performance in meeting goals. Sancions can be imposed for reasons other than performance   in meeting employment rates. For example, states may be sanctioned for poor performance in   child support enforcement, misuse of funds or failure to submit required reports. In addition,   bonuses can be paid to states which have performed well in meeting their goals, up to an   amount not exceeding 5 per cent of the total block allocation. States
+
+maintain a minimum level of expenditure on welfare, set at 80 per cent of the level of state   spending in fiscal year 1994. However, if they achieve the employment rate target, they may   reduce their welfare outlays to 75 per cent of 1994 fiscal year expenditure.
+
+The above changes amount to a significant and far-reaching reform of the social assistance   system in the United States. By September 1997, a year after the new law was passed, almost   all states had reported significant reductions in their TANF caseloads.
+
+United Kingdom: The New Deal Programmes
+
+A key component of the new Labour Governments welfare-to-work strategy has been the New   Deal programmes. Two such programmes were established initially, for the young unemployed   and lone parents, while further programmes are progressively being added.
+
+4.2.1 New Deal for Young Unemployed People
+
+This programme commenced in 12 pilot areas in January 1998 and was extended nationwide   in April 1998. It is targeted at 18-24 year olds who have been unemployed for six months.   Participants are offered four options: subsidized work with a private sector employer; work in   the voluntary sector; work with the Environment Task Force; or full-time education or training.
+
+Under the first option, employers are expected to provide the equivalent of one day per week   training and are paid an amount to cover the cost of training in addition to the wage subsidy. Six   month placements are available under the second and third options and participants receive   GBP 15 per week more than the Jobseeker’s Allowance. One day per week is allocated to   training. Under the final option, participants continue to receive the Jobseeker’s Allowance while
+
+undergoing training. Sanctions are to be applied to those who refuse to participate in one of the   programme options.
+
+R. Mackay 13
+
+4.2.2 New Deal for Lone Parents
+
+This programme is aimed al: helping lone parents to find work through job search, advize and   training. The programme provides re-skilling and, if necessary, child care, for those with a   youngest child in the secolid term of full-time school. Participation in the programme is   voluntary. The programme commenced on a demonstration basis in eight areas and tiNill be
+
+implemented nationally from October 1998. The additional child care required under the   programme will be provided through additional child care trainees taken on under the New Deal   for the Young Unemployed. Increased assistance has also been provided through the child care   disregard in calculating entitlements to Family Credit, Housing Benefit and Council Tax Eienefit
+
+programmes. Since June 1998, a maximum earnings disregard of GBP 100 per week is   available for families with more than one child of primary school age.
+
+4.2.3 New Deal for the Long-term Unemployed
+
+From June 1998, employers will be provided with a wage subsidy of GBP 75 per week for a   period of six months if they employ a person who has been unemployed for two years or more.   The programme will be extended in November 1998 with a series of pilot projects which WIII trial   an intensive approach involving individualized advice and counselling, with training and work   experience options also available. Special assistance will be tailored to the needs of those aged   over 50.
+
+4.2.4 New Deal for the Disabled
+
+Additional funding is being provided for programmes for people with a disability or a long-term   illness. The types of programrnes which are to be provided will be determined by competitive   bids for funding for innovative schemes aimed at helping beneficiaries with a disability or long-   term illness into employment, or helping those who are already in employment to remain   employed. Up to 20 such schemes are to be funded. The types of services that these
+
+programmes could provide might include assessment and placement, skills training, work trials,   rehabilitation, job-coaching and employer-mentoring, and provision of personal advisers. The   first schemes are expected to be operating in 1998.
+
+l * *
+
+Taken together, the New Deal programmes place a strong emphasis on moving people off
+
+benefit and into work, through a mix of measures including employer subsidies, facilitative   assistance, sanctions for non-compliance with requirements and higher levels of in-work   assistance, including subsidies for child care for lone parents. The reforms target particlJlar   groups of people who have the highest risks of welfare dependency (young people witl- out   qualifications, single parents, longer-term unemployed and disabled people) and seek to build
+
+partnerships between a range of different sectors across the community, including employers,   voluntary organizations, local authorities and central government departments.
+
+4.3 Canada
+
+The history of recent changes to social assistance in Canada is somewhat complex, because   of the multi-tier arrangements in both funding and delivery. Social assistance programmes iare
+
+74 R. Mach@
+
+,. -xI”-,. . . . . ,.^
+
+.
+
+“. _ .__. _.L,“I-I.- ^...._. ,’
+
+funded by both federal and provincial governments, while in some provinces municipalities are
+
+also involved in programme funding. While the federal government has no role in delivery of   programmes, some provinces have a two-tier delivery system, with provincial governments   providing some programmes (generally for longer-term recipients who were unable to work,   such as those with disabilities or single parents with child care responsibilities) and   municipalities providing other programmes (generally for able-bodied “employable” people). Part   of the reform story has been the process by which the remaining provinces with such two-tier   systems have moved to unify their systems. The process has been concluded in Nova Scotia,
+
+but not yet in Manitoba or Ontario.
+
+The driving force for reform of social assistance has been the reduction in federal funding for   provincial programmes. The precedent for this was a cap on cost-sharing under the Canada   Assistance Plan imposed in 1990 on the three wealthiest provinces (Ontario, Alberta and British   Columbia). Under this arrangement, federal payments to the three provinces were not to
+
+increase by more than 5 per cent a year. The cap was originally scheduled to last for two years,   but was in fact extended to the end of the 1995 fiscal year. More recently, the control on federal   allocations for provincial welfare programmes was extended when the Canada Assistance Plan   was replaced with a new block funding mechanism under the Canada Health and Social   Transfer programme. This programrrle covers federal transfers to provinces not only for welfare,
+
+but also for post-primary education, Medicare and social services.
+
+The new funding arrangements commenced in the 1996 fiscal year, at which time the total   amount transferred to the provinces and territories was CAD 29.4 billion. By 1997-98, the   amount transferred had fallen to CAD 25.2 billion (National Council of Welfare, 1997). The result   was to place the provinces and territories under increasing financial pressure which in turn
+
+provided them with strong motivation to implement reforms to cut costs and reduce levels of   dependency on welfare.
+
+There is not space here to provide a full account of the strategies used by the provinces and   territories to achieve these goals, but it is possible to make some summary comments. The   types of changes made included the following:
+
+. reduced benefit rates: in sorne cases basic benefit rates were cut, while in other cases   rates were frozen for periods to allow their real value to erode. Special assistance   programmes, in particular, have been subject to reduced entitlements;
+
+. tightened eligibility: tightened eligibility control procedures were implemented in many   provinces and territories, inckding better identification procedures, pre-eligibility checks,   tighter control over entry to programmes and improved review processes. Common law   relationships, in particular, were the focus of tighter eligibility checks in some provinces;
+
+. targeting of assistance on particular groups: tighter targeting procedures were used   to focus assistance on particular groups. In general, disabled people and others classified   as “unemployable” had their entitlements maintained and in many cases improved. But   other groups, especially “errlployable” adults, were subject to reduced entitlements,   especially those not complying with employability programmes;
+
+. reallocation to other programmes: in a number of provinces, particular groups receiving   welfare were reallocated to other programmes. For example, some people participating   in post-mandatory education were referred to student assistance or student loans   programmes and some people aged over 60 were required to appty for early retirement;
+
+R. Mackay 15
+
+.., ,,.. I ,.. . __-... .,.. _^.. _ _,__.,--. _-. _
+
+.
+
+work requirements: many provinces implemented welfare-to-work programmes,   involving a work requirement for employable single adults and single parents with older   children, and increased education or training requirements for younger adults;
+
+. caps on municipal transfers: some of the provinces which retained a two-tier provincial   and municipal delivery system placed a cap on municipal transfers, thus replicatiilg the   incentives for cost control at the municipal level in a parallel fashion to the feder#aI cap   imposed by the Canada Health and Social Transfer This encouraged municipali,:ies to   begin implementing sirrilar reforms;
+
+. improved assistance for the disabled: while the above changes generally resulted in   reduced entitlements for most welfare recipients, there was an exception in the case of   disabled people for whom provisions generally improved. In many cases, disabled people   received increases in benefit levels and increased assets exemptions, while they were   also provided in some c’ases with enhanced supports for employment.
+
+The above changes were not systematically applied across all provinces and territories and, in   many cases, particular changles were applied only in one or two provinces. Even where two   provinces applied the same reforms, the nature of the change was often quite differeni. For   example, both British Columbia and Alberta applied welfare-to-work policies to sole parents.
+
+However, the two provinces ‘differed enormously in the way the new policy was applied. In   British Columbia, the new work test was to apply those with a youngest child aged 12 or more   (down from age 19, the age of majority), while in Alberta the new policy was to apply to t?ose   with a youngest child aged 6 months or more (down from age 2).
+
+The provinces also varied significantly in the degree to which they imposed reductions in   entitlements. In most provinces, there was a general down-grading of entitlements, except in   the case of disabled people and those participating in employability and welfare-to-work   programmes. However, Saskat’chewan was a notable exception. Like most other provinces and   territories, Saskatchewan had implemented a series of improvements to provisions over the
+
+early 1990s. However, unlike other provinces which had reversed many of these measures in   the second half of the decade in response to the reduced levels of federal funcling,
+
+Saskatchewan maintained its level of provision and made no major cuts after 1995.
+
+This variability means that the impact of the various reforms on individual claimants depends   to a high degree not only on their particular circumstances and their willingness to participate   in employability programmes, but also on their location. Nevertheless, it is clear that, while   disabled people generally did not experience reduced entitlements, most other groups did. ‘The
+
+only way individuals could avoid reduced provision was to participate in employat ility   programmes where these were available and, wherever possible, to find work.
+
+New Zealand
+
+Recent welfare reforms in New Zealand have emphasized two key concepts: active assistance   and reciprocal obligations. Active assistance is founded on the assumption that social security   has the potential to do more than make payments to passive recipients of support. Rather, it is   argued, more active steps should be taken to assist people to become self-supporting by   moving into employment. The notion of reciprocal obligations is based on the premise that   recipients of income support inc:ur an obligation, in return for the support they receive, to take
+
+16 R. Mack$
+
+active steps themselves to find emplcyment and become self-supporting. The two concepts are
+
+thus complementary and mutually self-supporting.
+
+4.4.1 Active assistance
+
+Two active assistance initiatives have been implemented. The first of these is Compass, a   voluntary programme aimed at assisting lone parent beneficiaries into education, training and   employment through individualized case management, referral to training opportunities and   assistance with job search. The programme was piloted in selected sites in 1994/95, was
+
+extended as a nationwide pilot un’:il 1997 and has since been adopted as a permanent   programme. The second programme is customized service, which involves allocating each   beneficiary to an individual staff member, who takes responsible for all business involving that   beneficiary. The aim of this programme is not only to improve customer service levels but also   to increase beneficiaries’ awareness of the need to plan for self-reliance. The beneficiary and   customized service officer jointly prepare a plan which charts a route to self-reliance, with the
+
+help of referrals to education, training and employment opportunities.
+
+4.4.2 Reciprocal obligations
+
+More latterly, reform efforts have focused on the reciprocal obligations of those receiving income   support. These have primarily been defined in terms of responsibility to make efforts to become   self-supporting through employment. In particular, the principle of work-testing has been   expanded beyond the unemployed, which was the only group subject to a work test in the past.   The work test is to be expanded to cover three other groups: spouses of unemployment
+
+beneficiaries: sole parents and widows beneficiaries with older children; and some people who   would formerly have qualified for Sickness or Invalids Benefits.
+
+From 1 April 1997, the spouses of: unemployment beneficiaries with little or no child care   responsibilities have been required to seek full-time work. Prior to this the spouses of   unemployment beneficiaries had not been subject to any form of work test.
+
+For lone parents and widows, the work test was expanded in two stages. The initial requirement,   announced in 1997, was a relatively modest step affecting only those with children aged 14 or   over, who were to be required to seek part-time work or undertake part-time training or   education. Those with a youngest child aged 7 or more were to be required to attend an annual   interview to identify the steps needed to prepare for work readiness. A year later, the
+
+requirement was substantially strengthened. Lone parents with a youngest child aged between   6 and 13 were now to be required to search for part-time work, while those with a youngest child   aged over 13 would be required to seek full-time work.
+
+These requirements were backed up with some additional assistance: a child care subsidy will   be available to low-income working parents with children aged between 5 and 13 to cover the   costs of out-of-school care. Additional job search and training assistance will also be provided   to assist those who need help to meet their new obligations.
+
+The third group of people who will be subject to a new work requirement are people currently   receiving Sickness and Invalids Benefit. Recipients of these benefits will be subject to an   assessment of their work capacity. Those found to have some capacity to work will be subject
+
+R. Mackay 17
+
+to a work requirement. Assessment procedures are currently being developed and tht?se will
+
+be piloted and evaluated bef#Dre being implemented nationally.
+
+4.4.3 Community W#age
+
+From October 1998, Unemployment Benefit and Sickness Benefit will be replaced by a new   Community Wage programrne. As the programme title suggests, there will be a stronger   emphasis on work requirements and the focus will be on unsubsidized work. Under a Flarallel   administrative reform, the Income Support service will merge with the Employment Service to   create a new one-stop shop that will not only address people’s income support needs but will   also address their training requirements and help with job search. The new agency will utilize   an individualized case management approach, under which every job seeker’s needs will be
+
+assessed and summarized in an employment action plan.
+
+4.4.4 Enhanced abatement regime
+
+In 1996, a change was made to the abatement regime for earned income (that is the r#ate at   which benefit payments are withdrawn as earned income increases). The income disregard was   increased from NZD 50 to NZD 80 for all beneficiaries, so that people working part-time would   in effect retain more of their earnings. The rate of withdrawal of assistance was reduced from
+
+70 to 30 per cent between NZD 80 and NZD 180 of earnings for specific groups of benefit aries   (in particular lone parents and those with disabilities or chronic health conditions). This change   recognized the fact that people with responsibilities for children and people with disabling health   conditions are often more easily able to take up part-time than full-time work.
+
+4.4.5 Welfare to Well-being initiative
+
+It is recognized that these initiatives will not of themselves increase the number oi’ job   opportunities open to beneficiaries. Although it does not make significant use of subsicized   employment to the degree that many other countries do, New Zealand has developed an   alternative approach to stimulating the demand for labour through its From Welfare to Well-
+
+being initiative. While the initiative has somewhat broader aims, considerable emphas s is   placed on encouraging local b,Jsiness and community leaders to search for local solutior s to   reducing welfare dependence in their communities. As employer subsidies are not generally   available, the initiative has to rely on relationship-building and a mix of suasion and exhortation   to employers to take on staff from the unemployment rolls. To this end, local Income Support
+
+managers are encouraged to undertake speaking opportunities in their local communities and   to meet regularly with local community and business leaders to stimulate a community-based   approach to reducing welfare dependency in the local region.
+
+4.5 Netherlands
+
+The Algemene Bijsfandswet (ABW), which is the main Dutch social assistance programrne,   underwent a significant change in 1996. Reforms elsewhere in the social security system t bad   put increasing pressure on the programme, the clientele of which are those least likely to   succeed in the labour market. In addition, there was increasing concern about the comple:tity
+
+18 R. Ma&G
+
+of the system, poor administrative control, susceptibility to abuse and insufficient attention to
+
+reinsertion of clients back into the labour market (van Oorschot, 1997).
+
+The 1996 change was aimed at meeting these critiques. First the rate schedule was simplified:   single people, single parents and couples (all aged over 21) were now to be paid 50, 70 and 100   per cent respectively of the minimurn wage. Those under 21 could only claim in exceptional   cases. Secondly, beneficiaries were to be “activated” to participate in the labour market. This   involved an extension of work sear& requirements under the previous law, according to which   those with medical or social restrictions (including sole parents with children under 12) were
+
+excluded from such a requirement. Henceforth, all claimants were obliged to seek work, with   the exception of people aged over 57.5 and single parents with children aged less than 5. A   change was also made to the definition of “suitable work”. Clients would now be required to   accept jobs at a lower level than their former positions and qualifications might indicate.
+
+The administrating municipalities were also given increased responsibilities and discretion in   two respects. First, they were reqlJired to develop local policies on supplements to the   assistance programme, covering such things as special needs costs and subsidies for training   and education. In addition, they were required to develop individual plans for insertion of the
+
+beneficiary into the labour market. This will require them to work collaboratively with local labour   offices. Municipalities have also been given the option of substituting voluntary or community   work requirements for those who are unable to find work.
+
+4.6 Germany
+
+Germany has introduced a number of recent changes aimed at promoting the movement of   social assistance beneficiaries into work. These changes have included both “carrot” and “stick”   approaches. In 1996, a change was made to strengthen the Lohnabstandsgebot (which   provides a guaranteed income difference between low wage earners and welfare recipients),   following an earlier 1993 change aimed at the same goal. These adjustments provide a stronger
+
+incentive for welfare recipients to search for work opportunities, although the steep rate of   withdrawal of assistance as earnings rise tends to reduces their impact. A stimulus was also   given to the number of work opportunities by a grant diversion provision, under which subsidies   could be provided to businesses employing welfare recipients.
+
+The 1996 reform also included a provision to enforce compliance of welfare recipients with work   obligations by imposing a 25 per cent cut in the level of benefit of anyone who refused to take   up work he or she might reasonably be expected to do.
+
+Other changes have been concerned with cost containment. In 1993,1994 and 1996, increases   in benefit levels were capped. In 1993 another change excluded asylum seekers from eligibility   for social assistance under existing federal social assistance legislation. Instead a new provision   was established (Asylbewerbe~eistur7gsgesef specifically for asylum seekers, which provided
+
+lower levels of assistance under stricter entitlement criteria.
+
+4.7 Finland
+
+There has been little change to Finnish social assistance programmes in recent years. One   significant change, however, was a 1996 requirement that first-time entrants to the labour   market must wait for five months before becoming eligible for labour market support (except
+
+R. Mackay 19
+
+those who have recently graduated from a vocationally-oriented educational institution). Prior
+
+to the change, the waiting period for this group was three months.
+
+4.8 Portugal
+
+Like those of other Southern European states, Portugal’s social security system ha; been   characterized as rudimentary (with the notable exception of pensions). For example, as Ferrera   (1996) noted, Italy, Spain, Greece and Portugal were “the only member states of the Eu?opean   Union in which there is no national minimum income scheme for individuals and farnil& with   insufficient resources”. In 1992 the European Economic Community Council had recommended   that member states should establish such a scheme to recognize the basic right of a peson to   sufficient resources and social assistance to live in a manner compatible with human dignity and   to guarantee these resources ‘within the framework of social protection arrangements (Eur,opean
+
+Economic Community, 1992).
+
+In 1996, Portugal moved to implement this recommendation by establishing a National Minimum   Income programme in the form of a non-contributory means-tested programme including social   insertion provisions. The threshold below which the entitlement is granted is set at the lttvel of   the pension. The programme is coordinated by a central Minimum Income Commission and a   range of organizations, including government departments, NGOs and municipalitier;, are   involved in the development of the integration measures.
+
+This means that Greece is the sole remaining country in the European Union without a minimum   income guarantee system, since Italy and Spain operate such systems at the regional level,   although not as national programmes.
+
+4.9 Latin America
+
+Most recent welfare reform initiatives in Latin America have focused on the pensions system,   following the lead of Chile in the early 1980s. This has had some implication for the social   assistance tier. A number of countries that have reformed their pensions have included, a:; part   of the package, a minimum guarantee for people without a pension entitlement. Mini,num
+
+guarantees, however, require large subsidies and the way in which these subsidies are fuilded   poses a dilemma. If they are funded by the state, this is likely to give rise to public budget   deficits; on the other hand, if they are funded by the pension funds, this breaks the link between   contributions and benefits which tends to undermine the reforms.
+
+Different countries have addressed this issue in different ways: both Mexico and Colombia have   minimum guarantees which are funded by the state, while the minimum guarantee in Peu is   met out of the pension funds. Other nations such as Bolivia do not have a minimum guarantee   for those without a pension entitlement.
+
+4.10 Central and Eastern Europe
+
+The countries of Central and Eastern Europe have faced a formidable set of challenges in the   transition years since 1989. The political and economic systems have gone through a process   of wholesale reform the costs of which, in terms of unemployment, homelessness and poverty,   have been high. The social protection systems, however, have remained remarkably stilble
+
+through these years. Moves were imade to strengthen social assistance provisions in many of
+
+these countries in the early 1990s to provide a safety net for the unemployed, in addition to   other vulnerable population groups such as the destitute handicapped and the frail elderly   (Getting, 1998). Apart from this, hcwever, the social protection system has not been subject to   much adjustment, despite reformist ambitions in the early transition years.
+
+Getting offers a number of reasons for the durability of the existing systerns. Because the social   costs of transition have been high, there has been a reluctance to implement reforms which may   further weaken the position of vulnerable groups. In addition, the weakness of post-communist   states and the inadequacy of financial and administrative resources have created barriers to
+
+reform. Getting concludes that “the welfare state has been a key instrument for ensuring social   peace and securing economic reforms against a political backlash”, even if real problems   remain which will need to be addressed at some point in the future.
+
+5. Conclusion
+
+The importance of the social assistance tier varies from country to country, which determines   the amount of importance that is placed on its reform. In the Nordic countries, it is relegated to   a largely residual role, while it is also of lesser importance than the social insurance system in   the countries of continental Europe. It is of most importance in the English-speaking countries,   which is why these countries have been taking the lead in reforming social assistance.
+
+Social assistance programmes are clearly subject to the same pressures that are being felt   throughout the broader social security system. Indeed, these may be exacerbated by the fact   that recent reforms of social insurance programmes have led to increased pressure on the   social assistance tier as people who have lost their entitlements to social insurance become   dependent on social assistance. At the same time, the types of reforms that are being enacted
+
+in social insurance systems are n’ow also being reflected in changes in the social assistance   tier. This means that social assistance programmes might be considered to be under double   pressure, both from increasing demand from claimants and from increasing calls for reform from   policy-makers and administrators.
+
+The responses that are being macle to these pressures vary from country to country, but there   are some clearly evident trends in terms of the types of reforms that are implemented in a range   of countries. The clearest trend is for the introduction of work-testing across a broader range   of beneficiaries. Traditionally, unemployed beneficiaries have been the main group of people   who have been expected to search for work and take up any opportunities which become
+
+available. The recent round of reforms has, however, expanded this requirement to include   single parents - in the United St.&es, New Zealand, the Netherlands and some Canadian   provinces -while in New Zealand sick and disabled people who have some capacity to work will   also be subject to a work requirement.
+
+Sanctions are increasingly likely to be imposed on those who fail to meet this expectation,   ranging from termination of entitlernent to reduced payments. Such “stick-like” approaches are   also combined with “carrot-like” provisions, usually involving the availability of enhanced   rewards for those who do take up employment opportunities. The available rewards include   enhanced in-work benefits (usually in the form of a tax credit), defrayal of child care costs and   reduced rate of withdrawal of benefits as earnings increase.
+
+R. Mackay 21
+
+In many countries, efforts are also being made to involve a broader range of organizations in
+
+the task of helping recipients of social assistance back into work. Thus partnerships are being   forged with private sector employers, voluntary organizations, local governments and local   communities to tackle the iproblems in a collaborative way. The methods used to build such   partnerships include employer subsidies, competitive tendering for active assistance and
+
+employment-oriented programmes, building of closer relationships between sector groups, and   a mix of suasion and exhortation to pitch in and make a difference.
+
+Another evident trend has been the rebranding of programmes to emphasize the importance   of work-related obligations (for example the Community Wage in New Zealand, and the   Jobseeker’s Allowance in the United Kingdom) and to de-emphasize the notions of “benefit” and   “entitlement”. These semantic changes signal deeper shifts in the basis for social assrstance   provision. Under the US reforms, there is no longer any individual entitlement to a welfare   benefit. Instead states are required to establish objective criteria for assistance.
+
+These trends are not universally evident and are not being adopted by all countries. Indlzed, in   Central and Eastern Europe, Latin America and Southern Europe, recent changes to social   assistance have been to strengthen provisions. Even among the English-speaking countries   which have been leading the reform of social assistance programmes, there has been
+
+considerable variation between countries in the types of changes that have been introduced.   The United States, in particular, has taken its reforms further than many other countries by   introducing time-limited benefits, by eliminating the notion of entitlement to benefits and by   including a moral dimension into the conditions it places on receipt of assistance.
+
+Time-limiting of benefits is a new development in the social assistance tier (although it ha ; long   been a feature of social insurance systems) primarily because these programmes have   generally been seen as provision of last resort. The question which arises in the United States,   then, is what will happen to those people who exhaust their entitlement and are unable t2 find
+
+alternative sources of income. While states are able to exempt up to 20 per cent of their   caseload to allow some scope to provide for such people, there are also strong incentives for   states not to use this provision too freely since no additional federal funding is available foI- this.   In addition, states will also be Icautious about being perceived as a comparatively generous lest   they attract migration of disentitled former welfare recipients from other states.
+
+Thus commentators such as Peterson (1995) have expressed concern about a “race to the   bottom” as states compete with each other to scale back provisions in a kind of reverse auction   to avoid becoming a welfare magnet for poor people from across the nation. Whether this   scenario plays out in the future remains to be seen. There is no evidence that it has occurred
+
+so far. A key variable which will influence the future path of the United States reforms i:; the   state of the economy. States are currently managing well because the economy has performed   well in producing jobs. New challenges will arise in the case of an economic downturn, as states   will then need to meet the costs of rising caseloads out of fixed federal block grants. A “race to
+
+the bottom” might be more likely to eventuate in such a scenario.
+
+There is also an explicit moral dimension to many of the United States reforms, which is not   seen in other countries. For example, considerable emphasis is being placed on reducing teen   pregnancies and influencing the reproductive behaviour of families on welfare. Bonuses are   payable to states which achieve decreases in out-of-wedlock births, while states are also   mandated to implement a “family cap”, under which no additional assistance would be provi#led   in respect of additional children born to welfare parents. Drug-taking by welfare recipients is also   targeted in the United States reforms. Anyone convicted of a drug-related felony is prohibited   for life from receiving assistance under the TANF programme and is also permanently prohibited
+
+22 R. MaciTy
+
+from receiving food stamps. States may waive this provision or limit the length of the sanction.
+
+As Duerr Berrick (1998) notes, targeting drug-related behaviour in this way seems somewhat   anomalous, since “women who commit homicide, felonious child abuse, or other equally   egregious offenses may continue to receive aid”.
+
+A question raised by the far-reaching nature of the United States reforms which remains to be   answered is whether these particular reforms merely represent a unique path that the United   States is creating for the evolution of its own system or whether it is blazing a trail which other   nations are fated to follow. Given the pace at which reforms have unfolded over the past tri-   ennium, an answer to this question might be expected sooner rather than later.
+
+References
+
+Bradshaw, J. (1997). “Social assi.stance in comparative perspective”, Social policy and the   labourmarket. Ashgate Publishing L.td., Aldershot.
+
+De Jong, Ph. R.; Marmor, Th. R. (1997). Social policy and the labour market. Ashgate   Publishing Ltd., Aldershot.
+
+Department of Social Security (‘1998). New ambitions for our country: A new contract for   we/fare. London.
+
+Ditch, J.; Barnes, H. (1996). “Social assistance coverage and administration”, Finding the   balance: Financing and coverage oi’socialprotection in Europe, Walter van Ginneken (ed.),   Occasional Papers on Social Security. International Social Security Association, Geneva.
+
+Duerr Berrick, J. (1998). “Targeting social welfare benefits in the United States: Policy   opportunities and pitfalls”, in International Social Security Association, International Research   Conference on Social Security (Jerusalem, January 1998): Summing up the evidence: The   impact of incentives and targeting in social security. Geneva.
+
+Eardley, T.; Bradshaw, J.; Ditch, J.; Gough, I.; Whiteford, P. (1996). Social assistance in   OECD countries: Country reports. HMSO, London.
+
+-. (1996). Social assistance in OECD countries: Synthesis. HMSO, London.
+
+European Commission (1995). Social protection in Europe. Brussels.
+
+European Economic Community (1992). “Council Recommendation of 27 July 1992 on the   convergence of social protection objectives and policies, 92/442/EEC”, Social Europe,   Supplement 5492. Brussels.
+
+Ferrera, M. (1996). “The “Southern model” of welfare in social Europe”, Journal of European   Social Policy, Vol. 6: 1. Harlow.
+
+Getting, U. (1998). ‘In defence of welfare: Social protection and social reform in Eastern   Europe”. Martin Rhodes and Yves M&y (eds.), The future of European welfare. MacMillan   Press, London.
+
+R. Mackay 23
+
+Guibentif, P.; Bouget, D. (1997). Minimal income policies in the European Union. Uni%o das
+
+Mutualidades Portuguesas, Lisbon.
+
+International Social Security Association (1996). Finding the balance: Financing and   coverage of socialprotection in Europe, Walter van Ginneken (ed.). Occasional Papers on   Social Security. International Social Security Association, Geneva.
+
+-. (1996). Social protection in Europe: Outline of social security programmes, 7996. Geneva.
+
+Mackay, R. (1998). “Targeting in social security: The New Zealand experience”, in Intern stional   Social Security Association, International Research Conference on Social Security (Jeru:;alem,   January 1998): Summing up the evidence: The impact of incentives and targeting in social   security. Geneva.
+
+National Council of Welfare (1997). Another look at welfare reform. Ottawa.
+
+Oorschot van, W. (1997). The reconstruction of the Dutch social security system 7980~2000.   Tilburg University, Tilburg.
+
+Pereirinha, J. A. (1997). “Welfare states and anti-poverty regimes: The case of Ponugal”.   Martin Rhodes (ed.), Southern Europe welfare states: Between crisis and reform. F. Cass,   London.
+
+Peters, W. (1998). Budget speech and fiscal strategy report. New Zealand Treasury,   Wellington.
+
+Peterson, P. (1995). “State response to welfare reforms: A race to the bottom?“. Isabel S awhill   (ed.), Welfare reform: An analysis of the issues. The Urban Institute, Washington, DC.
+
+Rhodes, M. (1997). Southern European we/fare states: Between crisis and reform. F. Cass,   London.
+
+Sawhill, I. (1995). Welfare reform: An analysis of the issues. The Urban InsIitute,
+
+Washington, DC.
+
+Seeleib-Kaiser, M. (1995). “The development of social assistance and unemploynent   insurance in Germany and Japan”, Social Policy and Administration, 29:3. Oxford.
+
+Social Security Administration (1997). Social security programs throughout the world - 1997.   US Government Printing Office, Washington, DC.
+
+Visser, J.; Hemerijck, A. (1997). A Dutch miracle? Job growth, welfare reform and corporzrtism   in the Netherlands. Amsterdam University Press, Amsterdam.
+
+24 R. Mat:kay
+

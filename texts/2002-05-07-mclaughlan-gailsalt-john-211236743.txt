@@ -1,0 +1,858 @@
+GLOBAL COMPETITION FOR SKILLS: AN EVALUATION OF POLICIES
+
+John Salt and Gail McLaughlan Migration Research Unit, Department of Geography UCL
+
+26 Bedford Way London WC1H 0AP
+
+Paper delivered at DIMIA conference ‘Migration: Benefiting Australia’
+
+Sydney, 7-8 May 2002
+
+[Not to be quoted without permission]
+
+MIGRATION       BENEFITING AUSTRALIA
+
+1
+
+1. INTRODUCTION
+
+Viewed from a European perspective, the 1990s was the third most mobile  period of international migration during the 20th century, behind the events of two world wars. It was characterised by the migrations consequent upon the opening up of Central and Eastern  Europe  and  the  former  USSR  (which  introduced  a  whole  new  lexicon  of migration terms), by regional wars, ethnic shifts, the growth of asylum seeking and a realisation that illegal migration was big business. In the latter half of the decade two other  major  developments  occurred:  the  rediscovery  of  labour  migration  and acceptance by governments that policies should be aimed at managing rather than controlling international migration.
+
+The debates about immigration in the New World countries have traditionally adopted a  different  starting  point  from  those  in  Europe.  In  the  former,  the  main  thrust  of immigration has long been towards permanent settlement, whereas in Europe most migration has, initially at any rate, been temporary, though usually leading to settled immigrant communities.  The New World view has generally been that immigration is positive  and  to  be  encouraged;  the  European  view  has  been  more  negative,  more often than not seeing immigration as a ‘problem’ and something to be controlled.
+
+If  anything,  the  New  World  debate  and  that  in  Europe  have  now  moved  closer together. In the 1990s immigration debates in Australia, Canada and the US seemed (at  least  to  a  European  observer)  to  have  increasing  echoes  of  those  in  Europe. Especially in the US the “immigration ethos” has increasingly been questioned. The contribution of migrants to economic development is more likely to be stressed, as is their  impact  on  the  jobs  of  indigenous  people.  More  effective  government management  of  entry  continues  to  seem  more  fashionable  than  a  move  towards  a more liberal approach. How far this feeling is driven by the perception that irregular migration  is  causing  governments  to  lose  control  of  their  borders  is  a  matter  of conjecture.  What  it  does  illustrate  is  that  international  migration  is  now  a  huge business and businesses have to be managed.
+
+In Europe the migration debate has become less clear overall. Political parties with an  anti-immigration  stance  have  made  advances  in  several  countries.  A dichotomous, almost schizophrenic, approach is emerging. On the one hand, asylum seeking,  family  reunion  and  irregular  migration  are  frowned  upon;  on  the  other,  a more liberalised view of labour immigration has taken hold as a desirable objective. Management  of  migration  has  come  to  mean  a  more  restrictive  approach  to  the former while encouraging the latter. The UK is a case in point. The government has sought  to  restrict  the  entry  of  asylum  seekers  because  many  are  deemed  to  be economic  migrants;  at  the  same  time  it  is  now  lauding  the  virtues  of  economic migration  as  a  measure  to  counteract  recruitment  difficulties   and  increase  the competitiveness of the national economy.
+
+In  this  paper  I  want  to  focus  on  labour  migration  and  particularly  on  growing competition for the highly skilled. I shall draw upon the work we have recently been engaged upon in the MRU for the Home Office on the situation in Europe particularly and  on  some  wider  global  issues  relating  to  the international  recruitment  of  skills.  I begin  by  reviewing  what  appear  to  be  the  main  drivers  of  government  policies  and conclude  by  reviewing  and  evaluating  new  schemes  introduced  by  governments  in Europe and the New World to enable them to compete more effectively in the world market for human expertise.
+
+2
+
+2. THE MAIN POLICY DRIVERS
+
+Underlying the more liberal attitude towards labour migration are three propositions. The first is that replacement migration will be needed to cope with population ageing and  demographic  shortfalls.  The  various  scenarios  are  supply-side  based  and  take no  account  of  skill  requirements.  The  second  is  that  a  global  market  in  migrants exists  where  immigration  is  regarded  as  an  engine  of  economic  growth.  Human resource skills are perceived as national economic resources for which countries are in  competition.  The  third  is  that  for  various  reasons  specific  skill  shortages  have emerged which are holding back economic growth. The shortages are caused partly by excess demand for new types of skills, partly by such supply side constraints as inadequate training and poor retention, partly by public sector deficiencies.
+
+2.1 Replacement migration
+
+The  debate  about  whether  replacement  immigration  is  needed  to  cope  with  the labour market effects of demographic shortfalls has gone on for some time (see, for example,  OECD  1991).  Of  late,  the  voices  have  become  more  insistent  as  the realisation  has  grown  that  fertility  rates  below  (sometimes  well  below)  replacement levels are probably here to stay. At the heart of the matter is that a falling population of  working  age,  combined  with  a  rising  population  of  elderly  in  many  developed countries,  seems  likely  to  blight  the  economic  and  social  system.  However,  the impact of immigration in mitigating population ageing is widely acknowledged to be small  because  migrants  also  age.  For  a  substantial  effect,  net  inflows  of  migrants would not only need to occur on an annual basis but would have to rise continuously (see, for example, OECD, 1991; Wattelar and Roumans, 1991; DTI, 2000).
+
+Replacement migration is not the only strategy available. Various non-demographic alternatives to the likely consequences of an ageing population have been proposed (Coleman,  2000,  2002).  One  is  to  improve  the  real,  as  opposed  to  the  potential support  ratio  by  introducing  measures  to  increase  levels  of  female  workforce participation and encourage the unemployed into work. Other suggestions are more controversial,  such  as  removing  those  labour  protection  laws  that  deter  recruitment and  eliminating  unnecessary  bureaucracies  (Coleman,  2002).  In  the  longer  run, increasing the average age of retirement would transfer individuals from dependency into economic activity although, as Coleman points out, in Europe the real retirement age is nearer 59 than 65 so that raising the potential support ratio in this way means that in effect most people would retire in their mid-late 60s rather than in their 70s.
+
+A  second  major  alternative  is  to  improve  worker  productivity.  One  estimate  is  that productivity  growth  per  head  in  Europe  required  to  cover  all  increased  old-age dependency  would  amount  to  0.5  per  cent  per  annum  by  2020  and  in  the  EU specifically  productivity  would  have  to  rise  by  about  0.8  per  cent  per  annum  if  that were  the  only  way  to  finance  the  extra  resources  arising  from  population  ageing (European Commission, 1996, 36-39).
+
+Despite  these  and  other  findings,  debate  about  the  link  between  changing demography  and  a  migration  ‘fix’  refuses  to  go  away.  A  major  stimulus  to  the discussion was the UN’s report on ‘Replacement Migration’  (UN, 2000). The debate has,  on  the  whole,  shed  more  heat  than  light  but  has  at  least  focused  attention  on what targets might be scrutinised.
+
+Much interest focused on the scenario in the UN study which computed the amount of migration needed to maintain the potential support ratio (working age population to
+
+3
+
+old  age  population)  at  the  highest  level  it  would  reach  in  the  absence  of  migration after 1995. This indicated an annual net migration level between now and 2050 into the European Union of nearly 13 million a year, with the UK taking around one million a  year.  The  figure  for  the  US  would  be  around  12  million  a  year.  Other  scenarios, notably  those  maintaining  a  constant  working  age  population  and  a  constant  total population, were more cautious in their projections, figures for the UK being 48,000 and 114,000 respectively. One problem is the robustness of such projections, made at a particular point in time and using a certain set of assumptions. Coleman (2000) compared  the  UN’s  projections  with  those  of  the  UK  Government  Actuary’s Department’s (GAD) own projections and concluded that for 2050 the latter were 13 per cent higher than the UN medium variant projection which would mean that that there  was  less  ‘need’  for  additional  migration.  Indeed,  using  a  net  immigration assumption based on actual levels for 1998-9, instead of the lower one incorporated in the GAD projection, Coleman  concluded that a population level for the UK would be  reached  by  2050  that  exceeded  the  UN  requirements  for  population  and workforce growth. Even in the absence of measures specifically designed to increase immigration, the latest GAD projections for net immigration are even higher (135,000 p.a.).
+
+These  are  long  term  projections  full  of  uncertainty.  Assessment  of  likely  migration needs for demographic reasons depend on the period of projection and other factors. Feld (2000) forecast that, with the exception of Italy, Western European countries as a whole will either maintain their working age population at the existing level or, more generally,  see  their  workforce  grow  substantially  up  to  the  year  2020  largely  as  a result  of  higher  participation  rates.  Even  under  the  least  favourable  scenarios, productivity  gains  more  than  compensate  for  any  contraction  in  the  working population. “Accordingly, we may safely assert that there is no risk of a shortage of workers between now and the year 2020, and that an increasing supply of labour will render reliance on a greater influx of foreign workers unnecessary.” (Ibid.: 3).
+
+A  similar  conclusion  is  reached  in  the  Council  of  Europe’s  study  on  Europe’s population and labour market beyond 2000 (Punch and Pearce, 2000). The working age population (WAP), 488 million in 1995, is projected to rise to 496 million in 2010, falling to 452 million in 2025 and 370 million by 2050. In the short and medium term the  study  concludes  that  there  is  unlikely  to  be  a  labour  shortage  in  Europe  in  the immediate  future,  given  existing  unemployment  levels  and  prospective  productivity gains. However, labour market difficulties at local level are not ruled out. In the long run the study concedes that the scale of flows required to plug the demographic gap would be too large and create problems of integration.
+
+All this is not to say that some degree of replacement migration may not be thought desirable  by  government.  As  well  as  its  effect  on  labour  supply,  population  ageing has implications for labour demand. The most recent GAD projections suggest that by 2030 older people in the UK will outnumber younger adults by a fifth. Particularly striking is the increase in the very elderly, with a projection of over six million in the UK by 2025. The majority of older people (around 13 million of pensionable age in 2025),  particularly  those  in  their  sixties  and  early  seventies,  will  be  healthy  and active. In retirement they will demand consumer items and the personal services that go with increased leisure time. Many will be reasonably well off, others less so. For the  majority,  cost  will  be  an  issue  and  the  use  made  of  labour  intensive  service provision  will  be  dependent  on  affordability.  This  is  likely  to  mean  an  increase  in relatively  low-paid,  low-skilled  jobs  which  may  be  difficult  to  fill  from  the  indigenous labour force.
+
+4
+
+The  more  elderly  will  also  require  increased  attention,  from  a  caring  sector  again characterised by labour intensity and low pay rates. This ageing population is likely to be segmented by income, health and participation in the economy (through savings and ownership of stocks and shares), with a growing number of poorer, less healthy and technologically disadvantaged individuals (DTI, 2000). Overall, the combination of demographic ageing and the consumption demands of the grey population seems likely to increase the demand for cheap, low skilled labour. Migration should not be seen as a simple answer to meeting such needs. There are important social, moral and  practical  issues  to  be  considered,  ranging  from  those  around  pay,  status  and training for particular occupations, through those related to the use of cheap migrant labour  to  fill  unattractive  jobs,  to  those  concerning  the  housing  and  other requirements of migrant workers. Never the less, given these provisos, there may be a growing role for overseas migrants in employment areas related to the needs of an ageing population.
+
+Replacement migration implies recruitment across the skill spectrum. The two other main drivers are concerned with the recruitment of skilled workers, especially those with a high level of expertise.
+
+2.2  The global market for human expertise
+
+The last two decades have seen the emergence of a global migration market, mainly for  the  highly  skilled.  All  countries  have  become  part  of  a  multi-dimensional  global matrix of movement involving people, capital, goods, services and ideas. Within this market  competition  for  human  expertise  involves  a  complex  pattern  of  exchange  of professional, managerial and technical staff.
+
+The  main  stimulus  for  competition  in  the  global  migration  market  has  come  from governments. Competition was led in the 1980s by Australia and Canada, followed in the  1990s  by   the  US.  Europe  held  itself  largely  aloof  until  very  recently  with  little action and almost no debate about competition in the migration skills market. There were  various  reasons  for  this,  particularly  the  historical  legacy  of  the  guest  worker phase  of  the  20th  century’s  third  quarter  and  the  availability  of  some  skills  in  the 1990s as a result of the opening up of Central and Eastern Europe.
+
+Employers  in  all  countries  are  now  facing  the  problem  of  integrating  new technologies  which  require  specific  skills  but  are  finding  they  must  compete  in  a global labour market where the main competitors are the US, Australia and Canada and a growing number of European states.
+
+Underlying  this  trend  is  the  assumption  that  highly  skilled  migrants  bring  economic benefits to the host economy. A number of studies have attempted to determine how far  this  is  true  by  looking  at  the  fiscal  outcome,  measured  in  terms  of  tax contributions,  welfare  benefit  receipts  and  use  of  publicly  provided  goods  and services. Gott and Johnston (2002) have recently reviewed empirical studies of fiscal outcomes in Europe, North America and Australia. Although some of the results were ambiguous or contradictory, on the whole they found the outcome to be positive. For the  UK,  they  concluded  that  overall  in  1999/2000  migrants  in  the  UK  contributed Â£31.2 billion in taxes and consumed Â£28.8 billion in benefits and state services, a net fiscal contribution of about Â£2.5 billion after rounding (the equivalent of around 1p on the  basic  rate  of  income  tax).  Several  of  the  studies  pointed  to  the  significance  of skills:  the  higher  the  level,  the  greater  the  likelihood  of  net  fiscal  gains  to  the economy.  However,  the  studies  also  show  that  the  fiscal  effects  vary  by  national
+
+5
+
+origin of the migrants, with higher benefits flowing from those coming from high GDP countries.
+
+2.3 Specific skill shortages
+
+A relative newcomer in the debate about labour immigration policy is the perceived shortage  of  specific  skills  and  the  need  for  new  schemes  to  deal  with  it..  Skill shortages can occur because of the inefficiencies of the international labour market and because of specific mismatches caused by growth in demand outstripping local training capability or by an inadequacy of supply at the prevailing wage  rate. In the UK today, and in some other countries, high level skill shortages occur among two groups  in  particular:  the  IT  sector  (including  those  working  as  practitioners  and  as users)  and  the  more  skilled  end  of  public  services,  especially  health  (particularly nurses) and education. Developing strategies and procedures to recruit specific skills in shortage occupations is predominantly employer led, with governments acting as facilitators.
+
+The idea that in a tight job market the demand for staff can be met by rising inflows of foreign workers has attracted attention in the media and among market analysts and consultants.  How  successful  this  might  be  as  a  solution  is  unclear.  During  the  last couple  of  years  the  rate  of  job  growth  has  been  3-4  times  that  of  the  working  age population, even allowing for the net inflow of people (Saunders and Kelly, 2000).
+
+The global migration market is seen largely in terms of the acquisition of skills. So far the debate in most developed countries has focused on attempting to fill a shortage of  skilled  workers  in  the  IT  sector.  One  estimate  suggests  that  the  number  of  IT practitioners  in  the  UK  is  around  a  million,  with  recent  growth  at  10  per  cent  per annum and showing few signs of slowing (Dixon, M., 1999). Within this sector as a whole,  individual  IT  occupations  are  different  in  scale  and  are  pursuing  different trajectories. The sector may be divided into five major categories: about a third are computer  analysts  and  programmers;  computer  systems  managers,  computer operators (numbers falling) and software engineers (numbers growing) each account for about a fifth; a tenth are computer engineers. The employed IT workforce may be further divided into those working for user (about 70 per cent) and for supplier (about 30 per cent) companies. There is also a regional impact. In the UK, nearly half work in London and the South-East and overall turnover is relatively high at 15-20 per cent (Ibid.).
+
+There  is  an  assumption  in  much  of  what  has  been  written  recently  about  labour shortages that those for high level skills constitute the main problem. While this may be  true  at  present,  the  longer  term  may  be  different.  New  technologies  generate changes  in  labour  use  and  the  qualifications  and  training  required  even  over relatively  short  periods.  The  interaction  between  these  sorts  of  changes  and immigration of workers is complicated. The speed of change and localised shortages may  make  skills  immigration  desirable  in  the  short  term  but  there  can  be  no guarantee  that  suitable  foreign  labour  is  available.  In  the  longer  term  training schemes  and  better  pay  structures  for  indigenous  labour  may  make  immigrant workers surplus to requirements. Furthermore, new technology may have a deskilling effect  in  some  sectors,  leading  to  higher  demand  for  less  skilled  workers  (Feld, 2000).  If  the  prevailing  wage  rates  for  such  people  mean  that  the  jobs  are unattractive to local workers there may well be a resort to immigration to fill the gaps.
+
+Not  all  public  sector  shortages  are  new,  for  example,  the  abolition  of  the  Inner London  Educational  Authority  in  1991  was  accompanied  by  extensive  overseas teacher recruitment. In the health service recruitment and training of doctors has long
+
+6
+
+been regarded as inadequate by many. The problem is not only one of training and recruiting skills but also retaining them. In the public services low job satisfaction and poor  pay  increase  turnover  and  lead  to  ‘brain  wastes’,  necessitating  overseas recruitment  to  fill  gaps.  A  study  of  nurses  in  the  UK  suggested  that  around  40  per cent  of  them  expected  to  leave  the  NHS  in  the  next  three  years,  turnover  among those  aged  under  30  being  particularly  high  (IZA,  2000).  To  some  extent  these moves are compensated for by those returning after a spell away from nursing.
+
+The difficulty of using immigration to deal with skill shortages is compounded by the fact that they are rarely general. Where localised labour shortages are related in part to  poor  pay,  difficulties  in  obtaining  housing  or  other  problems,  importing  migrant labour may solve one difficulty but exacerbate another.
+
+Whatever  the  individual  or  combination  of  reasons  that  lead  to  turnover  in  different ‘shortage’ areas of employment, the potential for the inactive to fill gaps is important to assess.
+
+3. SEARCHING FOR SKILLS: CASE STUDIES OF THE UNITED STATES, GERMANY AND THE UNITED KINGDOM
+
+These  three  examples  have  been  chosen  here  because  they  reflect  three  different approaches  to  migration  policy  but  where  there  has  been  a  clear  tendency  to converge on the desire to recruit high level skills from abroad. The US has sought to inject  a  greater  labour  market  input  into  what  is  still  a  family-based  immigration system. Germany has finally recognised that it is a country of immigration and needs new skills. The UK has shifted towards a more liberal and transparent policy towards labour recruitment.
+
+3.1 USA
+
+In the interests of competitiveness and the creation of opportunity, the US has long sought  to  attract  immigrants.  In  some  parts  of  the  country,  notably  California,  and some  sectors,  notably  IT,  the  innovation  and  entrepreneurship  of  immigrants  has been large. By 1998, Chinese and Indian engineers were running a quarter of Silicon Valley’s high technology businesses, their companies providing 58,000 jobs.
+
+Immigration  policies  have  developed  around  the  country’s  changing  needs  and attitudes.  The  1990  Immigration  Act,  while  reaffirming  the  paramountcy  of  family migration, gave an added impetus to allowing in more highly skilled migrants. During the  1990s  immigration  policy  came  to  be  seen  more  as  a  device  for  stimulating economic  growth  and  building  up  a  store  of  human  capital.  The  policy  debate  now recognises  the  evolving  relationship  between  immigrants,  trade  and  economic development in a global economy. Despite this, the number of highly skilled entering in  the  employment-based  immigration  quota  is  surprisingly  small  and  has  been declining (Table 1).
+
+Table 1: Permanent Immigration to the United States by Highly Skilled Employment
+
+Preference Group, 1996-99 (thousands)
+
+Preference Group 1996 1998 1999
+
+1st Preference 11.1 8.7 5.9
+
+2nd Preference 8.9 6.9 3.9
+
+Baccalaureate 5.5 3.9 2.5
+
+Sub-Total 25.5 19.5 12.3
+
+7
+
+All Employment preference visas 117.5 77.5 56.8
+
+Highly skilled as % of Total 21.7 25.2 21.7
+
+Source: INS & SOPEMI
+
+In  1996  the  number  of  first  preference  (priority  workers),  second  preference (professionals  with  advanced  degrees  and  aliens  of  exceptional  ability)  and baccalaureate  holders  (professionals  with  a  Bachelor’s  degree)  totalled  25,500;  by 1999 this number had fallen to 12,300. Each of these numbers represented about a fifth of all employment-based visas. Even including the category of third preference skilled  workers  (requiring  a  minimum  of  two  years  vocational  training)  raises  the numbers  to  only  41,500  and  19,600  respectively.  The  main  reason  for  the discrepancy in numbers of employment-based visas to principal applicants and total employment-based  visas  is  that  most  of  them  go  to  spouses  and  children.  Put bluntly, highly skilled permanent employment-based immigrants account for about 3 per cent of the total number of immigrants to the US.
+
+These  US  numbers  may  be  compared  with  those  for  Australia.  While  numbers  of principal applicants are similar to those in the US, 18,890 in 2000-01, the proportion of the total skill stream accounted for by dependents (25,860 - 58 per cent) is much lower (Table 2).
+
+Table 2: Australian Migration Program - Skill Stream Outcome 2000-01 (persons)
+
+Category Offshore Onshore Total Total
+
+Principals Dependents Principals Dependents Principals Dependents Persons ENS/LA/RSMS/STNI 550 950 2420 3590 2970 4540 7510
+
+Business Skills 1450 4470 410 1040 1860 5510 7370
+
+Distinguished Talent 40 50 60 80 100 130 230
+
+Skilled Ind/Independent 11210 11170 0 0 11210 11170 22380
+
+SAS/SAL 2720 4480 0 0 2720 4480 7200
+
+1 November 0 0 30 30 30 30 60
+
+Total Skill Stream 15970 21120 2920 4740 18890 25860 44750
+
+Note 1: Due to rounding, totals may not be the exact sum of components Note 2: Contingency reserve grants have been included in the category under which the grants were made Source: DIMIA
+
+While  the  number  of  highly  skilled  permanent  immigrants  to  the  US  has  been relatively  low,  numbers  of  temporary  highly  skilled  immigrants  have  been  much higher, though falling of late. In the 1990s the demand for skilled foreign workers led to a rapid growth in quotas and issues of temporary H-1B visas, although in theory this was seen as part of a strategy in which training and education of the domestic labour force represented the long-term solution. In 2000 the cap for H-1B visas was raised  to  195,000  but  only  163,000  were  issued.  However,  several  highly  skilled occupations, notably academics and researchers, are exempt from the H-1B system. If  these  are  included,  the  total  number  of  temporary  highly  skilled  entrants  rises  to over  200,000.  The  most  recent  data  indicate  that  the  demand  for  H1-B  visas  is sliding. In the first quarter of 2002 applications were 58 per cent down on the same quarter in 2001.
+
+Analysis of the characteristics of those granted H1-B visas during the period October 1999-February  2000  indicates  that  easily  the  biggest  source  was  India  (34,400), followed  by  China  (8,000),  Canada  (3,100),  UK  and  the  Philippines  (each  2,600)
+
+8
+
+(INS,  2000).  About  54  per  cent  (42,600)  were  in  computing  occupations,  mainly systems  analysis  and  programming,  and  a  further  10,400  (13  per  cent)  in architecture, engineering and surveying. Some 56 per cent had a Bachelor’s degree, 31  per  cent  a  Master’s  and  8  per  cent  a  Doctorate.  Occupations  in  computing  and engineering  paid  median  salaries  of  $50-55,000  per  annum,  although  the  real winners were fashion models who were able to command $130,000.
+
+3.2 Germany
+
+Germany  is  a  long-standing  focus  of  labour  immigration.  As  a  result  of  structural changes  in  the  economy  and  the  demographic  development  of  its  population,  an increased  need  for  highly  skilled  labour  is  emerging  on  the  German  labour  market. For  the  last  couple  of  years  public  discussion  has  been  dominated  by  whether  the Federal  Republic  needs  more  immigrants  and,  if  so,  how  many  of  them  should  be admitted and what profile they should have. There has also been an intensive debate about  the  conditions  for  an  integration-friendly  society  and  migrants’  willingness  to integrate.
+
+The  debate  was  stimulated  particularly  by  the  decision  to  go  ahead  with  a  “Green Card”  initiative  to  attract  IT  workers  in  August  2000.  In  view  of  the  importance attached  to  the  subject,  the  Federal  Minister  of  the  Interior  set  up  an  independent commission  to  review  the  whole  migration  issue  in  July  2000.  This  includes especially  the  need  for  highly  skilled  immigration  and  the  issues  arising  from demographic ageing. The commission reported in the summer of 2001. Its proposals were  broadly  accepted  and  the  Federal  Government  has  now  passed  a comprehensive  new  law,  the  main  thrust  of  which  is  to  increase  immigration  of foreign workers and to ease their integration.
+
+The IT scheme must be seen as one part of a wider programme for immigration, a big  part  of  which  is  encouraging  Germans  and  existing  immigrant  populations  to enter the labour market. The programme was introduced very quickly with legislation drafted in February 2000 and implemented by August 2000. It was limited to the IT sector and was designed to be a short-term measure that must not hinder the growth of new jobs or threaten existing jobs in Germany.
+
+Foreigners  with  an  IT  related  degree  or  who  have  graduated  from  German universities  with  an  IT  degree  can  apply  for  a  Green  Card.  Those  without  an  IT degree can apply if their ability in the field is confirmed by an agreement of an annual salary  of  over  100,000  DM.  The  permit  is  valid  for  a  maximum  of  five  years  and applications  will  be  accepted  until  July  31st  2003.  Permit  holders  can  switch employers in Germany without a labour market test to check whether a German or EU specialist is available to fill the vacancy.
+
+Another objective of the programme is to produce 250,000 domestic IT specialists for the German IT sector by 2005. In addition to the Green Card scheme supplementary training measures were introduced. There is a strong link between the admission of highly  skilled  foreigners  and  the  need  to  intensify  the  training  of  the  unemployed within Germany. It is felt that if there are skills shortages, Germans should be trained to fill these gaps in the labour market. The IT industry agreed to increase internal and external training opportunities and to take steps to strengthen the interest of young people  in  studying  and  working  in  the  IT  sector.  The  Federal  Employment  Agency agreed to focus on finding job placements and training for unemployed IT specialists and engineers in Germany. The Employment Agency has also invested in promoting IT careers and courses at German universities.
+
+9
+
+Between  August  2000  and  February  2002,  11,230  Green  Cards  had  been  issued. Indians  were  the  largest  national  group  with  22  per  cent  of  the  total,  followed  by citizens of the former USSR (14 per cent). Although holders were to be found in all economic  sectors,  information  systems/data  processing  accounted  for  around  two-thirds of them. The Green Card system appears to have helped smaller employers: 60 per cent worked for companies employing less than 100 workers while only 25 per cent worked for employers with over 500 employees.
+
+A  study  was  carried  out  by  WIMMEX  (2001)  to  evaluate  the  success  of  the  Green Card Scheme in the first six months. The study contacted 700 employers of Green Card holders (70 per cent took part) and 500 permit holders (35 per cent took part).
+
+Results showed employers to be happy with the quick decision time and that delays in  recruiting  staff  had  been  significantly  reduced.  Using  the  Green  Card  system vacancies could be filled in approximately 6 weeks when it had previously taken over 20  weeks.  As  soon  as  the  employment  offices  have  the  necessary  documents permits can be issued within one day.
+
+Approximately  82  per  cent  of  the  employers  surveyed  said  that  the  system  had improved their competitiveness and over a third of firms said that they had been able to expand and invest in Germany. Employers argued that taking on foreign workers has not been at the expense of company training as the Green Card scheme creates conditions that enable more money to be invested in training.
+
+Overall employers appeared to be extremely satisfied with the Green Card scheme. Three quarters of those surveyed said that they were very pleased with the skills that the  foreign  experts  have  brought  to  their  company.  Over  75  per  cent  of  employers and  85  per  cent  of  Green  Card  holders  said  they  would  like  to  continue  the employment  beyond  the  five-year  limit  of  the  permit.  The  government  also  appears satisfied.  The  Ministry  of  the  Interior  (2001)  announced  in  November  2001  that  the Green  Card  System  ‘has  created  an  effective  instrument  for  eliminating  an  acute shortage of skilled workers in the IT sector’.
+
+3.3 United Kingdom
+
+There  are  two  main  entry  routes  into  the  UK  for  the  highly  skilled:   European Economic  Area  (EU  states  plus  Norway,   Iceland,  Liechtenstein)  citizens  have  free access to the labour market; non-EEA citizens require work permits.
+
+Data  on  the  skill  levels  of  EU  citizens  coming  to  work  in  the  UK  are  sparse.  The sample  International  Passenger  Survey  suggests  that  in  the  period  1995-99  there was  an  annual  inflow  of  16,000  professional  and  managerial  workers  from  EEA countries coming for more than a year. This number was dwarfed by that of non-EEA citizens given work permits. In the 1990s the number of applications for a work permit (long- and short-term) has increased dramatically from 48,377 in 1994 to 93,462 in 2000. In 1994, 30,741 work permits (including first permission and TWES permits but not extensions and changes of employment) were issued, rising to 85,550 in 2000.
+
+In  2000,  three  categories  were  dominant:  Associated  professionals  (52.2  per  cent), Professionals (23.5 per cent) and Managers and administrators (20.9 per cent. Those in  health  were  the  largest  group  of  Associate  professionals  (22.4  per  cent),  among whom  11,897  (18.4  per  cent  of  all  issues)  were  nurses  and  a  further  56  were midwives.  Computer  analysts  and  programmers  were  16.2  per  cent  of  issues. Amalgamating them with the 2,736 software and computer engineers recorded in the Professional occupations category gives a total of 13,206 IT work permits, 20.5 per
+
+10
+
+cent of all issues. Business and finance associated professionals were another large group with around 6 per cent of issues. Most of the large category of Managers and administrators were recorded as unspecified managers and administrators, although nearly a thousand issues were to ‘specialist managers’.
+
+The  third  major  category  was  Professional  occupations,  within  which  several specialisms  may  be  identified.  The  largest  group  is  that  of  engineers  and technologists  who  accounted  for  6,625  issues,  10.3  per  cent  of  the  total.  Teaching professionals  accounted  for  6.8  per  cent  (4,369)  of  all  permits.  Among  them  the largest group was researchers (2,060), with school and college teachers numbering 998. The health professionals group received 1,049 permits, 1.6 per cent of the total; of these only 322 (0.5 per cent) were for medical practitioners, a group outnumbered by pharmacists (373 permits). Number of work permits going to the health sector as a whole, i.e. health professionals and associated professionals) totalled 15,526, 24 per cent  of  all  issues.  Business  and  financial  and  legal  professionals  each  had  over  a thousand permits.
+
+With  respect  to  national  origin,  the  US  topped  the  list  (12,654),  closely  followed  by India (12,292) with the Philippines a distant third (6,772). Australia provided 3,979. In recent years, significant shifts have occurred in geographical origins: Indian numbers in 1995 were 1,997 and Filipinos only 66. Most of the former work in the IT sector, most of the latter in health.
+
+These increased numbers have been accommodated within the existing work permit system  where  most  applications  are  now  dealt  with  within  7-10  days.  In  January 2002,  two  new  schemes  were  introduced.  The  highly  skilled  migrant  programme  is designed to allow people of high human capital to migrate to the UK in order to seek and take up work. This is a pilot scheme, initially to be run for a twelve month period as  a  concession  outside  the  Immigration  Rules.  There  is  also  a  new  Innovators scheme which began in September 2000 and  aims to attract to the UK outstanding entrepreneurs  from  overseas  whose  business  proposals  will  result  in  exceptional economic benefits for the UK.
+
+4. REVIEW OF RECENT NATIONAL SCHEMES TO COMPETE FOR HIGHLY SKILLED LABOUR
+
+4.1 Recent study for the Home Office
+
+In the remainder of the paper we  report on some of the findings of a study funded by the UK Home Office to investigate policies recently developed by selected European and  New  World  states  to  encourage  the  recruitment  and  entry  of  highly  skilled workers. Comments in the following section draw on this research, but also on other work and on general experience. Observations expressed are entirely our own and not necessarily those of the Home Office.
+
+The  aim  of  the  study  was  to  identify  the  countries  where  new  schemes  or  policy measures have been introduced recently to facilitate entry for highly skilled migrants on both a temporary and/or permanent basis. Policies enabling overseas students to switch into skilled employment schemes were also investigated.
+
+The study involved three main phases of research. The first stage was to identify the countries where highly skilled schemes and policies have been set up. In all, twenty-nine  schemes  in  ten  countries  were  identified.   The  second  stage  involved  the production  of  a  detailed  'grid'  of  information  for  each  country  scheme,  including
+
+11
+
+information on the aims and objectives, the procedures and the marketing of these new or existing initiatives. The final part of the research programme was a series of visits  to  selected  countries  and  to  overseas  representatives  in  the  UK  to  talk  to officials  and  academics.  The  purpose  of  these  visits  was  to  obtain  more  detailed information on the schemes.
+
+The  policies  and  countries  in  this  study  are  not  directly  comparable  although similarities  can  be  seen  between  them.  Countries  vary  in  their  philosophies  and experiences  of  managing  migration;  some  such  as  the  UK,  France,  Germany,  the USA, Canada and Australia have long standing immigration policies, others such as Ireland  are  experiencing  the  challenges  of  immigration  for  the  first  time.  However, these  countries  are  all  experiencing  skills  shortages  in  sectors  of  their  economy, notably  in  information  technology  (IT),  health,  education  and  other  professional sectors  and  they  are  having  to  compete  with  each  other  to  attract  highly  skilled foreign workers to fill gaps in the labour market.
+
+4.2  Main features of schemes to recruit highly skilled workers
+
+The schemes identified, together with their main characteristics, are summarised in Table  3  (see  end  of  paper).  The  following  section  highlights  those  features  of particular importance in assessing how countries are competing for foreign expertise.
+
+There  is  no  common  definition  of  the  highly  skilled,  although  most  governments specify a certain level of qualifications, normally subject to verification before entry is allowed.  In  some  cases,  salary  level  rather  than  specific  qualifications  may  be acceptable.
+
+The design of the overall policy varies between countries. In some cases work permit regulations and procedures have been simplified in order to facilitate entry of highly skilled  migrants,  largely  as  a  result  of  employer  pressure.  Strategies  often  address specific shortages, notably those that are IT or health related. Schemes may also be part  of  wider  policies  to  encourage  participation  of  existing  foreign  workers, encourage  return  of  highly  skilled  emigrants,  develop  training  programmes  for indigenous  workers,  especially  those  who  are  unemployed,  facilitate  access  to  the labour market for spouses of highly skilled migrants. European schemes are largely temporary  with  possibilities  for  permanent  residence  (at  the  moment  excluding Germany),  while  Australia  and  Canada  have  permanent  skilled  migration  entry routes,  with  several  specific  schemes,  and  also  have  rapidly  growing  temporary programmes.
+
+In a number of cases countries have sought to attract the highly skilled by exempting them  from  existing  regulations  and  procedures.  Measure  include  exemptions  from: national  or  regional  labour  market  tests,  enabling  governments  to  offer  ‘fast-track visas’;  work  permit  requirements  for  some  highly  skilled  personnel  especially  intra-company transferees; and labour market testing for spouses of permit holders.
+
+Simplification  of  procedures  is  another  strategy.  Employers  may  apply  to  central employment offices rather than first having to apply to regional offices, or the central employment  office  no  longer  has  to  send  out  applications  from  employers  for shortage  workers  to  regional  offices  for  a  market  test.  There  may  also  be  self-assessment of skills before a permanent migration application is made.
+
+12
+
+The underlying rationale for many schemes is the perceived need to deal with labour shortages.  In  the  course  of  the  research,  several  points  have  become  clear. Shortages exist  in  the  IT  sector  everywhere.  Public  services,  particularly  health,  are  frequent concerns. In  some  countries shortages  and  vacancies  are  listed  on  websites. However,  shortages  are  often  exaggerated  or  over  estimated.  While  long-term concerns  with  the  demographic  situation  exist,  they  do  not  determine  policies towards the highly skilled.
+
+Quotas are a major policy element in a few countries. They are seen as a means of providing flexibility in those countries that do operate them and as a mechanism for persuading  the  public  that  migration  is  being  controlled.  In  some  cases  limits  have been raised to meet the increasing demand for skills in the labour market.
+
+Points  tests  are  not  common.  They  are  used  to  ensure  that  migrants  meet  a minimum  skills  requirement  and  the  scale  can  be  amended  to  recognise  changing labour market demands. Germany’s new immigration act includes the possibility of a points test and the  new UK highly skilled migrant programme uses points. As yet, no other country uses them.
+
+Several  governments  have  adopted  measures  to  facilitate  the  international movement  of  intra-company  transferees.  In  some  cases  this  is  specifically  to encourage  foreign  investment.  Simplified  procedures  and  exemptions  are widespread and, in the case of Ireland, ICTs have effectively been taken out of the work permit system. In Canada the spousal scheme is designed to help the spouses of ICTs and other highly skilled immigrants enter the labour market.
+
+One area to which attention is increasingly being paid is that of student-switching. Policies  have  been  introduced  to  enable  foreign  students  to  switch  status  and  give them  a  work  permit  on  the  basis  of  their  skill,  without  having  to  leave  the  country when their studies were completed. However, at the moment there are no clear links between  attempts  to  attract  more  overseas  students  (‘education  for  trade’)  and policies towards student switching.
+
+In  all  countries  studied,  the  role  of  employers  is  paramount.  They  are  principally responsible  for  the  identification  of  shortage  occupations.  They  put  pressure  on Governments  to  simplify  procedures,  especially  in  shortage  sectors,  and  to  raise caps.   Their  role  is  growing  in  importance,  frequently  driving  policy.  'Occupational Creep'  might  be  occurring  as  employers  in  different  sectors  approach  governments for schemes to deal with their occupational shortages.
+
+There are a number of problems in setting up and operating these special schemes. These  include  how  to  assess  the  skill/qualifications  level  of  applicants  and  the language barrier to integration and ability to perform. A scheme is also less attractive if possibility of permanent residence is not offered, if there is delayed or no access to labour market for the spouse or if there are delays associated with residence permits. In some cases there is a feeling that immigration is a cheap option to the detriment of the domestic workforce. There are also felt to be unresolved issues, notably how to deal  with  those  foreigners  who  become  unemployed  and  what  happens  in  an economic downturn.
+
+5. WHAT CAN WE LEARN FROM THE EXPERIENCE OF OTHER COUNTRIES?
+
+13
+
+The  following  section  looks  at  what  we  may  learn  from  the  experience  of  other countries.  The  views  expressed  in  this  section  are  those  of  the  authors  and  do  not represent the views of the Home Office, nor do they reflect Government policy.
+
+5.1 What are the relative benefits of temporary v permanent schemes?
+
+For the most part they are aimed at different things. Temporary schemes tend to be aimed at specific labour shortages, they can also be more easily targeted at specific groups. The skilled component of permanent schemes is more likely to be addressed to the acquisition of human capital in the longer term.
+
+The main advantages of temporary schemes are:
+
+- they can be targeted’ - they are more likely to be acceptable to public opinion; - they give flexibility to employers; - they allow governments to modify their policies more easily and frequently; and - by bringing in high level skills they encourage innovation in the long run.
+
+The main disadvantages are that temporary schemes:
+
+- may be too narrowly focussed because of narrow definition of ‘highly skilled’; - may lead to 'sector creep' as employers demand schemes for other      occupational groups; - are difficult to stop once established; -  rely  on  assessments  of  labour  shortage  which  are  difficult  to  quantify  and  which may be volatile.
+
+The  boundary  between  temporary  and  permanent  is  blurred.  Frequently  temporary schemes offer the option of becoming permanent. Sometimes this is by design as is the case in Australia where the schemes allow for such status switching. Elsewhere temporary schemes may be an indirect and unplanned route to permanency.  In the US, employers have recruited foreigners through the H-1B visa scheme rather than through  the  normal  Green  Card  scheme,  as  they  would  otherwise  have  done, because  it  is  quicker.  Subsequently  and  while  in  employment  the  workers  have applied for a Green Card and permanent settlement.
+
+In Germany the lack of possibility of permanent settlement has been seen by some as a major weakness in attracting foreign IT workers. However, research has shown that German employers are overwhelmingly in favour of the scheme and feel that it has increased their international competitiveness.
+
+Special  schemes  for  business  entrants  and  entrepreneurs  seem  least  successful. Numbers attracted in are low and some countries complain about abuse and fraud.
+
+Only Ireland has attempted a formal scheme to encourage the return of its own highly skilled  nationals.  At  great  expense  (IRÂ£  4-5  million),  a  high  publicity  campaign entitled ‘Jobs in Ireland’ was launched with road shows, presentations and websites. Employers and government department went overseas together, to recruit and attract Irish  expertise.  The  campaign  targeted  countries,  such  as  South  Africa,  with  large Irish  communities.  The  success  of  the  initiative  is  difficult  to  measure.  There  is anecdotal evidence that returns increased, although this may have been due to the success  of  the  Irish  economy  rather  than  the  specific  scheme.  A  quantitative assessment  of  the  scale  of  return  is  not  possible  because  returning  Irish  nationals are statistically invisible.
+
+14
+
+5.2  Should  schemes  be  part  of  a  wider  sector/occupational  training programme?
+
+There  is  evidence  to  suggest  that  schemes  should  be  part  of  a  wider  migration programme, mainly because it is easier to sell them to the domestic population and to obtain political consensus. In Germany the 'Green Card' scheme is part of a wider programme  to  produce  250,000  domestic  IT  specialists  by  2005.  In  addition  to  the 'Green Card' scheme supplementary training measures were introduced, creating a strong  link  between  the  admission  of  highly  skilled  foreigners  and  the  need  to intensify  the  training  of  the  unemployed  within  Germany.  The  IT  industry  agreed  to increase internal and external training opportunities and to take steps to strengthen the interests of young people in studying and working in the IT sector. An intensified training  programme  has  been  instituted  and  the  evidence  is  that  people  who participate in IT training are particularly successful in finding new employment.
+
+This linking of the scheme and the training programme helped persuade the German public  that  the  'Green  Card'  scheme  is  a  benefit.  The  linked  policy  provides  both  a short  and  a  long-term  solution  to  skills  shortages  in  the  labour  market  while demonstrating  that  inflows  can  be  controlled  through  quotas  and  at  the  same  time allowing the opening up of the German labour market for the first time in decades.
+
+It  is  possible  to  link  entry  schemes  to  integration.  In  Denmark  the  'Ice-breaker' scheme  is  part  of  a  wider  policy  of  finding  employment  for  skilled  immigrants  who have  been  in  the  country  for  some  time.  It  has  been  successful,  albeit  in  limited numbers,  in  integrating  foreign  workers  into  the  labour  market,  principally  by changing the attitude of employers to the recruitment of ethnic minorities.
+
+5.3 Benefits of points based v other types of scheme?
+
+No  countries  have  developed  a  satisfactory  alternative  to  a  points  system  for immigration of permanent skilled migrants, especially where planning targets are to be achieved. However, only the UK uses a points system for its temporary migration programme although that does have an avenue to permanent stay.
+
+Points  systems  have  a  number  of  advantages.  Firstly,  they  allow  flexibility  in  the immigration programme by allowing levels to be set against those characteristics of the  individual  deemed  to  be  of  economic  or  social  importance.  In  Canada,  for example, the points test has been redesigned to give more weight to the education level  of  both  primary  entrant  and  spouse.  The  ability  to  continuously  refine  criteria means  that  the  programme  can  be  sympathetic  to  labour  market  changes,  for example,  in  Australia  the  overall  skill  level  of  migrants  has  been  increasing.  The changes made to the points test categories of the skilled stream are now claimed to be delivering significant economic benefits to Australian society.
+
+Secondly,  points  systems  can  be  used  to  indicate  particular  labour  shortages  and changes in the points levels can be made in order to accommodate changes in the scale  and  nature  of  shortages.  A  Migration  Occupational  Demand  List  was introduced in Australia in 1999 to target migrants with skills relevant to occupations identified  as  being  in  demand  there.  People  seeking  to  migrate  to  Australia  on  the basis of their work skills receive more points if their nominated occupation is on the MODL list at the time that their application is assessed.
+
+Thirdly,  the  existence  of  a  points  system  allows  self-assessment  by  potential migrants.  Making  this  test  compulsory  has  seen  the  refusal  rate  in  the  Australian
+
+15
+
+skilled migration programme drop to five per cent, resulting in both cost saving and reduced consideration time.
+
+Fourthly, a points based system allows governments to balance the relevant parts of their whole migration programme, in particular between skilled migration and family streams.
+
+5.4 Benefits of specific v general WP schemes for attracting high level skills and of exemptions v fast-tracking?
+
+Both  specific  schemes  and  work  permit  systems  have  successfully  been  used  by governments to address specific skills shortages in the domestic labour market.
+
+Using their work permit schemes is the first resort of most European countries. These schemes  have  the  advantages  of  being  already  in  existence  and  are  capable  of being adapted, but they tend to be cumbersome and slow. Countries have got round these  problems  through  exemptions  to  procedures  rather  than  through  positive changes. Exemptions may take several forms. In the Netherlands, several groups are exempted from the labour market test, including 3,000 key personnel in multi-national companies, 2,000 researchers and 3-4,000 trainees. In 2000, of 27,000 work permit applications only 6-7,000 were labour market tested.
+
+In  both  the  Netherlands  and  Denmark  the  requirement  to  consult  regional  labour market boards about skills shortage occupations has been removed.  In France since 1998, IT specialists are exempt from the requirement to have a contract and from a labour market test and family reunion is also made easier for them. Employers find exemptions useful in fast-tracking recruitment and that they bring a flexibility which is directly  connected  to  the  labour  market.   One  disadvantage  of  an  exemptions strategy is that the process loses transparency; another is that employers may not be aware of when they apply.
+
+A distinction should be made between those countries where the work permit system is mainly geared to highly skilled and those where there is a substantial element of low  skill.  Ireland  comes  into  the  second  category  and  it  was  found  there  that  the existing  work  permit  system  was  not  delivering  sufficient  numbers  of  highly  skilled workers in certain sectors of the economy. The new Work Authorisation/Visa scheme made it easier for employers to fill from overseas acute shortages in certain sectors notably nursing, IT and construction.
+
+The main benefits of specific schemes appear to be that they can be more sharply focussed, innovative and it is easier to persuade the public that migration is a positive a  process  and  is  being  controlled  by  governments.  By  short  cutting  procedures migrants can be in place and at work more quickly and the scheme is more sensitive and  better  able  to  accommodate  labour  market  changes.  They  are  also  easier  to evaluate because of their specific aims and targets, although in most cases they are too recent for evaluation to have been carried out.  A key element in their success is that  for  the  most  part  they  do  not  exist  as  stand-alone  schemes  but  are  part  of broader strategies. This is true of the schemes in Australia, Canada and Germany. In the US, for example, the H-1B visa scheme was introduced as part of a strategy in which training and education of the domestic labour force represented the long-term solution to skills shortages.
+
+One  of  the  big  problems  with  a  specific  scheme  is  how  to  assess  its  shelf  life  and stop it when it has become time expired. No IT recruitment scheme has ever been
+
+16
+
+curtailed. This is largely because of pressure from employers, in whose interest it is to  keep  a  scheme  going  in  order  to  increase  the  scope  and  flexibility  of  their recruitment.  Employers  tend  to  overestimate  their  labour  requirements  at  the planning  stage  of  a  scheme  and  at  its  institution,  but  then  seem  to  be  satisfied  by lower levels of recruitment. This suggests that their actual need is smaller than that originally voiced and so in theory they should have no objection to the running down of a scheme.
+
+5.5 Spousal access to the labour market?
+
+There  are  still  variations  in  policies  with  respect  to  spousal  employment.  On  the whole schemes which improve access to the labour market by spouses are seen to be  positive  policies  because  they  make  it  easier  to  attract  primary  highly  skilled migrants, they allow continuation of career development by spouses and also enable households to have a dual income. Problems may arise when the prime entrant, who may  be  an  intra-company  transferee,  is  required  to  move  on  when  the  spouse  has integrated him/herself into the labour market.
+
+Only Canada has a specific spousal scheme and it is designed to facilitate the entry of a highly skilled migrant such as an intra-company transferee. It is not designed to meet a labour market shortage and is restricted to the spouses of highly skilled prime entrants. In the Netherlands the government has within the last couple of years also recognised  the  importance  of  spousal  access  to  the  labour  market  and  now  allows the spouses of key personnel moved by multi-national companies to work and gain a work permit without labour market testing.
+
+However, there is little research on the overall consequences of spousal employment schemes. The key measurement of success is whether the existence of the scheme changed  the  decision  of  the  prime  mover  to  come.  There  is  no  evidence  on  this, although Canada is embarking on a survey to find out.
+
+5.6 Salary v qualifications as basis for entry?
+
+This  distinction  is  significant  with  regard  to  temporary  schemes.  It  is  particularly relevant  to  the  IT  sector  where  formal  qualifications  are  frequently  less  relevant.  In these cases a salary alternative has proved to be acceptable, examples being both Germany and France.
+
+There  is  little  research  that  discusses  the  advantages  and  disadvantages  of  each, although  it  appears  that  both  may  be  open  to  abuse.  In  the  US  for  example,  lax procedures  mean  that  checking  of  both  the  qualifications  of  individuals  and  the legitimacy of companies is not always carried out. Wage attestations from employers are  also  open  to  abuse  with  the  wages  actually  paid  being  less  than  stated  on  the original application. Research into whether H-1B workers undercut wages and raise unemployment  amongst  the  indigenous  population  provides  ambivalent  results. Similarly  in  Ireland  the  quality  of  those  gaining  access  still  remains  unchecked  by government and is left to the employers.
+
+5.7 Success of student switching schemes?
+
+This is a recent policy and there is very little evidence of how successful it is likely to be.  In Australia policy changes have been introduced to enable foreign students to switch  status  on  the  basis  of  their  skills.  A  substantial  proportion  of  skilled  stream applicants are former overseas students who have switched status as they find that their  qualifications  are  easily  recognised  and  they  benefit  from  prior  life  and  work
+
+17
+
+experience in Australia. The German 'Green Card' scheme has successfully sought to  attract  foreign  graduates  from  German  universities  graduating  with  IT  related degrees:  1500  of  the  first  10,400  'Green  Card'  permits  were  granted  to  them.  The French government is keen to encourage student switching by foreign IT graduates at  French  universities  although  there  is  little  evidence  of  how  successful  this  has been.
+
+5.8 What makes a successful marketing campaign?
+
+A distinction should be made between marketing a scheme as an awareness-raising exercise amongst the domestic population and as a means of encouraging or aiding employers to use the scheme to recruit or to attract potential migrants. In all of these different marketing strategies are used and there is no obvious route to success. It is easier  to  market  a  specific  scheme  because  this  can  be  presented  as  a  specific solution to a specific problem.
+
+Australia and Canada market their migration programmes through extensive publicity of  their  schemes  in  their  literature  and  on  their  websites.  As  a  result,  the  schemes and their rules and regulations are highly transparent. The fact that they consistently hit  their  annual  migration  plan  targets  indicates  their  marketing  success.  Their success  is  not  unrelated  to  the  long  history  of  their  migration  programmes  and  the continuous refinement process they undergo.
+
+In  Germany  the  government  and  employers  marketed  the  'Green  Card'  scheme actively. The initiative had the support of the Federal Chancellor from the outset and he  launched  it  at  a  major  IT  exhibition.  This  first  policy  presentation  was  strongly hyped in the media, helping to gain public support and raise awareness. The scheme was  marketed  to  the  public,  to  employers  and  to  social  partners  and  the  Federal Employment  service  carried  out  a  series  of  information  campaigns.  Information  on the scheme was distributed abroad at German embassies and details were placed on the Ministry website in German and in English. Marketing was also assisted by the creation  of  a  web-based  database  by  the  Federal  Employment  Service  which contains the CVs of applicants to the ‘Green Card’ scheme, together with details of job  vacancies.  This  database  thus  brings  together  the  job  vacancies  of  employers, potential foreign recruits and also German workers who are looking for a job.
+
+In Denmark government television publicity at peak times contributed to the success of the 'Ice-breaker' scheme measured by an increased take up.
+
+Consultation between government and social partners is another form of marketing. The Australian Business Advisory Panel, for example, is designed to provide advice on  best  practice  in  facilitating  the  international  movement  of  business  people  to Australia.  In  the  Netherlands  the  government  has  an  agreement  with  its  social partners in the health sector to allow 3 per cent of total staff to be foreign migrants.
+
+5.9  Designing  a  highly  skilled  immigration  policy:   what  can  we  learn  from international experiences?
+
+On  the  basis  of  the  research  we  have  carried  out,  the  main  positive  lessons  for developing schemes for bringing in highly skilled workers are:
+
+1.  There  needs  to  be  a  consultation  programme  to  define  shortage  sectors,  agree planned  targets  and  to  gain  public  support  and  acceptance.  Consultation  should include all the social partners and should be transparent.
+
+18
+
+2. The programme must be backed by a comprehensive research programme which will identify shortages, training requirements, help establish planning levels, evaluate policies and produce the correct feedback. It will require the collection of appropriate data, the development of methodologies and frameworks for analysis.
+
+3.  A  points  system  is  desirable  for  the  establishment  of  a  programme  designed  to bring  about  permanent  settlement  of  high  level  human  capital.   Points  systems indicate shortages, are flexible and lead to greater efficiency. They also allow direct comparison with the systems used in other countries.
+
+4. To be successful programmes are best sold to employers, the public and migrants through carefully directed media campaigns. These should be generated from the top and  be  used  to  lead  public  opinion,  stressing  the  positives  and  promoting transparency. They indicate that the government is taking the policy seriously.
+
+5.  Procedures  need  to  be  speedy  and   as  simplified  as  possible  and  thus  able  to respond better to labour market needs. It is important that where more than one arm of  government  is  involved,  for  example  in  giving  a  work  permit  and  a  residence permit, that all move together.
+
+6.  A  skill-matching  database  helps  to  link  together  the  labour  supply  with  the changing demand and ideally should have a regional component. The database can be used to provide a pool of potential migrants. Once developed it may also provide a means of labour market testing.
+
+7. Spousal  employment  schemes  make  a  positive  contribution,  especially  as  the households of highly skilled migrants frequently contain more than one person who values career development.
+
+On the other hand:
+
+8. There is no satisfactory way of assessing skills shortages. Governments can not do it, employers over estimate and too often shortage lists are inflexible.
+
+9.  No  satisfactory  way  of  labour  market  testing  exists.  The  consequence  is  that governments  use  wholesale  exemptions  which  are  difficult  to  reverse  when circumstances change.
+
+10. Business  entrepreneur  schemes  lay  themselves  open  to  fraud.  Either  the investment  does  not  materialise  or  the  original  sum  is  simply  used  as  collateral against new borrowing.
+
+11. Too liberal an approach to intra-company transferees encourages abuse.
+
+12. Short-term schemes lead to integration difficulties. They  deter applications from some  groups  and  they  create  difficulties  when  de  jure  temporary  schemes  become de facto permanent ones.
+
+6.  CONCLUSION
+
+The  rules  for  governmental  management  of  migration  flows  are  still  being  written. The  situation  in  Europe  differs  from  that  in  the  New  World  because  of  the  free movement system in the European Economic Area and, prospectively, in the light of accession by Central and Eastern European countries. Nevertheless, as the Council of  Europe’s  management  strategy  (1998)  and  the  EU’s  common  migration  policy
+
+19
+
+(European  Commission,  2000)  testify,  the  essentials  of  successful  management  in that continent have already been identified.
+
+There is general agreement across the developed world that increasing international access  to  high  level  skills  is  desirable.  As  yet,  this  willingness  to  recruit  expertise does  not  extend  down  the  skill  scale  for  both  labour  market  and  social  integration reasons.  Unemployment  remains  high  in  a  number  of  European  countries, undermining  the  ‘need’  for  foreign  workers.  Recent  electoral  gains  by  far  right-wing parties  and  personalities  in  Europe,  at  best  luke-warm  towards  immigration  and sometimes  downright  against,  suggest  that  despite  calls  for  replacement  migration the continent is not yet ready to embrace large new immigration flows.
+
+The   recruitment  of   skilled  workers  to  fill  specific  labour  shortages  seems  likely  to continue for some time. At present these shortages are in a relatively small number of occupations. Our study suggests that if we omit from the equation IT workers and nurses, then the overall skill shortage gap narrows considerably. Certainly, these are the  two  occupations  where  countries  are  most  actively  competing  at  the  moment. However,  the  downturn  in  the  IT  sector,  combined  with  possibility  of  outsourcing some IT tasks, may well slow the gadarine-like rush to recruit foreign specialists that has driven some recent schemes.
+
+Two interesting issues relating to skill shortages have arisen from our investigation. First, no country has succeeded in finding a way accurately to measure the scale of shortages, with the consequence that no one knows how and when to end a scheme once  established.  Second,  the  issue  of  ‘sector  creep’  may  mean  that  governments are  pressed  by  employers  in  other  sectors  to  bring  in  fast-track  schemes  for  other occupations. A possible scenario is thus a plethora of individual occupational special schemes, representing a bureaucratic flowering of the migration business.
+
+The  competition  to  attract  high  level  skills  per  se  is  more  difficult  to  call.  Most countries  now  recognise  the  desirability  of  attracting  the  best  brains.  Policies  both implicitly and explicitly assume that brain gains are an important factor in economic growth  and  most  economic  studies  indicate  positive  fiscal  benefits  from  such movement.  Furthermore,  the  relative  social  invisibility  of  highly  skilled  immigrants leads  to  their  easier  integration  into  host  communities.  The  continuing  growth  of knowledge-based  industries,  economic  globalisation,  increased  international movement of students and more universal acceptance of qualifications, to name but a few of the forces at work, mean countries will continue to chase brains and brains will  continue  to  chase  both  the  dollar  and  the  lifestyle.  This  suggests  that  many governments in the more developed world will see it in their interests either to begin or  continue to compete for the highest level skills. However, we must not lose sight of the ethical and practical issues raised by these developments for poorer countries experiencing brain drains.
+
+20
+
+Table 3: International Highly Skilled Entry Routes Country Entry Route Ministries/ Agencies Temporary/Permane nt
+
+Number Issued in 2000
+
+Sector Specific? Labour Market Test?
+
+Points Test? Quota Restricted? Spouses Access to
+
+Labour Market
+
+Student Switching
+
+Australia Skilled Independent Department of
+
+Immigration and Multicultural and Indigenous Affairs (DIMIA)
+
+Permanent 14,234 Occupation
+
+must be on the Skilled Occupation list (SOL).
+
+No Yes No Immediate Policy changes
+
+have been introduced to enable foreign students to switch status on the basis of their skills.
+
+Skill Matching DIMIA Permanent Currently
+
+contains approx 1,000 application s.
+
+Occupation must be on the SOL.
+
+No No No Immediate Yes Skilled Australian Sponsored DIMIA Permanent : Occupation
+
+must be on the SOL.
+
+No Yes No Immediate Yes Business Skills DIMIA Permanent 7,364 Must have proven experience/ ownership of running a business.
+
+No Yes No Immediate Yes Employer Sponsored DIMIA Permanent 7,420 No waived if
+
+occupation is on Migration Occupations on Demand List (MODL))
+
+No No Immediate Yes Distinguished Talent DIMIA Permanent 229 Applicants must have unique
+
+talents.
+
+No No Immediate Yes
+
+21
+
+Country Entry Route Ministries/Agencies Temporary/Permanent Number Issued in 2000
+
+Sector Specific?
+
+Labour Market Test? Points Test? Quota Restricted? Spouses Access to
+
+Labour Market
+
+Student Switching
+
+Temporary Residence (Economic Stream)
+
+DIMIA Temporary - visas are
+
+issued for 3 months. Multiple visas can be issued for a maximum of 10 years. Applications for permanent settlement can be made.
+
+45,000 No Labour market testing
+
+may be necessary for Business Entry (short stay) visas in this stream.
+
+No No Immediate Yes Temporary Business Entry (Long Stay)
+
+DIMIA Temporary - visas are
+
+issued for between 3 months and 4 years. Applications for permanent settlement can be made.
+
+37,000 No Occupation must
+
+meet minimum skills threshold and remuneration must be at least AU$33,800.
+
+No No Immediate Yes
+
+Canada Independent Skilled Workers Program
+
+Citizenship and Immigration Canada and Human Resources and Development Canada
+
+Permanent 118,495 No The labour market
+
+skills of the applicant are assessed.
+
+Yes No Immediate No
+
+Business Immigrants
+
+Citizenship and Immigration Canada and Human Resources and Development Canada
+
+Permanent 13,655 No The labour market
+
+skills of the applicant are assessed.
+
+Yes No Immediate No
+
++ Employment Authorisation (Employer Sponsored)
+
+Citizenship and Immigration Canada and Human Resources and Development Canada
+
+Temporary - valid for up to 3 years and is then renewable.
+
+91,311 No National and job
+
+specific Labour market test carried out by the Human Resources Canada Centre.
+
+No No Spouses
+
+must apply for an employment authorisation.
+
+No
+
+Country Entry Route Ministries/Agencies Temporary/Permanent Number Issued in 2000
+
+Sector Specific
+
+Labour Market Test? Points test Quota Restricted Spouses Access to
+
+Labour Market
+
+Student Switching
+
+22
+
+Canada Software Pilot Program Citizenship and Immigration Canada,
+
+Human Resources and Development Canada and the Software Human Resource Council (SHRC).
+
+Temporary - valid for up to 3 years and is then renewable.
+
+: Yes  -
+
+Software Professionals
+
+Applicants are exempt from the job-specific labour market test. Must have suitable qualifications and 2 years work experience.
+
+No No Spouses
+
+must apply for an employment authorisation but are exempt from labour market testing.
+
+No
+
+Spousal Employment Authorisations
+
+Citizenship and Immigration Canada and Human Resources and Development Canada
+
+Temporary - valid for up to 3 years and is then renewable.
+
+: Applies to
+
+spouses accompanyin g temporary foreign workers in high skill and high growth sectors of the economy.
+
+Employment authorisations are issued without a national labour market test.
+
+No No Permit is for
+
+spouses of highly skilled foreign workers.
+
+No
+
+France Work Permits Ministry of Foreign Affairs, Ministry of Social Affairs, Office des Migrations Internationales and the Agence Nationale Pour l'Emploi.
+
+Temporary and permanent - valid for 1 year and after 3 years leads to a 10 year residence/work visa. Applications for permanent residence can be made.
+
+6,000 permanent and 5,500 temporary.
+
+No A labour market test is
+
+carried out by the Agence Nationale Pour L'Emploi (ANPE).
+
+No No Access to the
+
+labour market is given once residence is consolidated.
+
+No - is under discussion.
+
+Fast Track Work Permit Ministry of Foreign Affairs, Ministry of
+
+Social Affairs, Office des Migrations Internationales and the Agence Nationale Pour l'Emploi.
+
+Temporary - valid for 1 year, renewable. Applications for permanent residence can be made.
+
+2,605 Yes - IT
+
+specialists and highly skilled migrants.
+
+No , but applicants must provide evidence of high qualification and be on an annual salary of at least 180,000 Ffr
+
+No No Access to the
+
+labour market is given once residence is consolidated.
+
+Students graduating with IT degrees can gain permanent residence.
+
+23
+
+Country Entry Route Ministries/Agencies Temporary/Permanent Number Issued in 2000
+
+Sector Specific?
+
+Labour Market Test? Points Test? Quota Restricted? Spouses Access to
+
+Labour Market
+
+Student Switching
+
+Germany Work Permits Federal Ministries of the Interior and for Labour, the Federal Employment Agency and the International Placement Service.
+
+Temporary - maximum 3 years, renewable. After 5 years can apply for permanent residence.
+
+333,381 No A labour market test is
+
+carried out by the Federal Employment Agency.
+
+No No Must wait 1
+
+year.
+
+No - is under discussion.
+
+Green Card' Scheme
+
+Federal Ministries of the Interior and for Labour, the Federal Employment Agency and the International Placement Service.
+
+Temporary - permits are valid for a maximum of 5 years. No possibilities for permanent residence are offered.
+
+Between August 2000 and November 30th 2001 10,415 permits had been issued.
+
+Yes- IT specialists. A labour market test is carried out by the
+
+Federal Employment Agency.
+
+No Yes - the
+
+quota was originally 10,000 rising to 20,000.
+
+Must wait 1 year. Students graduating
+
+with IT degrees can gain immediate access to work and residence permits.
+
+Ireland Work Permits Department of Enterprise, Trade and Employment, the Department of Justice, Equality and Law Reform and FAS (state training authority).
+
+Temporary - valid for 1 year, renewable. After 5 years permit holders are given extended permission to remain.
+
+18,000 No Applications must
+
+include a letter from FAS confirming that reasonable efforts have been made to fill vacancies from the Irish and EU labour market.
+
+No No Must wait 1
+
+year before applying for a work permit.
+
+Students no longer have to return home before applying for a work permit.
+
+Work Visa and Authorisations Department for Foreign Affairs, Department of
+
+Enterprise, Trade and Employment, the Department of Justice, Equality and Law Reform and FAS (state training authority).
+
+Temporary - usually issued for 2 years, renewable. After 5 years permit holders are given extended permission to remain.
+
+Between May 2000 and June 2001 3249 permits were issued.
+
+Yes - IT specialists, construction professionals and nursing.
+
+No No No Must wait 1
+
+year before applying for a work permit.
+
+Students no longer have to return home before applying for a work permit.
+
+24
+
+Country Entry Route Ministries/Agencies Temporary/Permanent Number Issued in 2000
+
+Sector Specific?
+
+Labour Market Test? Points Test? Quota Restricted? Spouses Access to
+
+Labour Market
+
+Student Switching
+
+Inter-Company Transfers Department of Enterprise, Trade and
+
+Employment and the Department of Justice, Equality and Law Reform.
+
+Temporary - for maximum of 4 years then must apply for work permit.
+
+: Yes  -  only
+
+available for the transfer of employees to an Irish branch, subsidiary or parent company.
+
+No, the employer only has to write a letter confirming the transfer, this is surrendered to the immigration official on arrival.
+
+No No Must wait 1
+
+year before applying for a work permit.
+
+Not applicable.
+
+Netherlands Work Permits Ministry for Social Affairs and Employment and the Public Employment Service.
+
+Temporary - maximum 3 years. After 3 years, a residence permit without restrictions can be applied for. After 5 years permanent residence can be granted.
+
+27,000 No Yes - Regional and
+
+national labour market tests are carried out by the Public Employment Service.
+
+No No Must apply
+
+for a work permit.
+
+No
+
+Fast Track Work Permit Ministry for Social Affairs and Employment
+
+and the Public Employment Service.
+
+Temporary - maximum 3 years : Yes  -  IT
+
+specialists and employees of multinational countries.
+
+No - applicants are exempt from regional and national labour market tests.
+
+No No Must apply
+
+for a work permit.
+
+No
+
+Norway Work Permits for Specialists The Directorate of Immigration, The
+
+Ministry of Foreign Affairs and Regional Employment Offices.
+
+Temporary - permits are valid for 1 year, renewable. After 3 years can apply for permanent settlement.
+
+305 Yes -
+
+applicants must be 'specialists' or have special qualifications
+
+Yes - a labour market test is carried out by the local Employment Service.
+
+No No - but is
+
+under consideration.
+
+Immediate access to a work permit and the labour market.
+
+No
+
+25
+
+Country Entry Route Ministries/Agencies Temporary/Permanent Number Issued in 2000
+
+Sector Specific?
+
+Labour Market Test? Points Test? Quota Restricted? Spouses Access to
+
+Labour Market
+
+Student Switching
+
+United Kingdom Highly Skilled Migrant
+
+Programme
+
+Work Permits (UK) and the Immigration and Nationality Policy Directorate of the Home Office.
+
+Temporary - permits are valid for 1 year, renewable. Can apply for permanent settlement after 4 years.
+
+: No No Yes No Immediate Yes -
+
+applications are accepted from students graduating from UK universities.
+
+Innovators
+
+The Immigration and Nationality Directorate (Business Case Unit) of the Home Office.
+
+Temporary - initially 18 months, renewable for up to 4 years, can then apply for settlement.
+
+: Yes  -
+
+entrepreneurs .
+
+No - but must have a business proposal that will lead directly to the creation of 2 full-time jobs within 12 months of establishment.
+
+Yes No Immediate Not
+
+applicable.
+
+United States
+
+H-1B visas Department for Labor, the Immigration and Naturalization Service (INS) and State Departments.
+
+Temporary - permits are issued for up to 3 years and are renewable for a total of 6 years.
+
+163,000 were approved in 2001.
+
+Applicants must be highly skilled.
+
+No - but vacancies must be advertised in the US before employers can petition for an H-1B employee.
+
+No Yes - the
+
+quota was raised to 195,000 in 2001.
+
+Spouses are generally not permitted to work.
+
+Yes -applications are accepted from students graduating from US universities.
+
+Source: Migration Research Unit
+
+28
+
+REFERENCES:
+
+Coleman, D., (2000a), Who’s afraid of low support ratios? A UK response to the UN Population  Division  report  on  ‘Replacement  Migration’,  Paper  prepared  for the United Nations ‘Expert Group’ meeting, New York, October 2000.
+
+Coleman, D., (2002), The European demographic future: its history and challenges. Paper presented at the conference on The Political Economy of Global Change 1950-2050, Bellagio, April 8-12.
+
+Council of Europe, (1998), Towards a Migration Management Strategy. Strasbourg, Council of Europe.
+
+Dixon,  M.,  (1999),  Skills  99  -  IT  Skills  summary,  IT  National  Training  Organisation and Alliance for IS Skills; Report to DTI and DfEE, June 1999.
+
+DTI, (2000), The Age Shift - Priorities for action, Foresight Ageing Population Panel, URN 00/1359.
+
+European  Commission,  (1996),  The  Demographic  Situation  in  the  European  Union 1995.  Luxembourg:  Office  for  Official  Publications  of  the  European Communities.
+
+European Commission, (2000), A Common Migration Policy for the European Union. Directorate Justice and Home Affairs, Brussels.
+
+Feld, S., (2000), Active Population Growth and Immigration Hypotheses in Western Europe, European Journal of Population, 16: 3-40.
+
+Gott, C. and Johnston, K., (2002). The Migrant Population in the UK: Fiscal Effects, RDS Occasional Paper No. 77, Home Office, London.
+
+INS, (2000), Characteristics of Specialty Occupation Workers (H1-B): October 1999-February  2000),  US  Immigration  and  Naturalisation  Service,  Washington DC.
+
+IZA, (2000), Money isn’t Everything - Skilled Workers and Labour Market Turnover in the UK. The Case of National Health Service (NHS) Nursing, IZA Compact, December, pp. 6-7.
+
+Ministry of the Interior, Germany, (2001), ‘Green Card Initiative - Current Figures’. Berlin, November.
+
+OECD, (1991), Migration: the demographic aspects, Paris.
+
+Punch, A., Pearce, D., (2000), Europe’s Population and labour market beyond 2000, Population Studies, No. 33: Vol.: 1.
+
+Saunders, M., O’Kelly, A., (2000), Worker Depletion, Sterling Weekly, 4 August pp.1-7
+
+United Nations, (2000), Replacement Migration: Is it a Solution to Declining and Ageing Populations? New York, United Nations.
+
+29
+
+Wattelar,  C.,  Roumans,  G.,  (1991),  Simulations  of  demographic  objectives  and migration, 57-67 in OECD, 1991, op. cit.
+
+WIMMEX (2001), ‘Six Months of the Green Card Scheme in Germany - an Interim Report’, published in the daily ‘SÃÂ¼ddeutsche Zeitung’ 21.03.2001.
+

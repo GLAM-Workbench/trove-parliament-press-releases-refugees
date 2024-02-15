@@ -1,0 +1,574 @@
+Speeches
+
+The Constitutional Jurisprudence   of the High Court: 1989-2004
+
+The Hon Justice Michael McHugh AC*
+
+The Inaugural Sir Anthony Mason Lecture in Constitutional Law
+
+26 November 2004, Banco Court, Sydney
+
+INTRODUCTION: The contribution of Sir Anthony Mason to Australian constitutional  law
+
+It is a great honour to be asked to give the inaugural Sir Anthony Mason Lecture. Sir Anthony  is regarded by many as one of the greatest judges that the Australian legal profession has  produced, as important and as influential in the modern era as Sir Owen Dixon was in an  earlier period.
+
+Sir Anthony was born in 1925 and grew up in Sydney where he attended Sydney Grammar  School. After two years as a Flying Officer in the RAAF, he studied at the University of  Sydney where he graduated with first class Honours in Arts and Law. After serving articles  with Clayton Utz & Co, he became Associate to Justice Roper in the New South Wales  Supreme Court. He went to the Bar in 1951. His practice was primarily in equity and  commercial law but he appeared in a number of important constitutional and appellate cases  in the High Court of Australia as junior counsel. They included the R v Davison[1] and R v  Richards; Ex parte Fitzpatrick and Browne[2].
+
+He was a forceful and dominant advocate who impressed the force of his personality on every  court in which he appeared. Experienced Equity judges who said they needed no argument to  decide where the balance of convenience lay in a motion for an interlocutory injunction soon  found themselves listening to a forceful argument that it lay on the side of Mason's client.  While at the Bar, he lectured for five years in Equity at the University of Sydney Law School.  Among his students were the future Justice Gaudron and the future Justice Gummow. Sir  Anthony was appointed a Queen's Counsel in 1964 and in the same year became the  Solicitor-General for the Commonwealth. He was appointed to the Supreme Court of New  South Wales in 1969 where he sat as a member of the Court of Appeal until 1972 when he  was appointed to the High Court. In 1987, he was appointed Chief Justice of the High Court  and remained in that office until he retired in 1995.
+
+During his tenure as Chief Justice, the High Court decided many important constitutional  cases. Professor Zines thinks that Cole v Whitfield[3] was the most important constitutional  case decided during Sir Anthony's period as Chief Justice[4]. My choice would be the trilogy  of free speech cases: Nationwide News Pty Ltd v Wills[5], Australian Capital Television Pty  Ltd v The Commonwealth[6] and Cunliffe v The Commonwealth[7].
+
+No one reading the Commonwealth Law Reports for the period 1972 to 1995 could miss the  change in Sir Anthony's approach to judging. In 1979 in State Government Insurance  Commission v Trigwell[8] he said:
+
+"The court is neither a legislature nor a law reform agency. Its responsibility is to  decide cases by applying the law to the facts as found. The court's facilities,  techniques and procedures are adapted to that responsibility; they are not adapted to  legislative functions or to law reform activities."
+
+Sixteen years later when he left the Court, he had been a party to more judgments making  more dramatic changes in the common law than any judge in the history of Australia. As I  later seek to show, it was the dramatic changes in Australian society that commenced shortly  after Trigwell was decided that brought about the change in his approach to judging. It was  the political, economic and societal changes that commenced in the 1980s that are the true  explanation of what has been called Mason I and Mason II as a judge. I think that he regarded
+
+Australia's evolving status as an independent nation as inevitably requiring a change in the
+
+approach of High Court Justices to judging.
+
+As Chief Justice, his judgments provided the central point around which a majority of Justices  could coalesce. An empirical analysis of the voting patterns of the Mason Court has shown  that Sir Anthony was the core member of the Court's decision making process. He formed  part of the successful majority more often than any other Justice and he was joined more  often by other Justices than any other Justice[9].
+
+Throughout the legal profession, Sir Anthony became associated with the movement away  from Sir Owen Dixon's "strict legalism". He placed less emphasis in legal reasoning on the  formal application of rules or formulae. He saw precedent - and he took a similar attitude in  relation to constitutional interpretation - as "an exercise in judicial policy which calls for an  assessment of a variety of factors in which judges balance the need for continuity,  consistency and predictability against the competing needs for justice, flexibility and  rationality." [10]
+
+I have known him for over 40 years and I had the honour of serving as the junior member of  the High Court under Sir Anthony as Chief Justice for over six years. By any reckoning, he  was a very great Justice.
+
+In this Lecture, I was asked to discuss the constitutional jurisprudence of the High Court over  the six years I was on the Mason Court and during the subsequent periods of the Brennan  and Gleeson Courts. Obviously, it is impossible in the course of a single lecture to adequately  discuss the constitutional jurisprudence of the Court over such a lengthy period. I flirted with  the idea of discussing four particular areas of the Court's jurisprudence: (1) federalism (2) the  relationship of the individual to the State (3) the judicial power of the Commonwealth and (4)  nationhood and sovereignty; and the effect of external influences on the Court's interpretative  methods. But after looking at the cases again, I concluded that in a single lecture I could not  do justice to those subjects. Instead, I propose to discuss in some detail the methods of  constitutional interpretation that have prevailed during each of the Mason, Brennan and  Gleeson Courts and the factors that led to the Mason Court's approach.
+
+TRENDS, METHODOLOGIES AND INFLUENCES IN CONSTITUTIONAL LAW
+
+The search for trends in High Court jurisprudence is no easy task. A period in the Court's  jurisprudence is often identified with the Chief Justice, irrespective of the continuity and  change of membership of the Court, and often without close regard to the views of each  Justice, each of whom exercises an independent judgment. Justices may also change their  views over time and they may approach constitutional questions differently according to the  kind of issue that arises. In more recent times, the eschewing of an over-arching theory, or  even theoretical discussion, by many Justices makes trends even harder to discern.
+
+Radicalism and changing times
+
+The fall and rise of legalism
+
+When Mason CJ became Chief Justice, constitutional commentators generally agreed that  the text of the Constitution and the accepted legal rules and principles of interpretation, in  particular, "legalism", did not always determine constitutional questions. Commentators  contended that, as long as the competing arguments were rational, two or more competing  interpretations could be reasonably held[11] and decisions must turn on factors external to the  Constitution. This consensus has been described as the "demise of legalism"[12].
+
+Yet, by 2003, commentators were contending that the emphasis of the majority of the  Gleeson Court was legalism[13]. In the view of these commentators, the Court appeared to  be distancing itself from some of the methodologies of the Mason Court. They identified some  level of retreat from an open consideration of values, a varying regard for consequentialist  considerations and a renewed preoccupation with doctrinal scholarship[14]. Some have even  argued that the Gleeson Court has articulated a return to legalism[15]. They contrast this with  the "rejection of legalism and the adoption of a law-making role by a number of justices on the
+
+Mason, and to a lesser extent, the Brennan Courts"[16]. Thus, Justice Selway's view in
+
+relation to the majority of the Gleeson Court is[17] that:
+
+"The approach is fundamentally conservative and legalistic, based upon precedent  and logical analysis. But the approach is not rigid or 'tied to the past'. Where it is clear  that the Constitution needs to develop then this has been achieved.
+
+Given the perceived need for public confidence, the emphasis remains legalism. It  may not be strict 'legalism', but it is legalism nonetheless."
+
+Does this suggest that over the past 15 years the Court's constitutional jurisprudence has  come full circle, from conservative orthodoxy to progressive activism under the Mason Court  and back to a legalistic approach under the Gleeson Court? Does this indicate that there has  been a revival of legalism under the Gleeson Court? Or have these apparent trends been  more imagined than real?
+
+Professor Zines thinks that there has been no discernible break in the judicial method applied  by the majority in the Gleeson, Brennan and Mason Courts[18]. I think this is correct. The  Mason Court's approach to methods of constitutional interpretation was not as radical as  some portray it. Despite the views of some individual judges, most notably Deane and Toohey  JJ and to a lesser extent Gaudron J, the Mason Court generally adopted an approach that  was consistent with the traditional common law constitutional method.
+
+The tools of the common law constitutional method like the tools of the general common law  judicial method are various. The common law constitutional method is a house of many  rooms. It emphasises text and the drawing of constitutional implications from the text and  structure of the Constitution. It relies heavily on previous authorities and the doctrines  associated with those authorities. It uses history, particularly for ascertaining the purpose of  particular constitutional provisions. But it recognises that none of these tools - including  textual analysis - may be decisive. As a result, throughout the history of the Court, the  common law method has permitted judges to consider the practical consequences of  competing interpretations. And since the beginning of the Mason Court, where the  constitutional text is not compelling, as is often the case, it takes into account conflicting  social interests, values and policies in seeking to give the Constitution a construction that  accords with the needs of contemporary Australia.
+
+Inherent in the common law constitutional approach is the recognition that many constitutional  words and phrases derive from common law concepts and principles and pre-federation  statutes and that most terms of the Constitution are inherently capable of evolving. Hence, the  meaning of such words and phrases may be informed by developments in the common law  and statute and elsewhere that are consistent with the text and structure of the Constitution.
+
+The Brennan and Gleeson Courts have generally adhered to this approach and to the  approach of Mason CJ with respect to ascertaining implications in the Constitution[19]. In  Australian Capital Television Pty Ltd v The Commonwealth[20], Mason CJ said that where the  implication is derived from the actual terms of the Constitution it may be sufficient that the  relevant intention is manifested according to the accepted principles of interpretation. But he  went on to say that, "where the implication is structural rather than textual it is no doubt  correct to say that the term sought to be implied must be logically or practically necessary to  the preservation of the integrity of that structure". In Lange v Australian Broadcasting  Corporation[21], the Brennan Court rejected the approach that Deane and Toohey JJ  championed during the Mason Court period of deriving implications from "free-standing"  principles that the Constitution apparently embodied.
+
+Drawing conclusions from the logic of the structure of the institutions and principles  established by the Constitution has also become a relatively familiar technique in relation to  federalism[22], the separation of judicial power[23] and in relation to the constitutional  provisions that establish representative and responsible government[24]. Each of the Mason,  Brennan and Gleeson Courts has used it.
+
+How then has the perception arisen that the Mason Court was a far more radical court than  the Brennan Court and the Gleeson Court? If the Mason Court used the traditional common
+
+law constitutional method, why have commentators perceived it as more radical than its
+
+predecessors or its successors? If the Mason Court was a radical court, what gave rise to its  radicalism?
+
+It does not follow that, because courts use broadly similar methods of constitutional  interpretation, or judging generally, the result of applying those methods will be the same.  Negligence lawyers are familiar with the phenomenon of judges, faced with the same body of  evidence, coming to opposite conclusions as to whether that evidence was capable, as a  matter of law, of establishing negligence. Similarly, Justices in constitutional cases often  reach diametrically opposed views on the meaning of constitutional provisions even though  they all use the same method of constitutional interpretation. Two illustrations of the  phenomenon from the pre-Mason Court era are the sharply divided High Courts in the  Territorial Senators Case[25] and the Tasmanian Dam Case[26].
+
+The influence of an attitude of mind
+
+Just as significant - perhaps more so - than methods of constitutional interpretation are  attitudes of mind. In my view, what distinguished the Mason Court from its predecessors, but  not, I think, from the Brennan and Gleeson Courts, was a particular attitude of mind. I have no  doubt that members of the Mason Court had a different view of the legal universe from their  predecessors. I think that it was an attitude of mind, rather than the adoption of any particular  method of judging, that brought about results in many cases, including constitutional cases,  during the Mason Court and established its reputation as a radical Court.
+
+The attitude of mind, to which I refer, was the belief that Australia was now an independent  nation whose political, legal and economic underpinnings had recently and essentially  changed. These developments outside the pages of the Commonwealth Law Reports  required a different approach to the interpretation of the Constitution and a different approach  to judging, generally. Strict legalism was no longer an efficient tool for interpreting a  Constitution or deciding private or public law cases - assuming strict legalism ever really  applied in practice and was not simply a piece of judicial rhetoric. So, from 1987, the Mason  Court as an entity rejected strict legalism as an interpretative tool. This approach of the  Mason Court was neither surprising nor unique in the history of the Australian federation. In  Victoria v The Commonwealth[27], Windeyer J pointed out that a similar change in  interpretative approach had occurred in 1920 with the Engineers' Case[28] as the result of the  new perception that, after 20 years of federation and World War I, Australia was largely a  unified nation. His Honour said:
+
+"In any country where the spirit of the common law holds sway the enunciation by  courts of constitutional principles based on the interpretation of a written constitution  may vary and develop in response to changing circumstances. This does not mean  that courts have transgressed lawful boundaries: or that they may do so."
+
+The attitude of mind of the Mason Court was influenced, in my view, by the dramatic changes  in Australian society that began to appear in the early 1980s, chiefly as the result of  globalisation. Those changes continued throughout the period of the Mason Court. They were  the spark that set alight the opportunities for a new and distinctive Australian jurisprudence  provided by the enactment of the Privy Council (Limitation of Appeals) Act 1968 (Cth) and the  Privy Council (Appeals from the High Court) Act 1975 (Cth).
+
+By the 1980s, in comparison with its 19th century position, Australia had been in economic  decline for a century[29]. It had become obvious that, if Australia was to maintain even its  declining prosperity, it had to become a more competitive society. Whatever else competition  does for a society, it forces it to change. Competition is the agent of change. Stability is not a  mark of a competitive society. As a result of the need for Australia to become a competitive  society, in December 1983 the Australian dollar was floated and exchange controls lifted. Not  long after, the financial system was deregulated. Increasingly, the Australian economy was  deregulated. Many services that had formerly been provided by government passed into the  hands of private enterprise.
+
+The so-called Industrial Relations Club establishment that, since Federation, had played a  major part in regulating the Australian economy, was gradually stripped of much of its power.
+
+Employers driven by competitive pressures ruthlessly cut costs. Retrenchment of employees
+
+became a much-used cost cutting exercise. Only those who performed could expect to hold  their employment. Management systems were streamlined and flattened out. The race of  middle managers almost became extinct. In the universities, contracts were substituted for  tenure. With the possible exceptions of federal judges, in no area of life was security of  employment any longer guaranteed. For most of Australia's history, it had been a given that  children would have a better life than their parents. In the 1980s, Australians began to wonder  whether that was true.
+
+The passing of the Australia Acts in 1986 formally severed the constitutional ties with United  Kingdom which had been weakening for decades. In addition, throughout the years of the  Mason Court, the Hawke-Keating governments were in power. They saw the future of  Australia as involved with Asia, not the United Kingdom or Europe. They floated the idea of a  Republic. The thinking and many of the beliefs and values that permeated the Age of Menzies  largely disappeared during this period. Globalisation did more than open up the Australian  economy; it opened up Australian society to new ideas, to a new way of seeing the world. And  by the commencement of the period of the Mason Court, human rights had become part of  the political and social agenda, and international law and agreements were becoming a  source of common law and domestic statute law.
+
+Consciously or unconsciously, the need for change became widely accepted in most areas of  Australian life. In his book, The End Of Certainty, Paul Kelly wrote[30]:
+
+"The 1980s was a time of both exhilaration and pessimism, but the central message  shining through its convulsions was the obsolescence of the old order and the  promotion of new political ideas as the basis for a new Australia."
+
+It would be surprising if the judiciary had missed this message. Long ago, Judge Cardozo  pointed out that judges cannot escape the currents of their times.
+
+"All their lives", he said, "forces which they do not recognise and cannot name, have  been tugging at them - inherited instincts, traditional beliefs, acquired convictions; and  the resultant is an outlook on life, a conception of social needs, a sense in James's  phrase of 'the total push and pressure of the cosmos,' which, when reasons are nicely  balanced, must determine where choice shall fall." [31]
+
+My belief is that, consciously or unconsciously, the idea of a new Australia influenced the  approach of the Mason Court to judging. It made it a far more radical - and in terms of  approach - a far different Court from its predecessors. Yet, surprisingly, when the  constitutional cases are examined, I doubt if the Mason Court was any more radical in that  area than the Brennan Court and Gleeson Court. I use radical in the sense of fundamental  change.
+
+A radical Mason Court?
+
+On a rough count, the Mason Court decided about 70 constitutional cases. But only a handful  of them can be regarded as radical. Cole v Whitfield[32] was certainly a radical decision.  There the Court effectively overruled about 127 cases decided on s92 including cases such  as the Bank Nationalisation Case[33] and held that s92 applied only to measures that  discriminate against interstate trade and commerce in a protectionist sense. Yet paradoxically  the reasoning in Cole was conservative. It is perhaps as close as you can get to a High Court  decision decided on the original intent of the framers of the Constitution. Other decisions that  were generally regarded as radical were:
+
+Australian Capital Television Pty Ltd v The Commonwealth[34] where the Court declared that  the Constitution contained an implied freedom to communicate on political and governmental  matters.
+
+Theophanous v The Herald and Weekly Times Ltd[35] and Stephens v West Australian  Newspapers Ltd[36] where the Court constitutionalised the law of defamation.
+
+Cheatle v The Queen[37] where the Court held that, on a trial on indictment for an offence  against the Commonwealth, s 80 of the Constitution required a unanimous verdict of the jury.
+
+Street v Queensland Bar Association[39] which had interpreted and applied s 117 narrowly.
+
+Health Insurance Commission v Peverill[40] where the Court held that a retrospective  legislative reduction in the amount of benefits payable to a medical practitioner was not an  acquisition of property within s 51 (xxxi) of the Constitution.
+
+Australian Tape Manufacturers Association Ltd v The Commonwealth[41] where the Court  held that it was not essential to the concept of a tax that the imposition should be made by a  public authority. Accordingly, the Court held that a legislatively imposed royalty on vendors  payable to the owners of copyright in sound recordings was a tax.
+
+Harris v Caladine[42] where the Court held that Ch III of the Constitution was not infringed by  a law that empowered the registrars of the Family Court to decide certain matrimonial causes  issues even though they were not appointed in accordance with s 72 of the Constitution.
+
+Apart from these cases and Cole, I do not think that any of the other constitutional decisions  of the Court could fairly be regarded as radical. In fact, a number of the Mason Court's  decisions were cautious, indeed conservative:
+
+In New South Wales v The Commonwealth (the Incorporation case) [43], the Court, with  Deane J alone dissenting, held that the corporations power did not empower the Federal  Parliament to legislate for the incorporation of trading and financial corporations thereby  dashing the hopes for a uniform federal based company law.
+
+In Re Dingjan; Ex parte Wagner[44], a majority of the Court held that the corporations power  did not extend to making a law that regulated contracts entered into by natural persons where  the contracts had a relationship with the business of a corporation. In Philip Morris Ltd v  Commissioner of Business Franchises (Vic)[45] and in Capital Duplicators Pty Ltd v  Australian Capital Territory (No 2)[46], the Mason Court refused to overrule a series of  unsatisfactory cases concerned with the meaning of the term excise in s 90 of the  Constitution. The Brennan Court subsequently overruled those cases in Ha v New South  Wales[47].
+
+In a series of cases[48], the Mason Court, over powerful dissents by Deane and Gaudron JJ,  refused to hold that courts martial could not try service personnel for serious offences that  were substantially the same as offences under the Crimes Acts of the Commonwealth and  New South Wales even though persons who were not appointed in accordance with Ch III of  the Constitution presided over the courts martial. The Mason Court held that courts martial  had jurisdiction as long as the offences had a service connection or the accused had a  service status.
+
+In Mickelberg v The Queen[49], the Mason Court affirmed the narrow meaning of appeal in s  73 of the Constitution and refused to admit fresh evidence in High Court appeals.
+
+The Brennan Court existed for only three years. But at least four constitutional decisions of  the Brennan Court were as radical as any constitutional decision of the Mason Court. They  were:
+
+Ha v New South Wales[50] where the Court accepted a wide interpretation of the  Commonwealth's exclusive power to impose excises and overruled previous decisions of the  Court that had upheld the validity of a number of State statutes which were the source of  considerable revenue to the States.
+
+Kable v Director of Public Prosecutions (NSW) [51] where the Court held invalid a State law  that detained a named individual in prison after the expiration of his sentence. The Court held  it was incompatible with the integrity, independence and impartiality of the Supreme Court of  New South Wales, a Court in which federal jurisdiction had been vested under Ch III of the  Constitution.
+
+Wilson v Minister for Aboriginal and Torres Strait Islander Affairs[52] where the Court held  invalid a law of the federal Parliament that authorized a Federal Court judge to prepare a  report for a Minister so that the Minister could make a declaration in respect of a certain area
+
+of land. The Court held that the performance of such a function was not compatible with
+
+holding the office of a judge appointed under Ch III of the Constitution.
+
+Lange v Australian Broadcasting Corporation[53] where the Court unanimously held that the  Constitution contained an implication of freedom of communication on political and  government matters and that the law of defamation could not be inconsistent with that  freedom.
+
+The Gleeson Court too has made radical constitutional decisions. The decision in Sue v  Hill[54] holding that the United Kingdom was now a "foreign power" for the purpose of the  Constitution was a radical decision by any measure. So, in my view, was the recent decision  in Singh v Commonwealth[55] where the Court did not apply the definition of "alien"  formulated by the Gibbs and Mason Courts. The Gleeson Court held that a person born in  Australia of foreign parents who had not lived here for 10 years was an alien for the purposes  of the Constitution.
+
+Many would also regard as radical the decision of the Gleeson Court in Re Wakim; Ex parte  McNally[56] striking down the cross-vesting legislation that had operated for over a decade  and had been held valid by a statutory majority of the Brennan Court in 1998 in Gould v  Brown[57].
+
+This analysis of the Mason Court, the Brennan Court and the Gleeson Court suggests that the  Mason Court was no more radical in the result in constitutional cases than the Brennan Court  and perhaps no more radical than the Gleeson Court.
+
+The reputation of the radicalism of the Mason Court stems in my opinion from two sources.  First was its radicalism in non-constitutional cases. Second was the effect caused by the  abandonment of any pretence to strict legalism and the open discussion of the values and  policies that influenced its decisions. Looked at as independent bodies of work, however, the  constitutional jurisprudence of the Mason Court cannot match in radicalism the jurisprudence  of that Court in non-constitutional cases.
+
+At the head of the list of radical decisions in the non-constitutional sphere of the Mason Court  is, of course, Mabo v Queensland (No 2)[58] which held that native title to land survived the  Crown's acquisition of the sovereignty of Australia and the Crown's radical title to the land.  But consider in no particular order other far-reaching non-constitutional decisions of the  Mason Court.
+
+In Burnie Port Authority v General Jones Pty Ltd[59], the Court declared that the venerable  rule in Rylands v Fletcher was no longer part of the common law of Australia.
+
+In Trident General Insurance Co Ltd v McNiece Bros Pty Ltd[60], the Court held, as an  exception to the long established rule that only the parties to a contract can sue on it at  common law, that a person who is not a party to an insurance policy but for whose benefit the  policy had been made could sue on the policy at common law.
+
+In Minister for Immigration and Ethnic Affairs v Teoh[61], the Court affirmed the rule that an  international Convention ratified by Australia does not become part of Australian law unless  its provisions have been incorporated into municipal law by statute. However, the Court held  that the ratification is an adequate foundation for a legitimate expectation, absent statutory or  executive indications to the contrary, that administrative decision-makers would act in
+
+accordance with the Convention. The Court said that it was immaterial that the person relying  on the legitimate expectation was unaware of the Convention or did not personally entertain  the expectation.
+
+In Bropho v Western Australia[62], the Court abolished the longstanding rule that the Crown  was not bound by a statute unless the intention to do so was manifest from the terms of the  statute or its purpose would be wholly frustrated if the Crown were not bound.
+
+In the area of criminal law, the Mason Court affirmed protections for the accused person. In  McKinney and Judge[63], the Court held that, as a rule of practice, a trial judge should warn  the jury it was dangerous to convict an accused person solely on the basis of a confession
+
+allegedly made while in police custody when its making was disputed and not reliably
+
+corroborated. In Dietrich v the Queen[64], the Court held that a criminal court had power to  stay a trial on indictment where there was a risk of an unfair trial because the accused was  impecunious through no fault of his own and could not get legal representation. And in  Ridgeway v The Queen[65], the Court held that the courts have power to stay a criminal  prosecution where the accused has been induced to commit the crime by police officers.
+
+Many other illustrations of radical decisions by the Mason Court in non-constitutional cases  could be given. But in the history of the High Court before 1987, no decisions comparable to  the illustrations that I have given can be found. Little wonder, then, that the Mason Court  achieved a reputation for radicalism. It is, I think, the non-constitutional cases that are the true  basis of the Mason Court's reputation for radicalism. Its radicalism lay in its recognition of new  common law and equitable rights (whether or not strictly so-called) and strengthening of  existing rights. They included:
+
+* title to land for indigenous people,
+
+* protections from unfair prosecution for accused persons, flowing from the right to  liberty,
+
+* causes of action for those seeking redress for moral wrongs, and
+
+* a higher level of protection for those whose rights and interests are affected by  administrative decision-making.
+
+Freedom of political communication was the only implied constitutional right successfully  upheld in the Mason Court. No substantive wider rights jurisprudence in constitutional law  was articulated or accepted by the Court. In fact, for the all the concern about the legitimacy  of the Mason Court's jurisprudence, the decisions that most affected the rights of Australian  citizens were developed in the common law arena, which is both the legitimate context for  judicial law-making, and the development of the law consistently with changing social values,  and the context in which Parliament always has the capacity to reverse judicial results for the  future.
+
+A number of controversial new propositions seeking to constitutionalise individual rights were  propounded by counsel in the Mason Court, but none, other than the freedom of political  communication, succeeded. For example, in the Ch III cases, the majority of the Court  refused to invalidate the legislation in Polyukhovich[66] and Chu Kheng Lim[67] on the basis  of a right to freedom from, respectively, retrospective criminal law or executive detention. Nor  would it accept the submission that rights to equality before the law or legal representation  could be derived from the Constitution in, respectively, Leeth[68] and Dietrich[69].
+
+The common law method of constitutional interpretation
+
+Let me now turn to the way each of the Mason, Brennan and Gleeson Courts have used the  tools of the common law constitutional method.
+
+A majority of Justices in the Mason, Brennan and Gleeson Courts have favoured a textual  approach to constitutional interpretation and generally have adhered to the common law  constitutional method. In this context, the significance of the circumstances surrounding the  text varies according to the nature of the problem[70]. Where precedent dictates the  application of a particular method of construction, that approach is generally followed unless  there are persuasive grounds for departing from it. Moreover, the Mason, Brennan and  Gleeson Courts in various cases have each applied different interpretive methodologies to  different constitutional provisions, albeit within the confines of the common law constitutional  method.
+
+The Mason, Brennan and Gleeson Courts have also generally used history, including the  Convention Debates, as a tool in constitutional interpretation. However, its use has typically  been confined to the identification of a specialised meaning of certain terms: in Cole v  Whitfield[71] in relation to the meaning of the word "free"; in Ha[72] to identify the purpose of
+
+the relevant concept "excise"; in Cheatle[73] to understand the essentials of the term "jury" in
+
+s 80 of the Constitution.
+
+The Mason Court
+
+Professor Saunders has said that all High Court Justices have wavered between interpreting  the Constitution as an ordinary statute with unusual characteristics and developing a  methodology that attaches significance to constitutional status in order to develop the  potential of the Constitution as the framework for government[74]. That is, I think, true of  members of the Mason Court.
+
+Professor Zines has argued that, during the Mason Court there was "a rejection of formal  criteria" - the Court's approach to s 90 and s 92 are examples - "a more open application of  policy considerations, and, where appropriate, a deliberate balancing of conflicting social  interests or values"[75]. The Mason Court also recognised that "it may be necessary to resort  to other factors if a reasoned conclusion was to be reached", such as policy considerations  and value judgments[76]. Mason J acknowledged in 1986 (the year before he became Chief  Justice) that the Court was moving away from the doctrine of legalism "toward a more policy  oriented constitutional interpretation"[77].
+
+From the beginning of the Mason Court, it was apparent that the Court's interpretive approach  had shifted from that of its predecessors. The Court became concerned with substance  instead of form. It looked at what the law did, rather than the form it took. In Street v  Queensland Bar Association[78], for example, the Court articulated a test for whether a law  violated s 117 that focused on the effect of that law on the person claiming discrimination[79].  The Court also rejected the "criterion of operation" test in relation to s 92 and the "criterion of  liability" test in relation to the excise cases.
+
+The Mason Court also used an interpretive approach that combined the finding of  constitutional implications with a focus on individual rights. The result was the "free speech  cases" where the Court identified and gave effect to an implied constitutional freedom of  political communication as a limitation on legislative and executive power and  constitutionalised the law of defamation. The Court derived an implication of representative  government from the text and structure of the Constitution, a necessary incident of which was  a freedom of communication between the people on government and political matters.  However, as I have indicated, the Mason Court did not develop an extensive rights  jurisprudence. Indeed, in the free speech cases, most members of the Court stressed the  relationship between the implied freedom of political communication and the text of the  Constitution and voiced scepticism about the possibility of comprehensive rights  protection[80].
+
+In matters of constitutional interpretation, there was a discernible trend in the Mason Court to  accord less weight to precedent[81] and to engage in a more open discussion of competing  constitutional policy and value considerations than its predecessors. A former Chief Justice  and some commentators described the Mason Court as engaging in "judicial activism". Some,  such as Sir Garfield Barwick, criticised the Court's decisions in ACTV, Nationwide News and  Theophanous as threatening democracy and parliamentary government[82].
+
+However, two members of the Mason Court - Deane and Toohey JJ - challenged traditional  modes of constitutional interpretation. Their Honours propounded an approach to  constitutional interpretation during the Mason Court that the rest of the Court did not accept -  even those members who expressly rejected the earlier legalism. Deane and Toohey JJ  articulated a radical approach that relied on sources external to the Constitution, such as the  supposed assumptions of the founders and fundamental common law principles, in order to  derive restraints on legislative and executive power. They also used the principle of popular  sovereignty - the sovereignty of the people - as the source of the authority of the Constitution  to create constitutional rights[83]. Their Honours identified certain rights from "the conceptual  basis of the Constitution" such as a right to equality[84].
+
+From fundamental rights and principles recognised by the common law at the time the  Constitution was adopted, they also identified an implication of freedom of political
+
+communication[85]. Their approach was based on the imputed intention of the voters who
+
+adopted the Constitution in the referenda of 1899 and 1900. Deane and Toohey JJ advocated  the principle that fundamental rights and freedoms recognised by the common law in 1900  limited federal power[86]. This was based on the view that the framers and the people  assumed that common law rights would be preserved and that it was therefore unnecessary  to include them in the Constitution. The other members of the Mason Court did not accept this  approach.
+
+In Theophanous, Deane J held that, as the authority of the Constitution derived from the  sovereignty of the people and the people's continuing acquiescence to it, the intention of the  framers was irrelevant. He said that "the Constitution must be construed as 'a living force'  representing the will and intentions of all contemporary Australians, both women and men,  and not as a lifeless 'declaration of the will and intentions of men long since dead'"[87]. Only  Kirby J in the Brennan and Gleeson Courts has consistently upheld this view[88].
+
+However, applying their different interpretive methodology led Deane and Toohey JJ to a  different result from the rest of the Court only in Leeth v The Commonwealth[89] where their  Honours found an implied right to equality in the Constitution[90].
+
+The Brennan Court
+
+Some have seen the approach of the Brennan Court towards constitutional interpretation as a  retreat from the more policy oriented "adventurousness" of the Mason Court. But although  some members of the Brennan Court were highly critical[91] of the interpretive methodologies  favoured by various members of the Mason Court, as I have already said, the results of the  Brennan Court in constitutional cases were no less radical than those of the Mason Court.
+
+The Brennan Court advocated an interpretive approach based on the text and structure of the  Constitution. Thus, while the Brennan Court accepted that the Constitution embraced a  system of representative government that required freedom of political communication  between the people, the Court emphasised that the source of the system of representative
+
+government and the implied freedom was the text and structure of the Constitution. Each  concept was confined by reference to what the specific provisions of the Constitution  necessarily required.
+
+In Lange v Australian Broadcasting Corporation[92], the Brennan Court, including Toohey and  Gaudron JJ, reiterated a strong commitment to the common law constitutional method of  interpretation. Under this approach, the process of drawing implications was to be "tightly  controlled" by the text and structure of the Constitution. Implications could be drawn only  where logically or practically necessary to give effect to the structure of the Constitution as  revealed in its text, not simply from the vague notions of representative and responsible  government that permeate and inform the text. In declining to apply non-textual interpretative  approaches, the Brennan Court also explicitly rejected Deane and Toohey JJ's approach  towards deriving implications from the Constitution. I doubt if Sir Anthony Mason would have  disagreed with the approach of the Brennan Court in Lange to finding implications in the  Constitution.
+
+In Lange, the Brennan Court upheld the existence of an implied freedom of communication on  political and government matters but stressed that it was a freedom from laws, not a  constitutional freedom to communicate. As a result, unlike the Mason Court, it refused to  constitutionalise defamation law. Instead, it said that defamation law must be developed to  conform to the freedom. Perhaps the tone of the judgment suggested a more legalistic  approach towards constitutional interpretation than the Mason Court. The Court emphasised  that the concept of representative government was not a "free-standing principle", but existed  only as provided for in the Constitution. Nevertheless, in the result the Brennan Court  accepted the concept of the implied freedom of political communication in respect of  government and political matters and held that it was not confined to elections periods.
+
+The Gleeson Court
+
+Justice Selway has argued that there has been a consensus in the Gleeson Court that the
+
+Constitution is to be interpreted as an Imperial statute enacted in 1900, albeit a special kind of  statute. Justice Selway contends that all members of the Gleeson Court are fundamentally  "textualists"[93]. On this approach, the text is the starting point for any interpretation issue,  and if the constitutional text is sufficiently clear, then the meaning of that text will be  "controlling"[94].
+
+In general, the Gleeson Court has not embraced a single theory of interpretation. Rather, the  individual members of the Court have "employed a number of different interpretive modes in  resolving constitutional issues, and ... have differed in their approaches to interpretation"[95].  Gummow and Kirby JJ and I, in particular, have articulated our preferred but somewhat  different approaches. Nevertheless, it is possible to identify several broad methodologies  favoured by the present Court.
+
+The first of these is the textual approach, which focuses on the text of the Constitution and  gives constitutional words and phrases their natural or ordinary meaning. There is general  agreement among all members of the Court that each constitutional inquiry commences with  an examination of the constitutional text. However, as the natural meaning of the text rarely  resolves the issue in question, it is necessary to apply other interpretive approaches[96].
+
+The Gleeson Court also favours a structural approach, which requires Justices to consider the  Constitution as a whole and enables the Court to draw inferences from a combination of  provisions. For example, a structural analysis of the Constitution is helpful for ascertaining  general principles about the structure of government and the relationships created by the  constitutional text. Nevertheless, while a useful interpretive tool, structural analysis does not  usually provide a complete answer to an inquiry[97]. The Court has therefore turned to other  methodologies. It is at this point that divergency among the members of the Court emerges.
+
+For the majority of the Court, history plays a significant role in constitutional interpretation.  Under the Gleeson Court, there has been a continued focus on ascertaining the purpose of  constitutional provisions based on the objective intentions of the Constitution's framers.  However, there is probably a consensus that questions of constitutional interpretation are not  determined simply by linguistic considerations that pertained a century ago[98]. The Court  also accepts that the historical context of a constitutional word or phrase is relevant[99]. As  one commentator has said, the Gleeson Court has seen constitutional history as an ongoing  narrative. On this view, the state of the law in 1900 provides context, but it is not an  interpretative straitjacket[100].
+
+The principal mode of constitutional interpretation under the Gleeson Court has been a  doctrinal approach. This methodology applies principles derived from the Court's previous  authorities relevant to the resolution of the constitutional issues in question[101]. For  example, the majority Justices in the controversial decision in Re Wakim; Ex parte  McNally[102] relied heavily on past authorities[103] in holding that the Commonwealth's  attempt to confer State judicial power on federal courts pursuant to the national cross-vesting  scheme contravened Ch III of the Constitution. However, this method accepts that the  principles when applied must be informed by developments in the common law and statute  and events outside the law courts that are consistent with the text and structure of the  Constitution[104]. It therefore recognises that "the Constitution is an extraordinary law, one  that must endure indefinitely and adapt to a constantly changing world"[105].
+
+Subject to the limits of its text and structure, the Constitution must also be capable of  responding to external developments. An example is the s 80 jury cases[106] where  contemporary practice concerning juries was taken into account. A striking example is Sue v  Hill[107] on whether the United Kingdom is now a "foreign power". Other examples are the  "aliens" power cases in which the emergence of Australia as a sovereign nation and its  independence from the UK have been important factors[108].
+
+In The Grain Pool of Western Australia v The Commonwealth[109], the majority identified the  "central" conception of constitutional words as at 1900 and then had regard to history and  other extrinsic materials to ascertain the extent of the "radius" of those words. As a result, it  saw nothing in the patents power to prevent Parliament legislating for the protection of plant
+
+variety rights even if those rights would not have been treated as patentable in 1900.
+
+Similarly, in Brownlee v The Queen[110] - a case concerned with trial by jury under s 80 of  the Constitution - the Gleeson Court held that the essential aspects of trial by criminal jury in  1900 did not prevent legislation authorising a conviction by a 10 person jury if two members of  the jury had to be discharged. In contrast, in Cheatle v The Queen[111], the Mason Court had  identified an essential aspect of the criminal jury trial as at 1900 as requiring a unanimous  verdict and held that s 80 of the Constitution precluded majority verdicts.
+
+The approach of the Gleeson Court also accepts that the Court is required to interpret and  apply values inherent in the law. Individual justices may disagree about those values within  the limits of the legal method, that is, legal reasoning that adheres to legal principle, derived  from precedent[112]. Speaking extra-judicially, Gleeson CJ has said that this is not formal  legalism: it is legalism consistent with judicial law making[113]. Such an approach endorses  judicial law making, the finding of constitutional implications and the need to accommodate  social change[114].
+
+The Gleeson Court has also not hesitated in appropriate circumstances to take into account  practical and political considerations attending the case. In Abebe v The Commonwealth[115],  the majority Justices treated the practical consequences of an adverse decision to the  Commonwealth as important and upheld a law that limited the grounds upon which the  Federal Court could entertain a dispute. The majority was influenced by the practical  consideration that, if the legislation were found to be invalid, the Commonwealth could not  establish specialist courts to deal with particular issues. Gleeson CJ and I said that such a  result "would create immense practical problems for the administration of federal law which  the makers of the Constitution can hardly have intended"[116]. In arguing against rigidity and  impracticality, we also said that consequences may throw light on the meaning of the  Constitution, although they could not alter its meaning[117]. We said that "only the clearest  constitutional language" could result in confining Parliament to the limited and impractical
+
+choices that were proposed in that case and that nothing in the language of the Constitution  forced such choices on the Parliament[118].
+
+The Gleeson Court also accorded substantial weight to practical consequences in Re  Governor, Goulburn Correctional Centre; Ex parte Eastman[119]. There, the Court upheld  earlier decisions holding that s 72 (which deals with the appointment and tenure of federal  judges) did not apply to a court created under the territories power. Gleeson CJ and Callinan  J and I took into account the need to accommodate "the realities of government and  administration with which the Constitution must deal"[120] and the fact that the case raised  the lawfulness of convictions and court decisions in many past cases[121]. The question for  the Court in Re Governor, Goulburn Correctional Centre was whether a Territory judge, not  having been appointed in accordance with s 72 of the Constitution, had been validly  appointed. The practical effect of holding the appointment invalid would have been that all  Territory judges would have been invalidly appointed, with the result that all decisions of  Territory judges would have been voidable. Gleeson CJ and Callinan J and I held that the  conclusion that the Territory judge had been validly appointed was a construction of the  Constitution that "is open on the language, and produces a sensible result, which pays due  regard to the practical considerations arising from the varied nature and circumstances of the  territories"[122].
+
+Some commentators have suggested an inconsistency between the Court's approach in  Abebe and its approach in Re Wakim; Ex parte McNally[123]. However, the majority Justices  in Re Wakim took the view that the force of the negative implication to be drawn from Ch III,  as expounded in In Re Judiciary and Navigation Acts, could not be overcome by the practical  consequences of the decision. It is wrong to infer from Wakim that, for the Gleeson Court,  social and political practices and consequences are irrelevant in deciding constitutional  issues[124]. As Professor Zines has said, the outcome of the case resulted from "a  combination of implications from the text, inferences from past decisions and a general view  that doctrinal and structural considerations led inevitably to the conclusion." [125]
+
+In Sue v Hill[126], the Court examined external factors such as the evolution of Australia's  relations with the UK and the development of its sovereignty in international affairs since  1900. Nothing in the Court's decision in that case can be described as legalistic, textual or
+
+narrowly doctrinal[127]. In the teeth of much textual material that suggested the opposite
+
+conclusion, the Court found that the United Kingdom was a "foreign power" for the purpose of  s 44(i) of the Constitution. The Court interpreted the Constitution in light of the history of the  constitutional and diplomatic evolution of Australia's relationship with the United Kingdom in  order to reach a conclusion that was consistent with modern political conceptions. Gleeson  CJ and Gummow and Hayne JJ held that the practical consequence of Australia's  independence meant that the words of the Constitution should be interpreted in light of the  changed constitutional circumstances. Modern political perceptions were given precedence  over the literal meaning of the terms of the Constitution. In this case, social consequences  and historical-political developments were used to illuminate the meaning of the Constitution.
+
+As Professor Zines wrote in The Oxford Companion to the High Court of Australia, the  impression that the Gleeson Court was endeavouring to distinguish itself "from the policy-oriented and value-based judgments of the Mason Court" is "more a matter of tone and style  than of substance"[128].
+
+CONCLUSION
+
+There has been a tendency to assume that the constitutional decisions of the Mason Court  were more expansive than they were and that constitutionally it was a far more progressive  and radical court than the Brennan and Gleeson Courts. But, as I have indicated, some of the  constitutional decisions of the Mason Court were conservative and even legalistic. Those who  point to Re Wakim as indicating a legalistic approach by the Gleeson Court and assert that a  different result would have been reached by the Mason Court, as it was by a statutory  majority of the Brennan Court in Gould v Brown[129], should remember the Incorporation  Case[130]. There, six members of the Mason Court held that the federal Parliament's power  to make laws with respect to "corporations formed within the Commonwealth" only authorised  laws with respect to corporations already incorporated.
+
+No doubt the style and tone of judgments in the Brennan and Gleeson Courts may make  them seem more legalistic than those of the Mason Court. But in terms of results, there does  not seem to be an appreciable difference in the constitutional jurisprudence of the three  Courts. Effectively, the Brennan Court overruled Theophanous and Stephens - two decisions  of the Mason Court - in Lange. It may be that the Brennan Court would also have come to a  different decision in the Phillip Morris excise case. But apart from these cases, I doubt that the  Brennan Court would have decided any constitutional case differently from the Mason Court.  The Gleeson Court would also certainly have followed the Lange approach and not decided  Theophanous and Stephens as the Mason Court did. It may be that the Gleeson Court would  also not have decided Cole v Whitfield as the Mason Court did. On the other hand, I think that  there is a good chance that a majority of the Gleeson Court would have found for the  Commonwealth in the Incorporation Case, thereby permitting a uniform federal company law.  The Gleeson Court may also have reached a different conclusion in Cheatle, thereby  permitting majority verdicts in jury trials for federal offences. But apart from these cases, I  doubt whether any of the roughly 70 constitutional cases decided by the Mason Court would  be decided differently by the Gleeson Court.
+
+It is not really surprising that, after the demise of strict legalism, there should be such  unanimity of result in the decisions of the three Courts in constitutional cases. Despite the  differences in the style and tone of the judgments, ultimately the text of the Constitution is  controlling. Moreover, it may be that the differences between legalism and a purposive or  policy based constitutional jurisprudence have been overstated. As this is the inaugural Sir  Anthony Mason Lecture, it is fitting that Sir Anthony should have the last word on that subject.  Three weeks after his retirement, he said[131]:
+
+"Too much should not be made of the movement away from legalism towards a more  purposive or policy oriented form of jurisprudence. The text of the Constitution must  always remain the principal foundation of constitutional interpretation. The treatment  in the Tasmanian Dams case[132] of s 100 of the Constitution and the acceptance of  the authority of the earlier decision in Morgan v The Commonwealth[133] show that  legalism is still alive, as did New South Wales v The Commonwealth (the  Incorporation Case).[134] That is not surprising. In the final analysis, the Constitution
+
+is our paramount law, and interpretation requires that we give effect to its language
+
+and heed what it says."   Footnotes
+
+(*)Justice of the High Court of Australia. I am indebted to my Associates, Mrs Jelita Gardner-Rush and Ms Anna Thwaites, for their assistance in the preparation of this lecture.
+
+[1] (1954) 90 CLR 353.
+
+[2] (1955) 92 CLR 157.
+
+[3] (1988) 165 CLR 360.
+
+[4] Leslie Zines, "Most significant case of the Mason High Court" (1995) 30 Australian Lawyer  18 at 18.
+
+[5] (1992) 177 CLR 1.
+
+[6] (1992) 177 CLR 106.
+
+[7] (1994) 182 CLR 272.
+
+[8] (1979) 142 CLR 617 at 633.
+
+[9] Russell Smyth, "'Some Are More Equal than Others' - An Empirical Investigation into the  Voting Behaviour of the Mason Court", (1999) 6 Canberra Law Review 193 at 207.
+
+[10] Anthony Mason, "The Use and Abuse of Precedent", (1988) 4 Australian Bar Review 93  at 111.
+
+[11] Leslie Zines, "Legalism, Realism and Judicial Rhetoric in Constitutional Law", (2002) 5(2)  Constitutional Law and Policy Review 21 at 23.
+
+[12] Zines, "Legalism, Realism and Judicial Rhetoric in Constitutional Law", (2002) 5(2)  Constitutional Law and Policy Review 21 at 23.
+
+[13] Brad Selway, "Methodologies of constitutional interpretation in the High Court of  Australia", (2003) 14 Public Law Review 234 at 250; Zines, "Legalism, Realism and Judicial  Rhetoric in Constitutional Law", (2002) 5(2) Constitutional Law and Policy Review 21 at 26,  29.
+
+[14] Zines, "Legalism, Realism and Judicial Rhetoric in Constitutional Law", (2002) 5(2)  Constitutional Law and Policy Review 21 at 26, citing Paul Finn, "Australia Compared" in R  Bigwood (ed), Legal Method in New Zealand, (2001) 221 at 228-229.
+
+[15] Zines, "Legalism, Realism and Judicial Rhetoric in Constitutional Law", (2002) 5(2)  Constitutional Law and Policy Review 21 at 29; Haig Patapan, "High Court Review 2001:  Politics, Legalism and the Gleeson Court", (2002) 37 Australian Journal of Political Science  241 at 241-242; Selway, "Methodologies of constitutional interpretation in the High Court of  Australia", (2003) 14 Public Law Review 234 at 250.
+
+[16] Patapan, "High Court Review 2001: Politics, Legalism and the Gleeson Court", (2002) 37  Australian Journal of Political Science 241 at 242.
+
+[17] Selway, "Methodologies of Constitutional Interpretation in the High Court of Australia",  (2003) 14 Public Law Review 234 at 250.
+
+[18] Leslie Zines, "The Present State of Constitutional Interpretation", in Stone and Williams  (eds), The High Court at the Crossroads: Essays in Constitutional Law, (2000) 224 at 231.
+
+[19] See, eg, McGinty v Western Australia (1996) 186 CLR 140; and Lange v Australian  Broadcasting Corporation (1997) 189 CLR 520 at 566-567.
+
+[20] (1992) 177 CLR 106 at 135.
+
+[21] (1997) 189 CLR 520.
+
+[22] Re Residential Tenancies Tribunal (NSW); Ex parte Defence Housing Authority (1997)  190 CLR 410.
+
+[23] Re Wakim; ex parte McNally (1999) 198 CLR 511.
+
+[24] Cheryl Saunders, "Future Prospects for the Australian Constitution" in French, Lindell,  Saunders (eds), Reflections on the Australian Constitution, (2003) 212 at 222-223.
+
+[25] Western Australia v The Commonwealth (1975) 134 CLR 201.
+
+[26] The Commonwealth v Tasmania (1983) 158 CLR 1.
+
+[27] (1971) 122 CLR 353 at 396-397.
+
+[28] Amalgamated Society of Engineers v Adelaide Steamship Co Ltd (1920) 28 CLR 129.
+
+[29] Paul Kelly, The End Of Certainty: the story of the 1980s (1992, 1st ed), at 13.
+
+[30] Kelly, The End Of Certainty: the story of the 1980s (1992, 1st ed), at 1.
+
+[31] The Nature Of the Judicial Process (1921), Lecture I at 12.
+
+[32] (1988) 165 CLR 360.
+
+[33] The Commonwealth v Bank of New South Wales (1949) 79 CLR 497.
+
+[34] (1992) 177 CLR 106.
+
+[35] (1994) 182 CLR 104.
+
+[36] (1994) 182 CLR 211.
+
+[37] (1993) 177 CLR 541.
+
+[38] (1989) 168 CLR 461.
+
+[39] (1973) 128 CLR 482.
+
+[40] (1994) 179 CLR 226.
+
+[41] (1993) 176 CLR 480.
+
+[42] (1991) 172 CLR 84.
+
+[43] (1990) 169 CLR 482.
+
+[44] (1995) 183 CLR 323.
+
+[45] (1989) 167 CLR 399.
+
+[46] (1993) 178 CLR 561.
+
+[47] (1997) 189 CLR 465.
+
+[48] Re Tracey; Ex parte Ryan (1989) 166 CLR 518; R Nolan; Ex parte Young (1991) 172  CLR 460; Re Tyler; Ex parte Foley (1994) 181 CLR 18.
+
+[49] (1989) 167 CLR 259.
+
+[50] (1997) 189 CLR 465.
+
+[51] (1996) 189 CLR 51.
+
+[52] (1996) 189 CLR 1.
+
+[53] (1997) 189 CLR 520.
+
+[54] (1999) 199 CLR 462.
+
+[55] (2004) 78 ALJR 1383; 209 ALR 355.
+
+[56] (1999) 198 CLR 511.
+
+[57] (1998) 193 CLR 346.
+
+[58] (1992) 175 CLR 1.
+
+[59] (1994) 179 CLR 520.
+
+[60] (1988) 165 CLR 107.
+
+[61] (1995) 183 CLR 273.
+
+[62] (1990) 171 CLR 1.
+
+[63] (1991) 171 CLR 468.
+
+[64] (1992) 177 CLR 292.
+
+[65] (1995) 184 CLR 19.
+
+[66] (1991) 172 CLR 501.
+
+[67] (1992) 176 CLR 1.
+
+[68] (1992) 174 CLR 455.
+
+[69] (1992) 177 CLR 292.
+
+[70] See Brownlee v The Queen (2001) 207 CLR 278 at 285 per Gleeson CJ and McHugh J.
+
+[71] (1988) 165 CLR 360.
+
+[72] (1997) 189 CLR 465.
+
+[73] (1993) 177 CLR 541.
+
+[74] Saunders, "Future Prospects for the Australian Constitution", in French, Lindell and  Saunders (eds), Reflections on the Australian Constitution, (2003) 212 at 221.
+
+[75] Zines, "Legalism, Realism and Judicial Rhetoric in Constitutional Law" (2002) 5  Constitutional Law and Policy Review 21 at 24.
+
+[76] Zines, "Legalism, Realism and Judicial Rhetoric in Constitutional Law" (2002) 5  Constitutional Law and Policy Review 21 at 23.
+
+[77] Anthony Mason, "The Role of a Constitutional Court in a Federation: A Comparison of the  Australian and United States Experience", (1986) 16 Federal Law Review 1 at 5.
+
+[78] (1989) 168 CLR 461.
+
+[79] Adrienne Stone, "Constitutional interpretation" in Blackshield, Coper and Williams (eds),  The Oxford Companion to the High Court of Australia, (2001) at 138.
+
+[80] Stone, "Constitutional interpretation" in Blackshield, Coper and Williams (eds), The
+
+Oxford Companion to the High Court of Australia, (2001) at 139.
+
+[81] Zines, "The Present State of Constitutional Interpretation" in Stone and Williams (eds),  The High Court at the Crossroads: Essays in Constitutional Law, (2000) 224 at 226.
+
+[82] Garfield Barwick, "Parliamentary Democracy in Australia" in Upholding the Australian  Constitution, (1995) vol 5, 205 at 216-217.
+
+[83] Zines, "The Present State of Constitutional Interpretation" in Stone and Williams (eds),  The High Court at the Crossroads: Essays in Constitutional Law, (2000) 224 at 232.
+
+[84] Leeth v The Commonwealth (1992) 174 CLR 455 at 486.
+
+[85] Nationwide News Pty Ltd v Wills (1992) 177 CLR 1 at 69.
+
+[86] See Nationwide News Pty Ltd v Wills (1992) 177 CLR 1 at 69; Leeth v The  Commonwealth (1992) 174 CLR 455 at 485-487.
+
+[87] Theophanous v The Herald and Weekly Times (1994) 182 CLR 104 at 173
+
+[88] See, eg, Eastman v The Queen (2000) 203 CLR 1 at 79-80.
+
+[89] (1992) 174 CLR 455.
+
+[90] Zines, "The Present State of Constitutional Interpretation" in Stone and Williams (eds),  The High Court at at the Crossroads: Essays in Constitutional Law, (2000) 224 at 226.
+
+[91] Theophanous v The Herald & Weekly Times Ltd (1994) 182 CLR 104 at 143 per Brennan  J; McGinty v Western Australia (1996) 186 CLR 140 at 229-235 per McHugh J; Kruger v The  Commonwealth (1997) 190 CLR 1 at 66-68 per Dawson J. See also George Williams,  "Globalisation of the Constitution - The Impact of International Norms", in French, Lindell and  Saunders (eds), Reflections on the Australian Constitution, (2003) 192 at 209.
+
+[92] (1997) 189 CLR 520.
+
+[93] Selway, "Methodologies of Constitutional Interpretation in the High Court of Australia",  (2003) 14 Public Law Review 234 at 239.
+
+[94] See Kartinyeri v The Commonwealth (1998) 195 CLR 337 at 382 per Gummow and  Hayne JJ.
+
+[95] Susan Kenny, "The High Court on Constitutional Law: The 2002 Term", (2003) 26  University Of New South Wales Law Journal 210 at 210; see also Dan Meagher, "Guided by  Voices? - Constitutional Interpretation on the Gleeson Court", (2002) 7 Deakin Law Review  261 at 273; Selway, "Methodologies of Constitutional Interpretation in the High Court of  Australia", (2003) 14 Public Law Review 234 at 243-244.
+
+[96] Kenny, "The High Court on Constitutional Law: The 2002 Term", (2003) 26 University Of  New South Wales Law Journal 210 at 214.
+
+[97] Kenny, "The High Court on Constitutional Law: The 2002 Term", (2003) 26 University Of  New South Wales Law Journal 210 at 216-217.
+
+[98] Most members of the Court agree, I think, with the view expressed by Gummow J in SGH  Ltd v Federal Commissioner of Taxation Australia (2002) 210 CLR 51 at 75 [44].
+
+[99] See, eg, Brownlee v The Queen (2001) 207 CLR 278 at 284-285 per Gleeson CJ and  McHugh J, 299 per Gaudron, Gummow and Hayne JJ, 337-338 per Callinan J; Meagher,  "Guided by Voices? - Constitutional Interpretation on the Gleeson Court", (2002) 7 Deakin  Law Review 261 at 282.
+
+[100] Meagher, "Guided by Voices? - Constitutional Interpretation on the Gleeson Court",
+
+(2002) 7 Deakin Law Review 261 at 287.
+
+[101] Kenny, "The High Court on Constitutional Law: The 2002 Term", (2003) 26 University Of  New South Wales Law Journal 210 at 217.
+
+[102] (1999) 198 CLR 511.
+
+[103] In re Judiciary and Navigation Acts (1921) 29 CLR 257; R v Kirby; Ex parte  Boilermakers' Society of Australia (1956) 94 CLR 254; R v Duncan; Ex parte Australian Iron  and Steel Pty Ltd (1983) 158 CLR 535 at 579-580 per Brennan J.
+
+[104] Meagher, "Guided by Voices?: Constitutional Interpretation on the Gleeson Court",  (2002) 7 Deakin Law Review 261 at 271-273, citing Truth About Motorways Pty Ltd v  Macquarie Infrastructure Investment Management Ltd (2000) 200 CLR 591 at 629 per  Gummow J; Re Refugee Review Tribunal; Ex parte Aala (2000) 204 CLR 82 at 97 per  Gaudron and Gummow JJ, The Grain Pool of Western Australia v The Commonwealth (2000)  202 CLR 479 at 500-501 per Gleeson CJ, Gaudron, McHugh, Gummow, Hayne and Callinan  JJ, Brownlee v The Queen (2001) 207 CLR 278 at 291-292 per Gaudron, Gummow and  Hayne JJ.
+
+[105] Meagher, "Guided by Voices? - Constitutional Interpretation on the Gleeson Court",  (2002) 7 Deakin Law Review 261 at 287.
+
+[106] Cheng v The Queen (2000) 203 CLR 248 at 270, Brownlee v The Queen (2001) 207  CLR 278 at 284.
+
+[107] (1999) 199 CLR 462.
+
+[108] Re Patterson, Ex parte Taylor (2001) 207 CLR 391, Shaw v Minister for Immigration and  Multicultural Affairs 2003) 78 ALJR 203; 203 ALR 143, Re Minister for Immigration and  Multicultural Affairs; Ex parte Te (2002) 212 CLR 162, Singh v The Commonwealth (2004) 78  ALJR 1383; 209 ALR 355.
+
+[109] (2000) 202 CLR 479.
+
+[110] (2001) 207 CLR 278.
+
+[111] (1993) 177 CLR 541.
+
+[112] Murray Gleeson, The Rule of Law and the Constitution, (2000) at 134.
+
+[113] Gleeson, The Rule of Law and the Constitution, (2000) at 129.
+
+[114] Patapan, "High Court Review 2001: Politics, Legalism and the Gleeson Court", (2002)  37 Australian Journal of Political Science 241 at 243.
+
+[115] (1999) 197 CLR 510.
+
+[116] Abebe v The Commonwealth (1999) 197 CLR 510 at 531 [41].
+
+[117] Abebe v The Commonwealth (1999) 197 CLR 510 at 532 [43].
+
+[118] Abebe v The Commonwealth (1999) 197 CLR 510 at 532 [44].
+
+[119] (1999) 200 CLR 322.
+
+[120] Re Governor, Goulburn Correctional Centre; Ex parte Eastman (1999) 200 CLR 322 at  331 [7].
+
+[121] Re Governor, Goulburn Correctional Centre; Ex parte Eastman (1999) 200 CLR 322 at  330 [5].
+
+[122] Re Governor, Goulburn Correctional Centre; Ex parte Eastman (1999) 200 CLR 322 at
+
+332 [9].
+
+[123] (1999) 198 CLR 511. Eg, Zines, "Legalism, Realism and Judicial Rhetoric in  Constitutional Law", (2002) 5(2) Constitutional Law and Policy Review 21 at 28; Zines, "The  Present State of Constitutional Interpretation", in Stone and Williams (eds), The High Court at  the Crossroads: Essays in Constitutional Law, (2000) 224 at 235-236; Graeme Hill, "The  Demise of Cross-Vesting", (1999) 27 Federal Law Review 547 at 573.
+
+[124] Zines, "Legalism, Realism and Judicial Rhetoric in Constitutional Law", (2002) 5(2)  Constitutional Law and Policy Review 21 at 28.
+
+[125] Zines, "The Present State of Constitutional Interpretation", in Stone and Williams (eds),  The High Court at the Crossroads: Essays in Constitutional Law, (2000) 224 at 235.
+
+[126] (1999) 199 CLR 462.
+
+[127] Zines, "The Present State of Constitutional Interpretation", in Stone and Williams (eds),  The High Court at the Crossroads: Essays in Constitutional Law, (2000) 224 at 229.
+
+[128] Zines, "Gleeson Court", in Blackshield, Coper and Williams (eds), The Oxford  Companion to the High Court of Australia, (2001) 307 at 308.
+
+[129] (1998) 193 CLR 346.
+
+[130] New South Wales v The Commonwealth (1990) 169 CLR 482.
+
+[131] Anthony Mason, "Trends in Constitutional Interpretation", (1995) 18 University of New  South Wales Law Journal 237 at 245.
+
+[132] The Commonwealth v Tasmania (1983) 158 CLR 1 at 154, 182, 249, 251.
+
+[133] (1947) 74 CLR 421.
+
+[134] (1990) 169 CLR 482.
+
+
+
+
+

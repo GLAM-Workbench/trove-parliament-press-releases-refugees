@@ -1,0 +1,426 @@
+Assigning the state its rightful place? Migration, integration and the state in Germany, then and now Karen SchÃÂ¶nwÃÂ¤lder
+
+(Wissenschaftszentrum Berlin fÃÂ¼r Sozialforschung schoenwaelder@wz-berlin.de)
+
+Workshop ‘Paths of Integration’, IMIS OsnabrÃÂ¼ck, 20-21 June 2003
+
+This is a workshop paper which contains many preliminary suggestions etc. and should thus not be cited without the author’s permission.
+
+I. Continuity, change, and the state
+
+Since Theda Skocpol coined that phrase, the state has, on many occasions, been brought back into many things. I shall refrain from producing another example of this genre. Actually, the state is already omnipresent in accounts of the German migratory experience, and the more relevant task may be to consider where is has to be ‘taken out’ rather than ‘brought back in’, or, to put it less radically, to reconsider the role of the state in relation to other forces affecting the modes of immigrants’1 incorporation into German societies.
+
+Altogether this is a huge task, and this paper does not claim to address the problem comprehensively. Its starting point is the observation that the US-American debate about integration/assimilation ‘then and now’ often more or less inexplicitly assumes a continuity of
+
+the social and political framework. In fact, astonishingly little consideration is given to the possible impact of changing political conditions on integration processes - although the problem is occasionally mentioned.2 While for the US it may to some extent be justified to assume continuity of at least major political structures, for Germany this would of course be absurd. Obviously, in the last 100 to 120 years, enormous ruptures occurred, with two world wars being fought by and in the country, and a sequence (co-existence) of six different regimes (seven if you count 1945-1949). Given the extremely different political frameworks in, say, 1890 compared to 1970, can integration processes possibly have been similar?
+
+Nevertheless, if we reconsider the literature on Germany’s migratory experience, frequently the emphasis is on continuity, and it is the assumed continuity of key aims of government policy and of the legal framework that is at its core. Altogether there is an overwhelming presence of the state in more or less all accounts of 20th-century migration to Germany.
+
+More recently, however and this is my third starting point, a trend is noticeable towards emphasizing the limits of state intervention. Furthermore, recent debates have focussed on the
+
+
+
+1  I know that some people perceive the term ‘immigrant’ as inadequate with regard to people born in the respective country. It seems to me that connotations linked to the term differ in Britain, the US? and Germany. I shall risk using the term in a wider sense that includes people with a migration background.
+
+2  See Ruben G. Rumbaut, ‘Assimilation and Its Discontents: Between Rhetoric and Reality’, International Migration Review, vol. xxxi, 1997, pp. 923-960. Rumbaut demands that the ‘differences in the historical contexts of immigration and incorporation’ be taken more seriously; often sociological analyses operated in
+
+a ‘decontextualized historical vacuum’ (943).
+
+2
+
+changing character of the state, in particular on the declining power of the nation state (who, contained by a network of international and human rights provisions, no longer seems to be able to control membership) and, secondly, on the mechanisms of the welfare state as developed after 1945. Again: Would we have to assume that, as a consequence of the fundamental transformation of the state, integration processes ‘then and now’ take place in a radically different framework and are thus hardly comparable?
+
+Of course these points touch upon a fairly wide research agenda, and indeed, in writing this paper, I found that at several points I shall offer points for discussion, point out gaps in our (my?) knowledge and invite your comments.
+
+II. Reception levels
+
+For a reassessment of immigrant integration and the involvement of the state in it, a model suggested by Portes/Rumbaut (re. Portes) offers a useful starting point.3 The model distinguishes between three different levels of reception that affect modes of incorporation:
+
+▪ The first is the government’s policy toward different immigrant groups which can in principle take three different routes: exclusion, passive acceptance, and active encouragement.
+
+▪ The second reception level involves civic society and public opinion (in Portes/Rumbaut the second level is the labour market), and Portes further assumes that it is not necessarily dependent on the first level.
+
+▪ ‘The third reception level is the ethnic community’. Here it is for instance important whether a sizeable community exists and whether it offers economic opportunities (i.e. the social composition).
+
+‘The combination of positive and negative features encountered at each of these levels determines the distinct mode of newcomers’ incorporation.’4 Of course this is not a theory, the authors do not make systematic assumptions about the results of a specific combination of the three reception levels. We also have to remember that they are mainly interested in the economic success of immigrants. Nevertheless, this may be a useful pattern whose application to Germany could offer three benefits:
+
+Ã¢ÂÂ¢ It invites us to distinguish a set of factors determining the ‘fate’ of different immigrant groups, to assess the relative weight of the three levels, their interaction, and the consequences for the incorporation of immigrants;
+
+Ã¢ÂÂ¢ For the often state-centred interpretations of developments in Germany, this could provide a helpful corrective (i.e. an invitation to question the often assumed identity of official state/government policy and attitudes prevailing in society);
+
+Ã¢ÂÂ¢ As Portes himself emphasizes, it is the intention of this model to direct attention away from the individual capacities of the immigrants (education, skills) to the social and political
+
+
+
+3  Alejandro Portes, Economic sociology and the sociology of immigration: a conceptual overview, in: Alejandro Portes (ed.), The economic sociology of immigration: essays on networks, ethnicity, and entrepreneurship, New York: Russell Sage Foundation, 1995, pp. 1-41 (23-6); Alejandro Portes/Ruben G.
+
+Rumbaut, Immigrant America. A Portrait, Berkeley: U. of California Press, 1996. 4  Portes/Rumbaut, Immigrant America, p. 84.
+
+3
+
+environment. Clearly, this is a point aimed at influential strands in the sociological debate in America as well as in Germany.
+
+Additionally, while in the German (public) debate, the question is often whether integration has been achieved or not, to distinguish between different modes of incorporation could encourage a more neutral and flexible assessment of the situation.
+
+A recent expertise for the federal government’s Zuwanderungskommission partly points in the same direction. As the authors Nauck and Steinbach emphasize, rather than by cultural differences between migrants of different origin, integration processes are determined by the
+
+specific opportunity structures at the time of immigration. ‘Whoever compares integration processes of Italians and Greeks with those of Vietnamese and Turks in Germany … will have to take into account the proportions of the respective nationalities immigrating at specific points in the [historic] immigration process to Germany, what opportunity structures they encountered and how much Ã¢ÂÂlifetime” the migrants on average could already invest in the process of integration’. As the expertise further argues, social science explanations of collective differences are so far unsatisfactory. While German researchers emphasized individual resources (education) and differing opportunities at differing times, American research stressed social relations within ethnic groups. In investigating generational differences, the different levels of social, inter-generational and individual change had so far not been interlinked in a satisfactory way.5
+
+III. A brief tour through Germany’s migratory experience
+
+In the 1880s, Germany (i.e. the Kaiserreich founded in 1871) became a country of immigration (as immigration now exceeded emigration)6 and of major internal migratory movements. It is estimated that of about two million internal migrants from east to west, roughly 20 per cent were ethnic Poles. But there was also significant foreign immigration. Official statistics for 1910 recorded 1.26 million foreigners in the Reich, of whom the biggest groups came from Austria-Hungary (667,000), the Tsarist Empire (138,000), the Netherlands (144,000), Italy (104,000), and Switzerland (68,000). Citizens of Austria-Hungary and the Tsarist Empire were ethnically mostly Poles.7 Government policy focussed on the Poles (and the Jews), and it is with reference to the Poles that many scholars have argued that harsh restrictive anti-immigration policies (mass expulsions in 1885, forced seasonal rotation/Karenzzeit, no families allowed in) made permanent settlement and integration
+
+
+
+5  Bernhard  Nauck/Anja  Steinbach, Intergeneratives Verhalten und Selbstethnisierung von Zuwanderern. Expertise fÃÂ¼r die UnabhÃÂ¤ngige Kommission Ã¢ÂÂZuwanderung“, March 2001, in particular pp. 7-8.
+
+6  In German the term Einwanderung (immigration) suggests permanent settlement, and this is one reason Klaus Bade prefers to call Germany not an immigration country but a labour importing country. I use the term immigration in the wider Anglo-American sense.
+
+7  For the figures (in general, if no other source is given) see Ulrich Herbert, Geschichte der AuslÃÂ¤nderbeschÃÂ¤ftigung in Deutschland 1880 bis 1980, Bonn: Dietz, 1986, p. 25. The BerufszÃÂ¤hlung (occupational census) of 1907 partly recorded higher figures, i.e. 130,000 workers born in Italy (ibid., p.
+
+26). Statistics are not entirely reliable, but they give an indication of the major nationalities involved.
+
+4
+
+virtually impossible.8 It seems that the Prussian state (and partly the Reich) was a state in control of migration and settlement.
+
+However, it has been argued that the ‘Polocentrism’ (Polenzentrismus) prevailing among researchers has obstructed an appropriate assessment of state activities and that the treatment of the Poles represented a special case.9 Indeed, several restrictions applied specifically to ethnic Poles, while migrants from Italy, Ruthenians or Czechs were not affected. Estimates put the number of Italians in the Reich at up to 200.000 around 1910. Employment statistics for 1907 additionally give a figure of 36,000 Ruthenes and of 29,000 Czechs in Prussia alone.
+
+Among the Italians, there was significant fluctuation, but, according to del Fabbro, there are also indications of a beginning settlement process. Furthermore, del Fabbro argues that a ‘liberal foreigners law’ and a non-interventionist stance of the state constituted favourable conditions for this process.10 At least the southern borders of the Reich could be crossed without papers, employment contracts could be concluded freely. The restrictive Prussian decrees hardly applied to Italians, partly because they were Prussian decrees that were not necessarily adopted by other states, partly because they were not strictly enforced.11 Italians already before 1914 enjoyed the benefits of social security schemes granting them sick pay and payments in case of accidents. The absence of an Italian infrastructure and of immigrant colonies may have favoured assimilation.12
+
+Considering the role of the state before 1918, it seems that we have to, first, remind ourselves that Germany was and still is a federal state. Secondly we have to distinguish between a determined anti-Polish policy, that at the very least made it extremely difficult for Poles of non-German citizenship to become settled (active exclusion), and a laissez-faire attitude towards other migrant nationalities (passive acceptance). The state did not encourage mass immigration and integration of those foreigners who were neither Polish nor Jewish. But it seems that a passive state tolerated settlement of non-Polish immigrants. If nevertheless permanent immigration did not happen on a bigger scale, other factors but repressive state activities must have been responsible: such as the structure of employment (building trade, traders), seasonal migration traditions, and the absence of a strong, protective ethnic community. A factor we know very little about is civil society, i.e. the reception of migrants other than Jews or Poles.
+
+
+
+8  See e.g. Klaus J. Bade, ’Arbeitsmarkt, BevÃÂ¶lkerung und Wanderung in der Weimarer Republik’, in: Michael StÃÂ¼rmer (ed.), Die Weimarer Republik. Belagerte Civitas, KÃÂ¶nigstein/Ts., 1980, pp. 160-187 (168).
+
+9  RenÃÂ©  del  Fabbro,  Transalpini.Italienische Arbeitswanderung nach SÃÂ¼ddeutschland im Kaiserreich1870-1918, OsnabrÃÂ¼ck, 1996.
+
+10  Ibid., p. 200. 11  i.e.  the  language  paragraph  of  the  Reichsvereinsgesetzes of 1908 (the federal law on associations), see Adolf
+
+Wennemann, Arbeit im Norden. Italiener im Rheinland und Westfalen des spÃÂ¤ten 19. und frÃÂ¼hen 20. Jahrhunderts, OsnabrÃÂ¼ck, 1997, pp. 162-3. See also Jochen Oltmer, Ã¢ÂÂDeutsche MigrationsverhÃÂ¤ltnisse. Neuere Forschungsergebnisse zur Wanderungsgeschichte im Kaiserreich und in der Weimarer Republik’, Historisches Jahrbuch 122, 2002, pp. 483-520). 12
+
+Elia Morandi, in a study of Hamburg (forthcoming), paints a slightly different picture. He points at settlement concentrations and the exitence of a couple of clubs, associations as well as an Italian greengrocer and Italian bars.
+
+5
+
+The most important factor, and indeed a major caesura, was the First World War. Most of the Italians left Germany, although even when both countries were at war with each other (from August 1916), a few thousand stayed on.13
+
+The second break came with the catastrophic economic situation immediately after the end of the war and a state now willing to protect the domestic workforce. Among the Italians another movement ‘home’ ensued, and in 1926 only about 6.000 Italians still lived in the Rhineland and Westfalia.14 However, this smaller community now formed associations; they had their own newspapers and sometimes even schools. Now Wennemann identifies trends towards
+
+permanent settlement.15 As the development of social and cultural structures was at least partly linked to a massive intervention of the Italian fascist state, it is difficult to decide whether it indicates that bonds with the native country were still strong or that an Italo-German community was emerging, or both (early transnationalism?).
+
+Economic conditions and state intervention ensured that there was very little new immigration after 1918.16 For the US, Alba and Nye have suggested that the absence of ‘new supplies’ weakened the ethnic communities and encouraged assimilation.17 As so far very little research has been done on the long-term development of migrant groups in Germany, only tentative suggestions are possible. For the Italians, there are indications that the group that survived the post-WWI crisis continued to stay but hardly grew: In Hamburg about 400 Italians were registered in 1916, and in 1925, 555 Italian citizens lived in the city. As about half of them gave German as their mother tongue, this was in all probability a tiny set of mixed families. 400 to 500 Italians continued to stay in Hamburg during the Nazi regime.18 The needs of the war economy led to a huge inflow of at first civilian workers from Italy. From 1943, Italian soldiers were turned into forced labourers, and for a brief period the Italian presence expanded to, in Hamburg alone, 16,000 workers. It is unclear whether contacts were established between them and the resident Italians, and within months after the end of the war, the Italian war-time workers were sent home.19 Thus, while there is a continuity of an Italian presence in
+
+
+
+13  Wennemann  estimates  that  in  1915 about 25.000 Italians lived in the Rhineland and Westfalia (Arbeit im Norden, p. 183), they were not interned. Del Fabbro gives the much lower figure of about 20.000 willing to stay in Germany (Transalpini, p. 286).
+
+14  Wennemann, Arbeit im Norden, p. 190. 15  Ibid. , p. 202.
+
+16  1928 statistics recorded 236,000 foreign employees in Germany. 100,000 had Befreiungsscheine (exemption certificates) which indicates that they either had been living in Germany since 1913 (agrarian) or 1919 (industrial workers), or that they were ethnic Germans (or originally German wives of foreign
+
+citizens??). According to 1933 census figures which included the self-employed, 366,000 economically active foreign nationals lived in Germany, among them 95,000 Czechs, 69,000 Poles, 42,000 Austrians and 37,000 Dutch citizens. Altogether (according to the 1933 census) 756,760 foreign nationals lived in Germany. The fact that 80 per cent gave German as their mother tongue can indicate longterm integration, mixed families, German ethnicity as well as concessions of the individuals to the political environment. 17
+
+Richard  Alba/Victor  Nee,  Rethinking  Assimilation  Theory for a New Era of Immigration, International Migration Review, vol. xxxi, 1997, pp. 826-874 (842). 18  See Elia Morandi’s contribution in Angelika Eder (ed.) "Wir sind auch da!" ÃÂber das Leben von und mit
+
+Migranten in europÃÂ¤ischen GroÃÂstÃÂ¤dten, unter Mitarbeit von Kristina Vagt, Forum Zeitgeschichte Bd. 14, Hamburg, (May) 2003. In 1951, 821 Italian citizens were registered in Hamburg. The German wives of Italian citizens as well as the couple’s children automatically became Italian citizens. It seems to me that this factor has so far been underestimated  in discussions of official statistics. 19
+
+Nevertheless, it seems that a line of continuity exists to the 1960s, as former forced labourers and other workers seem to have gone back to German firms they had previously worked for.
+
+6
+
+Germany and a migratory experience newcomers could build on, we can hardly speak of significant immigrant communities and integration processes over several generations - although of course it would be fascinating to find out more about those Italian-German families. As far as I can tell, even less is known about Dutch, Austrian or Czech immigrants to Germany and their integration or exclusion.20 In 1951, in a first statistical survey for the young Federal Republic of Germany, figures of 20,680 Italian, 73,483 Dutch and 44,268 Austrian citizens were recorded - many of them probably long-term residents and family members of male foreigners.21 On a small scale, immigrant minorities had survived the racial state, but we know very little about their modes of incorporation. As it seems, longer-term incorporation into German society happened via mixed families and in border regions where economic and social relations transcended the nation-state borders (Dutch, Austrians).
+
+As regards the biggest ethnic minority, the Poles, the agreed general picture is that after 1918 on the one hand numbers were greatly diminished due to the redrawn borders and the departure of about two thirds of the Ruhr Poles.22 As KleÃÂmann has argued, the decision to remain in the Ruhr meant consciously opting for German citizenship and to some extent accepting assimilation.23 Still, the population of Weimar Germany included one to two million ethnic Poles (mostly not in the Ruhr but the eastern regions). They faced an extremely hostile environment and, under the Nazi regime, persecution in some cases and generally a degree of repression that ensured widespread assimilation. It seems that around 1900/1910 pressure exercized by the authorities often had opposite effects and strengthened a minority identity. But in the long run and combined with a hostile environment and the extreme conditions of the Nazi dictatorship, wide-spread assimilation occurred. However, after 1945 Polish organisations were revived, and the new immigration of, first, former DPs and later refugees, labour migrants, as well as officially German Poles, ensured that forms of ‘Polish life’ were kept alive. This happened without state support as the Federal Republic from 1949 refused to acknowledge the existence of a Polish minority and support their activities (as it did for the Danes in the north). Nazism and the territorial conflict that overshadowed the co-existence of ethnic Poles and other German citizens constitute peculiar conditions which make it difficult to compare this case with the integration of foreign migrants in post-1949
+
+
+
+20  See the brief chapter by Hein van der Veen, Ã¢ÂÂDie niederlÃÂ¤ndische Minderheit’, in: Schmalz-Jacobsen, Cornelia/Georg Hansen (eds), Ethnische Minderheiten in der Bundesrepublik Deutschland. Ein Lexikon, MÃÂ¼nchen, 1995, pp. 343-348. He suggests that some resident Dutch were turned into forced labourers.
+
+Without specifying historical developments, he refers to a vivid organizational life (Nederland en Oranje, Hollandia) as well as to lack of information on occupations and the social situation of Dutch immigrants. The handbook has no entry on the Austrians. Of the Russian community of the Weimar period, ‘hardly a visible trace’ remained: Karl SchlÃÂ¶gel, ‘Berlin: “Stiefmutter unter den russischen StÃÂ¤dten”’, in: SchlÃÂ¶gel (ed.), Der groÃÂe Exodus. Die russische Emigration und ihre Zentren 1917 bis 1941, MÃÂ¼nchen: Beck, 1994, pp. 234-259 (234). 21
+
+Ã¢ÂÂDie  AuslÃÂ¤nder  im  Bundesgebiet’,  Wirtschaft und Statistik, 1951, no. 8, pp. 313-15, 965-6*. Here it was estimated that about one quarter of the overall 503,000 foreign citizens had arrived before the war. About half of the Austrians lived in Bavaria and 57,000 of the Dutch in Northrhine Westfalia, i.e. in the states next to their countries of origin. 22
+
+One third opted for Polish citizenship and left, another third left for the French and Belgian mines. 23  Christoph KleÃÂmann, Ã¢ÂÂKlassensolidaritÃÂ¤t und nationales BewuÃÂtsein. Das VerhÃÂ¤ltnis zwischen der polnischen Berufsvereinigung (ZZP) und den deutschen Bergarbeiter-Gewerkschaften im Ruhrgebiet 1902-
+
+1923’, in: IWK 10, 1974, pp. 149-178. Membership figures of the ZZP in the Reich declined from about 40,000 in 1922 to only 5-8,000 in 1925, see ibid., p. 154.
+
+7
+
+Germany or the USA. However, a long-range study of the development of Polish communities in Germany and their social and economic incorporation would be desirable.24
+
+The state during the Weimar period was, in a way, far more interventionist than previously. Klaus J. Bade described the changes as a shift from a policy of rejection (Abwehrpolitik) to a policy dictated by labour market considerations. Jochen Oltmer now sees ‘the regulating, controlling, and administrating intervention of the protectionist welfare state’ at work.25 The development of a systematic labour market policy (in 1927 the Reichsanstalt fÃÂ¼r Arbeitsvermittlung und Arbeitslosenversicherung was founded) and the principle of preference for native workers secured by the trade unions fundamentally changed the character of state intervention into migration in the direction of more comprehensive control and towards a greater weight of economic criteria of regulation. This argument should, however, not be taken too far. When the Reich’s minister for the interior, Martin Schiele, in 1925 warned of the dangers posed by the ‘new immigration of elements of foreign descent’ (fremdstÃÂ¤mmige Elemente) and appealed to protect the ‘physical and moral health of our people’, this illustrates not only that attitudes to immigration were still strongly influenced by the traditional nationalist and racist beliefs.26 Apart from elements of the logic of a welfare state, we can still see a nation-state at work, striving to secure the ‘German’ east by means of a population policy which perceived foreign migrants as a dangerous flood. In a historical perspective we should consider whether state control continuously became more comprehensive (or different?) - even compared to the first half of the 19th century for which Andreas Fahrmeir stresses the far-reaching intervention of the authorities.27 To what extent did the development of individual rights and a democratic constitution now limit state intervention?
+
+Developments in the late 1920s serve as a reminder that state control over foreign migration is not always effective. An estimated 60-70,000 foreign Poles had become settled.28 Possibly
+
+
+
+24  See Christoph Pallaske (ed.), Die Migration von Polen nach Deutschland. Zu Geschichte und Gegenwart eines europÃÂ¤ischen Migrationssystems, Baden-Baden: Nomos, 2001. Angelika Eder’s contribution encompasses the period from 1918 to 1990. Like Stanislaus Stepien (Der alteingesessene Fremde.
+
+Ehemalige Zwangsarbeiter in Westdeutschland, Frankfurt on Main: Campus, 1989), she points out continuities beyond 1945. 25  ‘Migration and public policy in Germany, 1918-1939’, in: Larry Eugene Jones (ed.), Crossing Boundaries.
+
+The Exclusion and Inclusion of Minorities in Germany and the United States, New York/Oxford: Berghahn, 2001, pp. 50-69 (55). 26  Reichstag, Stenographische Berichte, vol. 386, 72nd session, 13 June 1925, p. 2273. Jochen Oltmer
+
+similarly emphasizes the co-existence of labour market and nationalistic motivations (Deutsche MigrationsverhÃÂ¤ltnisse). 27  After  1860s  some  controls  were  relaxed,  for  the  preceding decades Fahrmeir emphasizes that controls were
+
+extensive and included, e.g., employment permits: Andreas Fahrmeir, Citizens and aliens. Foreigners and the law in Britain and the German states 1789-1870, New York, 2000. 28  This was the estimate given in the report of a ReichstagsausschuÃÂ to the Reichstag, vol. 395, 407th session,
+
+22 March 1928, p. 13616. The report stated that those who had immigrated before 1 January 1919 should be granted the right to stay, everybody else (an estimated 27,000) should be expelled over the next six years. See Horst Kahrs, Ã¢ÂÂDie Verstaatlichung der polnischen Arbeitsmigration nach Deutschland in der Zwischenkriegszeit’, in: Arbeitsmigration und Flucht. BeitrÃÂ¤ge zur nationalsozialistischen Gesundheits-und Sozialpolitik 11, Berlin/GÃÂ¶ttingen, 1993, pp. 130-194. I presume that Jochen Oltmer’s forthcoming book will also deal with this.
+
+8
+
+this was an effect of the war (during which foreign workers had not been allowed to leave Germany) as well as ineffective controls and concessions to economic needs in the post-war years. In 1927-8 Germany and Poland agreed a treaty on agrarian labourers which allowed Germany to force several 10,000 Poles to revert to a migratory seasonal labour scheme. It seems that an immigration process was at least partly revised. (Although one could also argue that, by exempting those who had arrived before 1919, it was already recognized that residence led to rights.)
+
+The development of a welfare state29 and the (initially) increased influence of the labour movement additionally meant that foreign migrants were now officially granted equal wages as well as inclusion in the accident and sickness insurances. It is doubtful whether these provisions were implemented.30 In the shape of the ILO a new international agency began to influence the conditions of migrant labourers - but again: probably with little effect.
+
+Officially, national minorities were now granted constitutionally guaranteed rights. Selective discrimination and the suppression of minority languages were no longer official state policy; the policy of Germanization was largely discredited.31 At the same time, government policy was mainly determined by strategic considerations with regard to German minorities outside the German state. As it was the aim to preserve them as separate German entities, Germany generally (i.e. in the League of Nations) opposed a policy of assimilation and supported cultural autonomy for minorities. Minority organizations in Germany, however, rejected ‘cultural autonomy’ and separate, private schools for their children, as participation in the mainstream system seemed the more promising route for their advancement.32 Altogether, the minority rights provisions remained a largely dead letter. The authorities were able to circumvent the constitution.33 It appears that the local state gained importance as a factor actively working against integration in the sense of legal and social equality.
+
+
+
+29  Arthur Benz describes the development of the democratic welfare state as characterized by a threefold process: an increasing inclusion of members of society in the state (voting rights as well as social policy), the extension of civil rights and the expansion of state tasks (Der moderne Staat, MÃÂ¼nchen, 2001, pp. 28-9).
+
+30  Baranowski doubts that unemployment insurance and public health services as well as school education were extended to foreign agrarian labourers and their families (The sanctity of rural life: nobility, protestantism, and Nazism in Weimar Prussia, Oxford, 1995, p. 63).
+
+31  For a detailed discussion of the background and impact of the minorities clause see my ‘The Constitutional Protection of Minorities in Germany: Weimar Revisited’, in: Slavonic and East European Review, vol. 74, 1996, pp. 38-65. Article 113 of the constitution stated: ‘Sections of the people of the Reich speaking a
+
+foreign language ay not be restricted, whether by way of legislation or administration, in their free national development; this applies specially to the use of their mother tongue in education, as well as in questions of internal administration and the administration of justice.’ 32  H.  Pieper,  Die Minderheitenfrage und das Deutsche Reich 1919-1933/34, Hamburg, 1974, pp. 132-3; SchÃÂ¶nwÃÂ¤lder, The Constitutional Protection, pp. 62-3. 33  Christoph  KleÃÂmann,  Ã¢ÂÂIntegration  und Subkultur nationaler Minderheiten: das Beispiel der Ruhrpolen 1870-1939’, in: Bade, Auswanderer, pp. 486-505 (502-3). With reference to the Sorbs, Gerald Stone argues that Germanizing policies ‘continued unchecked’ (The smallest Slavonic nation: The Sorbs of Lusatia, London, 1972, p. 33). A Prussian decree of December 1918 allowed for Polish reading and writing lessons as well as religious education in Polish in certain districts. Saxony introduced similar provisions regarding the Wends in 1919. In 1926 and 1928 Prussia issued decrees on minority schooling for the Danish and the Polish minorities. Representatives of the minorities frequently complained about discrimination against Polish Germans, e.g. the non-confirmation of elected local councillors or prevention of land purchase, see SchÃÂ¶nwÃÂ¤lder, The Constitutional Protection, p. 52.
+
+9
+
+Turning back to Portes’ three levels of reception - while ethnic networks surely influenced residential patterns and the ability to establish a foothold in Germany, ethnic communities were weak economically, they mostly consisted of workers, often at the bottom end of hierarchies.
+
+With regard to civil society and the labour market, conditions were extremely adverse.34 Compared to the Kaiserreich, economic competition now combined with hostility against a Polish ‘enemy’ that had deprived Germany of much of ‘its’ territory as well as antisemitic attitudes towards new immigrants from the east. Italians were seen as traitors in the war - an accusation revived in and after the second world war. While before 1918, social democrats, left liberals and the minorities had sometimes jointly opposed the repressive regime, this solidarity had now vanished.
+
+In post-Nazi Germany, aliens and integration policy began before the conclusion of labour recruitment treaties. A distinct policy existed with regard to the Heimatlose AuslÃÂ¤nder (mostly former DPs) and to foreign refugees. The first group, like recognized refugees, enjoyed a legal status close to that of German citizens. Political intervention, or in Hammar’s terms ‘immigrant policy’, focussed on the dissolution of camps; loans for housing and economic activities were made available (partly UN funds), and - as the federal government emphasized - specific attention was paid to helping the refugees practice and retain their culture, educational system, and ‘their ethnicity’ (‘Volkstum schlechthin’). Eingliederung/integration was the aim, not assimilation/Einschmelzung. In 1968, for example, federal and regional states made about 3.9 million marks available for this purpose.35 At a point not yet identified (in 1969 with the advent of the Brandt government and the dissolution of the responsible ministry for expellees and refugees??), this policy promoting the ethnicity of refugees was discontinued. It had been motivated by the assumption that some groups would return to their homelands, but also by concepts which linked the integrity of the individual to his/her Volkstum. Clearly, this attitude was influenced by principles of interwar minorities policy as well as quasi-biological conceptions of the Volk (and Cold War politics).36 As regards the effects of state intervention, we are so far pretty much in the dark as no detailed studies seem to exist of e.g. the Ukrainians, Croats or Hungarians in West Germany.
+
+Policy towards the so-called guestworkers lacked a clear objective. Within the federal administration discussions about political responses to immigration intensified in the mid-1960s when it became clear that labour migration was a longer-term phenomenon and when settlement processes became visible. An interesting exchange of ideas took place when, in 1963-4, housing minister LÃÂ¼cke demanded that the Cabinet should take decisions on the future place of foreign migrants in German society.37 Shortly before, in his role as president of
+
+
+
+34  See e.g. Ralf Koch, ’Die Ã¢ÂÂFremdvÃÂ¶lkischen“ im Blick der Einheimischen: Polnische Wanderarbeiter in Deutschland wÃÂ¤hrend der Weimarer Republik’, in: Deutsche Studien, 1993, pp. 39-56.
+
+35  Jahresbericht der Bundesregierung 1968, Bonn, 1969, pp. 468-9. 36  In the context of the League of Nations, assimilation versus preservation of minority identities had been
+
+hotly debated issues. Additionally, German experts after 1945 studied US-american debates about immigrant integration. 37  For a detailed discussion of government policy and public debates up to 1973 see my Einwanderung und
+
+ethnische PluralitÃÂ¤t. Politische Entscheidungen und ÃÂ¶ffentliche Debatten in GroÃÂbritannien und der
+
+10
+
+the Katholikentag, LÃÂ¼cke had proposed to concentrate the guestworkers in centres for the different nationalities, and he now renewed his proposal of closed settlements with churches, schools etc., i.e. a systematic segregation of the migrant population allegedly in the interest of their cultural integrity. In spite of a labour recruitment policy which assumed the return of most labour migrants, the response was uniformly negative: representatives of both the churches and of other government ministries argued that a separate and concentrated settlement of the foreign workers was not to be welcomed; ghettoes (sic) would hinder their integration and raise concerns with regard to internal security. As they insisted, the aim should be integration - which was explicitly distinguished from assimilation and involved that the migrants’ languages and Volkstum should be retained, but not by means of segregation. Yet, unlike the above-mentioned groups, they received no subsidies for schooling and ethnic
+
+associations.
+
+In the end, strategies were not clarified on a higher level, i.e. the Cabinet, and altogether activities developed without a clear and agreed objective. But the story illustrates that different, sometimes contradictory, objectives determined decisions about government policy towards migrants. This is sometimes underestimated in analyses which focus on Germany’s guestworker policy. Thus e.g. Doomernik argues that because of a rotation policy, ‘integration other than on the labour market was not a goal of governmental policies.’38 However, apart from the fact that rotation was never designed or implemented as a policy, government policy was determined by a number of objectives: the counselling system had been introduced to secure political and social control (this was the Cold War and the fear of communist infiltration was omnipresent) and to prevent conflicts. Segregation was seen as a danger as large concentrations of foreigners could pose a potential threat.39 And men without their families were seen as a particularly explosive potential. Furthermore, the Italian media and government watched the treatment of Italians in other countries, and the government pushed for improved conditions. Generally, if we consider the influence of the state on immigrant integration, we should acknowledge the grown power of the sending states who, after 1945, appear on the stage as a serious factor40 (Here, of course, pressures exercised by the voters at home - and thus democratic transformations - were important). West Germany in particular was sensitive to pressures from abroad and very careful not to provoke accusations of discrimination and racism. Altogether the importance for migration policy of this specific context of a post-Nazist Germany, desperate to prove its democratic transformation to a critical foreign audience, can hardly be overestimated. More generally, due to closer relations between states within Europe and beyond, the human rights framework, and the struggle for
+
+
+
+Bundesrepublik von den 1950er bis zu den 1970er Jahren, Essen: Klartext, 2001. The LÃÂ¼cke-story is told on pp. 314-7. See also Anne von Oswald/Karen SchÃÂ¶nwÃÂ¤lder/Barbara Sonnenberger, ‘Einwanderungsland Deutschland: a New Look at its Post-war History’, in: Rainer Ohliger/Karen SchÃÂ¶nwÃÂ¤lder/Triadafilos Triadafilopoulos (eds), European Encounters. Migrants, Migration and European Societies since 1945, Aldershot: Ashgate, 2003, pp. 19-37. 38
+
+Jeroen  Doomernik,  The effectiveness of integration policies towards immigrants and their descendants in France, Germany and the Netherlands, Geneva, ILO, 1998 (International Migration Papers 27), p. 45. 39  Experiences in 1945 had made a deep impression, when forced labourers were released and suddenly
+
+presented a (real or imagined) threat. Of course, the attitude of the federal government in the 1960s was contradictory as it tolerated residential segregation. 40  On the need to pay more attention to the role of the sending states, see Kimberley A. Hamilton, ‘Europe,
+
+Africa and International Migration, in: New Community, vol. 23, 1997, pp. 549-70.
+
+11
+
+political influence in the world, foreign policy considerations acquired a novel importance for migration policy.
+
+It would go too far to claim that the state remained passive with regard to processes of immigration. Although, with regard to the Italians, passive acceptance seems the most fitting description of the government’s attitude from the late 1960s.41 But generally, by controlling access to the country and the labour market, it influenced migration and settlement patterns. The state more or less effectively shaped the composition of the immigrant population in particular by keeping out Africans and Asians.42 (Thus a pre- and post-‘1965’ immigration in the American sense does not exist in Germany.) But already in the 1960s, the authorities were partly unable, and partly unwilling, to prevent the permanent settlement of immigrants. Of 3.856 registered foreign citizens in autumn 1973, 877.000 (ca. 23%) had entered the Federal Republic eight or more years ago - already then, settlement processes were far advanced.43 The reasons why an effective anti-immigration policy was not implemented were manifold; they include economic interests, EEC provisions as well as - most importantly - foreign policy considerations. Rights accorded by the welfare state or the intervention of the courts were initially (before the mid-1970s) not decisive (it is one of the lacunae to trace more exactly when and why this changed). The government repeatedly decided not to use instruments that were in principle at its disposal. Of course barriers towards naturalization remained in place.
+
+Eingliederungspolitik before 1973 did not distinguish between short-term migrants and long-term immigrants; in fact this was a point of criticism voiced as early as the 1960s. Immigrant policy before 1970 consisted of very limited subsidies for the employment of social workers by welfare organisations and for activities like ‘leisure centres’. Housing conditions were partly subjected to guidelines (only employers’ hostels for officially recruited workers) but active measures for their improvement remained largely symbolic (loans). From 1 June 1966 children of foreign workers were obliged to attend regular schools (it took some time until they did).
+
+The state, in so far as this refers to the interior ministries and their agencies, focussed on Eingliederung through the suppression of non-conform behaviour. Sometimes e.g. leaders of a strike were expelled. Rarely do the files in the archives contain any hint at doubts as to the legitimacy of state intervention into the lives of foreign individuals. Officials confidently
+
+assumed that it was their duty not only to protect the health and security of the German people but also to intervene in decisions of foreigners on the size and shape of their families (no extended families) and to penalize for instance ‘deviant’ sexual behaviour (expulsion because
+
+of a sexual relationship with a married woman or a young girl etc.). Residence permits and further restrictions channelled economic activities into dependent employment (restricted
+
+
+
+41  In  1966,  StaatssekretÃÂ¤r Ludwig Kattenstroth explained that the federal government’s policy to encourage permanent settlement. But the Germans should not be unhappy if the odd foreigner (and his family) decided to become settled as West Germany wanted ‘Europe’ (‘Denn schlieÃÂlich wollen wir Europa.’),
+
+‘AuslÃÂ¤ndische Arbeitnehmer in der Bundesrepublik Deutschland’, in: Bundesarbeitsblatt, vol. 17, 1966, pp. 237-240 (240). 42  I have examined the exclusion of Africans and Asians in more detail in a forthcoming article for Ethnic and
+
+Racial Studies; see also my Einwanderung und ethnische PluralitÃÂ¤t, pp. 257-77. 43  Statistisches Jahrbuch fÃÂ¼r die Bundesrepublik Deutschland 1974, p. 51.
+
+12
+
+access to self-employment, to professions). This was (before about 1970) still - in particular in the interior ministries concerned with admitting and controlling the foreigners - a rather authoritarian state.
+
+With regard to the development of the welfare state, and thus more generally state intervention, the late 1960s and early 1970s mark an important stage. In this period, the relationship between state and society changed fundamentally.44 Economy and society were now to be shaped from above (this at least was the idea), the governing social democrats wanted to create a fairer society, labour market policy was redefined as active, preventative intervention. Additionally, the interaction of central and regional states as well as of state and civil society organizations changed and the network-state began to emerge.
+
+As regards immigrant integration, this had two major effects: Firstly, the quantitative expansion of state activities and the welfare budget was reflected in growing funds, the budget for counselling services (and other activities related to labour migration) multiplied in the early 1970s.45 Secondly, the framework for political intervention changed as the ideal of a more democratic and humane society proclaimed by the social democrats, as well as the new ‘spirit of the times’, made it difficult for a politician to appear as someone indifferent towards the miserable living conditions of migrant families.
+
+Civil society was, in the early 1970s, ahead of the political elites, and for a couple of years conditions were favourable for integration - even a reform of the citizenship law might have been successful. Racism and discrimination were now widely rejected - while the situation in the 1960s can be described as that of a ‘contained conflict’, i.e. a situation in which a
+
+significant conflict potential existed but was held in check due to the need to prove West Germany’s character as a democratic nation.
+
+However, the objectives of the government’s Eingliederungspolitik did not change substantially.46 For Labour Minister Arendt the political task was to provide help enabling the foreign worker ‘to settle in quickly and smoothly’. Integration measures were meant ‘to prevent isolation and ghettoization and to reduce tensions and prejudices’.47 In 1971, he declared that the integration of the foreign workers had overall been successfully achieved,
+
+
+
+44  Benz, Der moderne Staat, p. 30. 45  In 1970 the federal budget for counselling was raised from 2.75 to 4 million, additionally the Labour
+
+Ministry now got 2 million for the  coordination of different agencies. In  1971 the Labour Ministry received 7.5 million for counselling services. 46  A first document on integration measures was passed, but as it remained vague and repeated previously held
+
+views, I emphasize continuity while Hartmut Esser and Hermann Korte (subtle shift towards an integration policy, ‘Federal Republic of Germany’, in: Tomas Hammar (ed.), European immigration policy, Cambridge, 1985, pp. 165-205 (180) and Karl-Heinz Meier-Braun (first conception of an aliens policy, Integration und RÃÂ¼ckkehr? Zur AuslÃÂ¤nderpolitik des Bundes und der LÃÂ¤nder, insbesondere Baden-WÃÂ¼rttembergs, Mainz/MÃÂ¼nchen, 1988, p. 11) hold slightly differing views. 47
+
+Walter Arendt, ’Die Eingliederung auslÃÂ¤ndischer Arbeitnehmer in der Bundesrepublik Deutschland, in: Auslandskurier, vol. 11, 1970, October, pp. 2-3; Gerhard Filla [a Labour Ministry official], ’Zur Eingliederung auslÃÂ¤ndischer Arbeitnehmer in Gesellschaft und Arbeitswelt der Bundesrepublik’, in: Bundesarbeitsblatt, vol. 21, 1970, pp. 235-240 (235).
+
+13
+
+although with regard to housing and schooling a few problems remained.48 Emphasis was placed on developing local coordination bodies, on language teaching, education more generally, and publicity aiming to increase the acceptance of foreigners as co-citizens with - as was claimed - equal rights (gleichberechtigte MitbÃÂ¼rger).49 Eingliederungspolitik did explicitly not aim at naturalization - but it also refrained from propagating limited integration for temporary residents, rather it was claimed that, in all important aspects, equality was granted.
+
+In 1972 the government decided that it wanted to limit, or possibly reduce, the migrant population in the Federal Republic, and obviously this decision - together with the subsequent economic crisis - fundamentally changed the framework for integration processes.
+
+Indeed, scholarly attention has since then largely focussed on the exclusionary strategies of the state, the emphasis placed on a solely temporary presence of migrant labourers, and the denial of incorporation into the community of citizens. Traditionally, the German state is mainly seen in its role as guardian and gate-keeper.50 Due to the ’official interpretation of German foreigners policy as mainly a policy for the regulation of entry and stay, moves towards a policy aiming at integration have remained sporadic’, Esser and Korte concluded. And, as they further suggested: ‘Because the aims of immigrant policy in the FRG are contradictory and uncoordinated, one cannot expect success from the measures taken’. 51 Consequently, detailed investigations of immigrant policy have not enjoyed great popularity. (Dieter Filsinger in 2002 found that hardly anything was known about the policy of the local authorities.52)
+
+Recently, however, established views have increasingly been considered unsatisfactory. First, a new political interest has developed in strategies and measures suitable to furthering ‘integration’. The German government is not alone in thinking that the integration of
+
+immigrants and their descendants requires new efforts on the part of the state. Partly this concern responds to social and educational disadvantages, additionally it is motivated by (communitarian-style) worries about the overall integration of modern societies, or, more specifically, fears of Islamic fundamentalism. Overall, this line of debate is marked by a fairly strong confidence in the ability of the state to intervene in and shape processes of incorporation of immigrants.
+
+Among social scientists, the common juxtaposition of different models of incorporation and exclusion is now frequently being criticized as too harsh or at least as no longer valid.53 As
+
+
+
+48  Interview  with  the  NÃÂ¼rnberger Nachrichten, 11 March 1971. It should be added that Willy Brandt gave a number of speeches in which he made far more critical statements and attacked discrimination against foreigners.
+
+49  Hermann  Ernst,  ’Mit  der  BeschÃÂ¤ftigung allein ist es nicht getan’, in: Bundesarbeitsblatt, vol. 22, 1971, p. 445-6; see more generally SchÃÂ¶nwÃÂ¤lder, Einwanderung und ethnische PluralitÃÂ¤t, pp. 508-9, 514.
+
+50  See e.g. the influential works of Stephen Castles and Knuth Dohse. 51  Esser/Korte, Federal Republic of Germany, pp. 197-8. 52
+
+’Die  Entwicklung  der  kommunalen  Integrationspolitik und Integrationspraxis der neunziger Jahre’, in: iza, 2002, no. 2, pp. 13-20. 53  See e.g. Hans Mahnig, ’Ã¢ÂÂIst Deutschland wirklich anders?“ Die deutsche Integrationspolitik im
+
+europÃÂ¤ischen Vergleich’, in: Edda Curle/Tanja Wunderlich (eds), Deutschland - ein Einwanderungsland? RÃÂ¼ckblick, Bilanz und neue Fragen, Stuttgart: Lucius+Lucius, 2001, pp. 159-195. Mahnig argues ’dass sich die deutsche Integrationspolitik heute in viel weniger starkem MaÃÂe von derjenigen anderer europÃÂ¤ischer
+
+14
+
+has been pointed out, most countries of settlement adopted measures to counter educational disadvantages, to improve labour market integration, to mediate in conflicts and to improve the social situation in urban concentrations of immigrant settlement. In spite of the attempt to
+
+reduce the immigrant population introduced with the recruitment stop of November 1973, the integration budget rose continuously up to the mid-1980s (an overview of the Labour Ministry’s budget for integration measures gives a figure of 15 million in 1973, 30.7 million in 1978, 63 million in 1982 and - as the peak - 89.7 million in 198554). In 1998, the BMA-budget (for counselling services, language courses and projects) was about 86 million marks. However, as direct integration measures are financed by several federal ministries, by the LÃÂ¤nder, the local authorities, as well as the welfare organizations (partly the EU), an overall
+
+assessment is not easily achieved, and was only recently attempted.55 It would be even more difficult to assess the effects of such measures. The recently completed European Effnatis project claims that this project, for the first time, ‘empirically compares the integration of this group [children of international migrants] in a European way and thus allows to test the “efficacy” of different national modes of integration of migrants’.56 The research question focused on ‘national modes’ of integration rather than different reception levels or other specific factors in a nation state. It arrived at the conclusion that national patterns do matter but only in some respects. ’In the area of structural integration (education, training, employment) there is no systematic pattern of national differences.’ (p. 13). ‘Germany with an ambiguous policy in the past has strengths in training and employment, but weaknesses in education, legal integration and identificational integration’ (p. 7). It seems that the reference to ‘national modes’ is of limited value.
+
+And, thirdly, it has been argued that by focussing on criticism of the stubborn anti-immigration policy of successive West German governments, researchers and the wider public have been distracted from realizing how advanced integration processes in fact are. Thus Bade and Bommes claim that the achievements of integration were not recognized in the public debate, and - going beyond the assumption that integration was achieved against the state - they point out that, behind the screen of an endlessly repeated ‘Deutschland ist kein Einwanderungsland’, a pragmatic policy of integration was implemented which contributed to this process.57
+
+
+
+LÃÂ¤nder unterscheidet als gemeinhin behauptet’ (160); Ã¢ÂÂdass Deutschland ÃÂ¤hnliche integrationspolitische Entscheidungen wie die anderen LÃÂ¤nder [GB, F, NL] getroffen hat’, p. 181. 54  AuslÃÂ¤nder-Daten, ed. by the Bundesminister fÃÂ¼r Arbeit und Sozialordnung, Bonn, 1992, p. 27. 55
+
+efms,  IntegrationsmaÃÂnahmen der WohlfahrtsverbÃÂ¤nde. Gutachten fÃÂ¼r die UnabhÃÂ¤ngige Kommission Ã¢ÂÂZuwanderung“, Bamberg, March, 2001. Bericht der Beauftragten der Bundesregierung fÃÂ¼r AuslÃÂ¤nderfragen ÃÂ¼ber die Lage der AuslÃÂ¤nder in der Bundesrepublik Deutschland, Berlin and Bonn, 2002, pp. 39-46. The report argues that it is impossible to give an overall sum for the federal expenditure on integration as foreigners participate in many general programmes (p. 46). 56
+
+Effectiveness of National Integration Strategies Towards Second Generation Migrant Youth in a Comparative European Perspective - EFFNATIS, final report, 2001, www.uni-bamberg.de, p. 83; ‘the assumption that different outcomes will result from national modes of integration […] has never been empirically tested’ (p. 9). 57
+
+’Migration  und  politische  Kultur  im Ã¢ÂÂNicht-Einwanderungsland“, in: Migrationsreport 2000, Fakten-Analysen-Perspektiven, fÃÂ¼r den Rat fÃÂ¼r Migration hg. von Klaus J. Bade und Rainer MÃÂ¼nz, Frankfurt am Main/New York, 2000, pp. 163-204 (164-5, 166-7).
+
+15
+
+Altogether this refocusing of perspectives shifts the balance from the traditional emphasis on state control and a restrictive citizenship law towards an emphasis on the changed conditions in a developed welfare state which actively helps immigrants and their descendants to learn the language of their new country and to establish themselves in the labour market. In a historical perspective, the availability of such active encouragement marks an important difference between the current and previous periods. There is now one line of interpretation that emphasizes the exclusionary stance of the German state and society as expressed in the (pre-1999) citizenship law and that tends to assume that the exclusionary logic was and is in many ways effective - and that where this was not the case, inclusion was achieved ‘against the state’. Jeroen Doomernik, in a recent study for the ILO, suggested: ‘This relatively poor integration into the labour market of the second generation [Turks] is related to at least the following two factors: the immigrants’ legal position and implicit and explicit discrimination. The legal ambivalence in which many immigrants and even their children find themselves, prevents them from making unequivocal choices.’ But he also admits that ‘we have not been able to unequivocally establish precisely how effective efforts to integrate immigrants and their descendants on the labour market and into the educational system have until now have been.’58
+
+A competing approach tends to point out that there is also a logic working towards integration; this logic is mainly attributed to the welfare state (and sometimes to the character of the liberal state). Additionally, the federal state and plural welfare-state structure allowed different strategies to be pursued at the same time. I would be worth considering the relevance of a different kind of ‘national model’, i.e. the “Modell Deutschland” and the ‘semi-sovereign state’ (Katzenstein) and ‘German Capitalism’ with its emphasis on an integrative course and a strong welfare state.
+
+Already in 1988, Baker and Lenhardt argued that the educational sector in West Germany was marked by ‘far-reaching tendencies towards integration’; they even described it as the ‘vanguard of the integration of foreigners’. In spite of the existence of integrationist as well as exclusionary aims, powerful practical constraints ensured that the respective structures and effects did not emerge.59 Similarly, the recent PISA study, although highlighting severe disadvantages of youths with a migration background, did not show that more exclusionary
+
+and more integrationist stances in the regional states were systematically related to educational disadvantages. Nevertheless, the situation with regard to employment and education is extremely worrying. After, for several years, the experts had continuously
+
+reported progress, i.e. a better formal education and improving positions in the workplace of second generation immigrants, in the last few years this development has stopped, or worse.60
+
+
+
+58  Doomernik,  The effectiveness of integration policies, pp. 57, 77. 59  David  Baker/Gero  Lenhard,  ‘AuslÃÂ¤nderintegration,  Schule  und  Staat’,  in:  KZSS,  vol.  40,  1988,  pp.  40-61
+
+(43, 58-9).
+
+60  In 1983, of youths with a non-German passport, 34 per cent left school without formal qualifications; in 1989 their share was down to 20 percent, but in 1991 it was still 21 per cent, and in 1998 19 per cent (Berufsbildungsbericht des BMBW, 1991; Wolfgang Jeschek, ‘Die Integration junger AuslÃÂ¤nder in das
+
+deutsche Bildungssystem kommt kaum noch voran’, DIW Wochenbericht 29/00, 2000, p. 5). Only about 65% of the 15 to 19-year-old foreign citizens are still in education - compared to 92% of the German citizens (1999 figures); participation in professional training (Lehre) is much lower than for German
+
+citizens. While among the 18 to 24-year-old German citizens 71% attend schools, universities or
+
+16
+
+This can hardly be explained by reference to citizenship policy, but it also leaves us wondering about the integrative effects of the education system. With regard to employment, probably economic transformations combine with effects of discrimination (language and formal qualifications have become more important; when labour is scarce, a discriminatory selection is more likely). Developments in education are more difficult to explain, in particular as e.g. the Italians- in spite of a strong legal position and a relatively favourable societal reception - do not perform well.61
+
+The Turkish example has elements pointing towards ‘segmented assimilation’ as described by Portes et al. Clearly the ethnic community now offers many employment opportunities, often in the shape of casual jobs in the food trade, snack bars or phone shops etc., that do not always involve the formal training typical for the German labour market and necessary for success in it.
+
+It would be interesting to investigate the role of ethnic communities for second generation integration in other cases: More than twenty years have passed since about 38,000 Indochinese refugees were accepted into West Germany under favourable conditions (positive publicity, financial help). How does their mode of incorporation differ from that of other refugee groups who did not enjoy such a positive reception?62
+
+Why is it that some groups are more likely to become incorporated into the political community than others? In 2000 alone, e.g. 14,410 Iranians became German citizens - of an overall group of about 108,000 Iranians.
+
+If we applied the Portes scheme, we would have to assess the combined effect on different modes of incorporation of government policy (receptive towards permanent immigrants, hostile towards most refugees), societal reception (increasingly hostile towards Turks, friendly towards Italians) and co-ethnic community (socially strong, economically weak for Turks, weak for Vietnamese?). In many ways, this is an agenda for future research.
+
+IV. The new integration policy
+
+As Germany’s citizenship law was recently reformed, we shall in the medium term have the opportunity to test the importance of this framework for processes of incorporation in a wider sense. If it is true that so far the hostile attitude expressed mainly by the restrictive provisions on naturalization constituted the major determinant of incorporation processes, the situation has been transformed. The objective of ’integration’ is, at least for large parts of the immigrant population, no longer contradicted by the denial of permanent immigration and an often insecure legal status of the migrants - rather, policy now officially aims at a permanent
+
+
+
+professional training, only 25% of the foreign citizens do the same (1999). Figures for 2000 are almost unchanged, see Jeschek’s report in DIW Wochenbericht 10/01. 61  See  Mona  Granato,  ‘Integration  und Ausgrenzung: Junge Italiener in Deutschland’, in: Wolfgang Seifert
+
+(ed.), Wie Migranten leben. Lebensbedingungen und soziale Lage der auslÃÂ¤ndischen BevÃÂ¶lkerung in der Bundesrepublik, WZB paper FS III 95-401, Berlin, 1995, pp. 38-48. Granato argues that a discrepancy occurs between societal integration and integration into the labour market. 62  For an early investigation see Michael Blume, ’Theoretische und methodische Probleme der FlÃÂ¼chtlingsforschung - aufgezeigt am Beispiel einer Untersuchung ÃÂ¼ber SÃÂ¼dostasianflÃÂ¼chtlinge in der Bundesrepublik’, in: A. Ashkenasi (ed.), Das weltweite FlÃÂ¼chtlingsproblem, Bremen, 1988, pp. 23-41.
+
+17
+
+and full incorporation into German society. And the current German government of Social Democrats and Green Party has also proclaimed that it will influence integration processes in a new way.63 The policy reorientation involves three main aspects:
+
+It is now assumed that different migrant groups, such as ethnic Germans, refugees and labour migrants, share major problems of integration and that previously separate integration programmes should be integrated and be directed generally at individuals of migrant background. (Again, it would be interesting to try and assess the effects of different degrees of active encouragement for some groups and exclusion or neglect of others. Immigrant policy has until now distinguished between three major groups,64 and it may well be argued that it thus helped to perpetuate distinctions between foreigners, which mainly means labour migrants from the recruitment countries, refugees and Aussiedler. The 1998 coalition of SPD and Green Party committed itself to an integration of those migrants ‘who permanently live with us and who accept our constitutional values’.65)
+
+Secondly, the government is responding to a perceived heterogeneity and lack of planning by proposing a more systematic and coordinated intervention. A new federal agency has been assigned the task to develop, in cooperation with a new Migration Commission, with the federal states and local authorities, a comprehensive integration concept. So far no such comprehensive integration policy or administrative structures exist. Migration and integration policy have been described as a ‘mosaic’66 of measures for different migrant groups and under the authority of the federal state, the LÃÂ¤nder, local authorities, as well as the welfare organisations. According to the Zuwanderungskommission, ‘pragmatic improvisation’ was the everyday-reality, and ‘short-term requirements and considerations that covered only a few points determined decisions’.67
+
+And, thirdly, the proposed integration policies represent a heightened concern for developing and facilitating a shared cultural basis for participation amongst recent as well as established migrants and refugees, i.e. a new emphasis on the cultural and identificational aspects of
+
+
+
+63  The law containing the legal basis for the new integration policy was declared invalid by the Constitutional Court, and it is unclear at the moment whether a new law containing similar provisions will be passed. Here, I shall assume that this will happen and refer to the intentions of the invalid law.
+
+64  The current government intends to change this. 65  Coalition agreement as quoted in Bericht der Beauftragten der Bundesregierung fÃÂ¼r AuslÃÂ¤nderfragen ÃÂ¼ber
+
+die Lage der AuslÃÂ¤nder in der Bundesrepublik Deutschland, Berlin/Bonn, 2000, p. 203. Moves towards an explicit recognition of permanent immigration went along with a more pronounced distinction between different groups of migrants. In a statement of May 1982 (this was still the SPD-led Schmidt government),
+
+the federal government committed itself to an ‘integration policy regarding those foreigners who permanently live here’ (‘zur Integrationspolitik hinsichtlich der dauerhaft bei uns lebenden AuslÃÂ¤nder’). The same document stated that naturalization could be an effective instrument of integration policy, and in 1981 the Cabinet had passed a bill intended to liberalize naturalization. In 1979, the stated aim had been the ‘improved integration, during their stay in the Federal Republic, of the foreigners living here’ (‘Antwort der Bundesregierung auf die GroÃÂe Anfrage der Fraktionen der SPD und FDP “AuslÃÂ¤nderpolitik”, Deutscher Bundestag, Drucksache 9/1629 of 5 May 1982; ‘Antwort der Bundesregierung auf die kleine Anfrage der Abgeordneten Glombig u.a. und der Fraktionen der SPD und FDP’, Deutscher Bundestag, Drucksache 8/2716 of 29 March 1979). 66
+
+Anton RÃÂ¼tten, ’Integration geht alle an - die Gemeinden, die LÃÂ¤nder, den Bund und Europa’, in: Ursula MehrlÃÂ¤nder/GÃÂ¼nther Schulze (eds), Einwanderungsland Deutschland: neue Wege nachhaltiger Integration, Bonn, 2000, pp. 143-160 (180). 67
+
+Bericht der unabhÃÂ¤ngigen Kommission Ã¢ÂÂZuwanderung“: Zuwanderung gestalten, Integration fÃÂ¶rdern, Berlin, July 2001, p. 199.
+
+18
+
+integration. This latter aspect raises questions as to the possibility and desirability of teaching political loyalty.
+
+Additionally, the meaning of ‘integration’ as the goal of government policy has clearly changed in a wider sense. When the Federal Government’s Commissioner for Foreigners Affairs defines integration as a ‘permanent process of consensus-building about the common fundaments and rules of co-existence in a community’, a process that involves society as a whole, this is a Habermasian (Kymlicka-style), communication-oriented concept. Equal chances and participation, the absence of discrimination, are now strongly emphasized.68 But then, there is also the responsible Interior Minister’s voice who claims that ‘the best integration is assimilation’.69 It seems unclear what objective government policy will try to fulfil. But this is no novelty.
+
+As e.g. the government’s commissioner for foreigners affairs knows, integration depends on many factors, some of which cannot be controlled and planned by the state.70 Still, the new approach reflects a renewed confidence in the capacities of the state at a time when the call for a new, more withdrawn, role for the state seems to be almost universal.71 Political science analyses of the development of the state in the last few decades assume that not only the external but also the internal sovereignty of the state has eroded; a hierarchical top-down relationship between the state and the different spheres of society does not [no longer?] exist. As Fritz Scharpf argues, only in exchange for a dehierarchisation of the relationship of state and society could the state retain the ability to intervene in social developments (the key term is Steuerung). The state now operates in an increasingly dense network of transnational aas well as internal dependencies and structures of negotiation.72 In what ways this affects and transforms migration policy has so far not systematically been investigated. One specific feature is surely the fact that migration policy is not a separate field (like health policy) with its specific set of actors, but partly foreign policy, partly social policy etc. Additionally the interest-group structure is peculiar as the migrants themselves are so far hardly present in the German policy networks. There are many examples for the limited ability of the state to direct social developments, it is less clear whether in migration and integration policy the state nowadays retains the ability to intervene through a network-structure, and how this network functions.
+
+
+
+68  Bericht der Beauftragten der Bundesregierung fÃÂ¼r AuslÃÂ¤nderfragen ÃÂ¼ber die Lage der AuslÃÂ¤nder in der Bundesrepublik Deutschland, Berlin/Bonn, 2000, pp. 202, 205-6; see a similar conception in: Integrationspolitisches Memorandum der Bundesarbeitsgemeinschaft Freier Wohlfahrtspflege, ca. 2001.
+
+Compare the opinion a previous commissioner, Lieselotte Funcke, held in 1991, when she explained that integration was to be distinguished from assimilation. The latter demand was illegitimate as individuals should not be deprived of ‘their roots’. In particular in a German context, Wurzeln/roots still contains a ring of organicistic/biological conceptions. Integration for Funcke referred to ‘a step-by-step process of settling in in our way of life and a peaceful co-existence of people of different origin’. The emphasis here is on adjustment, attitudes, tolerance. 69
+
+Otto Schily, Interview, in: SÃÂ¼ddeutsche Zeitung, 27 June 2002. 70  Bericht, p. 205. 71
+
+This  mainstream  approach  is  noticeable  when  minister Schily points out that it is expected of the ’new co-citizens’ that they make efforts to integrate; the state should provide Hilfe zur Selbsthilfe (help to help yourself): Otto Schily, “Soziale Integration in der deutschen Gesellschaft als politische Aufgabe”, ZAR, vol. 22, 2002, pp. 371-375 (372). 72
+
+Fritz W. Scharpf, ’Die HandlungsfÃÂ¤higkeit des Staates am Ende des zwanzigsten Jahrhunderts’, in: PVS vol. 32, 1992, pp. 621-634 (622-3).
+
+19
+
+To conclude:
+
+This paper has argued that the extreme ruptures in German history largely deprived us of the opportunity to compare second-generation incorporation processes ‘then and now’ - at least if a German-German comparison is intended (maybe we could as well compare the Irish in 19th-century England with the Italians in 1960s West Germany). Historians should however feel encouraged to fill some of the research gaps concerning long-term developments of the
+
+small migrant groups who became settled and of mixed families.
+
+My outline of historical developments tended towards emphasizing change rather than similarities and continuities. While the character and role of the state underwent major transformations, the assumption that ‘the power of the state to control immigration and to
+
+enable or block integration has increased’73 was not confirmed. State intervention certainly encompasses more aspects of life than in the 1890s or the 1920s, and demands on the state have increased, but at the same time, restrictions arising from individual and social rights, the democratic and social character of the Federal Republic’s constitution, international connections and obligations, as well as the involvement of a set of actors in the field, have ensured that overall the ability of the state to enable or control integration has been reduced.
+
+By referring to the Portes/Rumbaut framework of the three reception levels, I was aiming to direct attention at the necessity to develop perspectives which incorporate crucial determinants of immigrant incorporation as well as linking them systematically. Furthermore, such a framework could help us distinguish and compare differences in time and between groups. Hopefully, this paper managed to make a contribution to this broader discussion.
+
+
+
+73  Leo Lucassen in his position paper for this workshop, p. 5.
+

@@ -1,0 +1,1982 @@
+
+
+What is the reality of  school competition?
+
+Paper given at AERA conference,  San Francisco 7-11 April 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cathy Wylie
+
+New Zealand Council for Educational Research
+
+(2006)
+
+Cathy.wylie@nzcer.org.nz
+
+Page 1 of 28
+
+Competition  between  schools  for  students  coupled  with  per-student  funding  formulae  has  been
+
+advocated  as  a  prime  way  to  improve  student  achievement  and  productivity,  and  to  improve
+
+access to educational opportunities for students from low-income homes (Hoxby 2003a). Indeed,
+
+Hoxby (2003b) has suggested that school choice could be “ a tide that lifts all boats”.
+
+New  Zealand  has  been  of  particular  interest  in  discussions  of  the  effects  of  school  choice  and
+
+competition,  because  it  has  had  a  decentralised  system  of  school  self-management  since  1989,
+
+with  most  school  funding  based  on  student  numbers,  and  families  able  to  apply  to  any  state
+
+school.  Previous  research  based  on  data  from  the  seven  to  eight  years  following  this  change
+
+investigated  the  nature  of  competition  between  schools,  and  found  that  competition  failed  to
+
+improve the educational opportunities or achievement of students from low-income areas (Fiske
+
+and Ladd 2000, Lauder and Hughes 1999, Wylie 1998, Wylie 2000).
+
+This paper has three objectives:
+
+a) to update the New Zealand picture to see if earlier findings relating to the winners and losers of
+
+decentralisation still hold in the light of national policy changes to school admission criteria and
+
+the  introduction  of  balloting  for  oversubscribed  schools.  In  particular,  a  focus  is  given  to
+
+questions related to equity of educational opportunity;
+
+b)  to  investigate  the  uneven  operation  of  competition  in  New  Zealand  by  comparing  school
+
+actions and changes over time for schools whose principals see themselves competing with other
+
+local schools, and those whose principals do not see themselves in competition.
+
+c)  to  situate  the  nature  of  school  competition  in  New  Zealand  schools  within  the  context  of
+
+tensions with other policy directions, and tensions with parent and school expectations of parental
+
+choice,  what  programmes  and  equipment  schools  should  provide,  and  school  self-management.
+
+These tensions raise questions about the feasibility of school competition as a central policy tool
+
+to improve education and educational outcomes.
+
+The approach taken in this paper is largely pragmatic. Competition and family choice are not seen
+
+as  having  universal  or  inherent  value  per  se,  either  positive  or  negative.  Their  value  (like  any
+
+other  policy  tool)  emerges  in  relation  to  whether  they  can  maintain  and  improve  the  quality  of
+
+educational experience and educational outcomes, and whether they can improve access to good
+
+quality  educational  opportunities  for  students  from  disadvantaged  groups.  This  is  a  somewhat
+
+different approach than the economic analysis of competition in structural terms, which takes for
+
+granted  that  structural  competition  will  result  in  certain  behaviour.  Levacic  (2001)  provides  a
+
+valuable  discussion  of  the  need  for  a  wider  understanding  of  the  reality  of  competition  and
+
+competitive  behaviour  in  education,  based  on  behavioural  theory  of  the  firm,  and  the  school
+
+effectiveness and improvement literature.
+
+In an earlier review of the then available international research on systems of school choice (or
+
+open enrolment) and vouchers, including New Zealand, I also found that the educational ‘market’
+
+did not operate in the manner, or have the gains, that advocates of increased competition between
+
+self-managing  schools  hoped;  where  it  operated  most  fairly  was  in  fact  in  small  systems  where
+
+Page 2 of 28
+
+there  was  some  partnership  between  schools  and  the  public  agency  responsible  for  funding  and
+
+school support, and where there was considerable effort and money put into ensuring that family
+
+choice  was  well  informed,  and  allocation  of  places  socially  fair.  Even  here,  achievement  gains
+
+were  modest  rather  than  sizeable;  social  differences  remained  in  the  choices  made  by  low  and
+
+middle  income  families;  informal  information  outweighed  official  information;  and  parents
+
+remained  more  interested  in  what  seemed  to  them  reliable  (familiar)  provision  rather  than
+
+diversity (Wylie 1998).
+
+In this paper, I start with a description of the nature of school choice in New Zealand, looking first
+
+at what is known about it from a family perspective, and whether that has changed over time; and
+
+then at whether the options for families have changed over time, by looking at patterns in relation
+
+to  enrolment  schemes.  I  then  look  at  whether  there  have  been  any  systemic  improvements  in
+
+relation  to  one  prime  indicator  of  school  effectiveness,  the  proportion  of  those  who  leave
+
+secondary school without any qualification. Finally, I return to the question of what competition
+
+actually is, by looking at whether there are differences between schools in terms of whether they
+
+perceive themselves to be in competition or not. This leads me to suggest that on the one hand, the
+
+worst fears of increased competition between schools may be unfounded, for a range of reasons.
+
+On the other, the best hopes of what could come from increased systemic competition also seem
+
+unlikely to be realised.
+
+The nature of school choice in New Zealand
+
+New Zealand is a small country (4.1 million at the end of 2005) with a school-aged population of
+
+756, 400 at around 2,580 schools.
+
+Families  of  school-aged  children  can  theoretically  select  any  state  school.1  State-integrated
+
+schools (most Roman Catholic, but also including other Christian denominations, former private
+
+schools, and Steiner schools) are also open to those who meet their particular “special character”
+
+criteria. These schools can also accept up a small agreed proportion of their roll, of students who
+
+do not meet the criteria (in 2006, a Muslim student became the head girl of a Catholic secondary
+
+school). Integrated schools receive government funding at the same level as state schools, but not
+
+for capital costs, which they cover by charging “attendance dues”; these can be quite high. While
+
+education  (compulsory  from  the  ages  of  5  to  16)  is  legally  free,  in  fact  schools  ask  parents  for
+
+donations.  These  are  usually  higher  in  high-income  areas.  The  state  subsidises  school  bus  costs
+
+for  students  in  rural  areas,  and  transport  costs  for  students  attending  integrated  schools  or  kura
+
+kaupapa  MÃÂ¤ori  (MÃÂ¤ori  immersion  schools;  MÃÂ¤ori  are  the  indigenous  people  of  New  Zealand).
+
+Otherwise, parents meet the transport costs of non-local choices.
+
+
+
+1   There  are  114  private  schools,  enrolling  around  3.8  percent  of  the  student  population.  These  schools  have   received a capped amount of state funding since 2001, when a Labour-led government came into power. This  has meant increasing fees at many private schools.
+
+Page 3 of 28
+
+Among state schools, selection of students is theoretically limited to the state schools which have
+
+reached capacity, and which have enrolment schemes agreed with the Ministry of Education. The
+
+criteria  governing  selection  are  impersonal:  residence  in  the  school’s  geographical  zone,  or  by
+
+ballot  if  there  are  spare  places  after  in-zone  applicants  have  been  catered  for.  New  Zealand  has
+
+one of the lowest levels of social segregation in secondary schools among 27 “rich industrialised
+
+countries”  (Jenkins,  Micklewright,  and  Schnepf  2006).  Even  so,  there  have  been  concerns  that
+
+zones  disadvantage  students  from  low-income  homes,  and  increase  existing  social  segregation
+
+related to housing costs.
+
+Family access to their preferred school
+
+Most students are at the school of first choice. The proportion that is not is probably around 10
+
+percent  for  primary  students,  and  around  20  percent  for  secondary  students.2  1999  figures
+
+available  for  primary  were  somewhat  highers.3  There  may  have  been  some  improvement  over
+
+time at the national level, perhaps reflecting declines in some areas in the number of school-aged
+
+children, thus making more places available, or perhaps reflecting an increase in the willingness
+
+of  some  families  to  look  further  a  field.  In  2003,  around  30  percent  of  students  appeared  to  be
+
+bypassing their closest school.
+
+Table 1 Attendance at first choice school, 2003 NZCER national surveys4
+
+Secondary parents
+
+(n = 604)  %
+
+Primary parents  (n = 782)  %
+
+At first choice school, closest  54 64
+
+At first choice school, not closest 30 27
+
+Not at first choice 15 7
+
+
+
+Those who bypassed their closest school were more likely to be in cities, or attending integrated
+
+schools. At both primary and secondary levels, they were just as likely to be MÃÂ¤ori or Pacific as
+
+
+
+2   Based on 2003 NZCER national survey figures of 7 percent for primary parents, and 15 percent for secondary  parents;  and  of  22  percent  for  secondary  students  in  their  first  or  second  year  of  secondary  school  in  2003,   mostly in the Wellington region (collected as part of the longitudinal Competent Children, Competent learners
+
+study). A 1999 study of school choice in Palmerston North, a provincial city, found 80 percent of secondary  students’ parents said their children were at their first school choice (Wylie and Chalmers 1999), and a 1997  study of school choice in Christchurch (a major city) found 79 percent of secondary students were at their first  school choice according to their parents (Stockwell and Duckworth 1998).  3
+
+These are from the 1999 NZCER survey (17 percent), and the 1999 Palmerston North study (18 percent).   4   The NZCER parent samples are drawn from cross-section subsamples of the national survey. This means that  parents were randomly sampled at 30 secondary schools, and 26 primary schools in 2003. Response rates were
+
+around 33 percent at the secondary level (604 parents), 47 percent at the primary level (782 parents). These  responses cannot be representative of parents as a whole, but they do provide a useful cross-section of views,  and where comparisons can be made, these views appear to be consistent with more representative samples.
+
+Page 4 of 28
+
+PÃÂ¤kehÃÂ¤.5  At  the  secondary  level,  they  were  more  likely  to  have  parents  in  managerial,
+
+technical/clerical work, or professional work - but the differences in proportions are not large. To
+
+some  extent,  this  lack  of  social  differentiation  may  reflect  the  fact  that  the  closest  secondary
+
+school may cater for only one gender - more likely to be the case at secondary than primary level.
+
+But  it  may  also  indicate  that  social  background  is  not  playing  a  large  part  in  decisions  to  look
+
+further afield, and to be able to find something that is acceptable. Median distances travelled to
+
+secondary school were somewhat higher for PakehÃÂ¤ (5-7km cf. 2-4 km for others).
+
+The 1999 NZCER primary survey showed that those who were not at the first school choice were
+
+more  likely  to  be  MÃÂ¤ori,  from  homes  where  parents  were  unemployed,  and  to  be  in  low  decile
+
+schools. The same ethnic patterns are not evident in the 2003 NZCER primary survey, undertaken
+
+at a similar but different cross-section of schools as the 1999 survey, and with similar proportions
+
+of  different  ethnic  groups  responding.  This  change  may  indicate  that  although  there  has  been  a
+
+growth  in  the  number  of  schools  with  enrolment  schemes,  there  is  sufficient  capacity  at  the
+
+primary level for most. Eighty-five percent of the primary principals in the 2003 NZCER survey
+
+had  places  on  their  roll  for  every  student  who  applied,  a  proportion  that  was  much  the  same  in
+
+1996 and 1999. The switch to balloting may also be helping access to enrolment scheme schools.
+
+Certainly,  it  suggests  that  the  access  of  these  groups  to  their  first  choice  school  has  not
+
+deteriorated over time.
+
+However, in 2003, their child’s school was twice as likely not to be the school of first choice for
+
+parents  of  those  attending  secondary  schools  in  the  lowest  income  areas  (31  percent  of  those
+
+attending  decile  1-2  schools  cf.  14  percent  of  those  attending  decile  3-10  schools6).  Twelve
+
+percent of those attending decile 1-2 primary schools were not at the school of their first choice,
+
+decreasing with decile to 3 percent of those in decile 9-10 schools.
+
+The  same  pattern  was  evident  with  the  2003  data  from  the  Competent  Children,  Competent
+
+Learners study sample (Wylie and Hipkins 2006). This suggests that school choice is uneven, and
+
+that the sense of being able to obtain a preferred school is lowest for those in low-income areas.
+
+
+
+5   PÃÂ¤kehÃÂ¤ was a MÃÂ¤ori term for the Europeans who began colonising New Zealand in the early 19th century, and  is  a  common  term  for  New  Zealanders  of  European  descent.  Sixty  percent  of  the  student  population  are   PÃÂ¤kehÃÂ¤, 22 percent are MÃÂ¤ori, 9 percent are of Pacific origin, and 8 percent, Asian.
+
+6   New  Zealand  state  and  integrated  schools  are  assigned  to  deciles  based  on  socioeconomic  indicators  drawn   from census mesh-block data in relation to a sample of students’ home addresses. Decile 1 is the lowest socio-economic area, and decile 10 the highest. These deciles are public knowledge, and are often referred to. The
+
+reason  for  this  assignment  was  in  order  to  allocate  additional  operating  funding  to  schools  serving  students   from low-income communities, in the three lowest deciles. The National (conservative) government extended  this to include decile 9 schools. The Labour-led government that came to power in late 1999 increased the per-student amount going to low-decile schools, but did not return to the original intent of the funding. Had it done  so,  other  schools,  by  now  used  to  the  additional  money  and  feeling  squeezed  to  cover  all  costs  from  their   operational grants, would have been loud in their public protests.    Schools  can  change  decile  -  sometimes  because  of  the  change  in  their  own  intake,  sometimes  because  of   changes at other schools that then shift the rank of all schools. The use of census data (available every 5 years)  means that the data used to determine decile can also get out of date.
+
+Page 5 of 28
+
+Other more locality-based data also indicates that social differences in choice do occur unevenly,
+
+and  are  most  evident  in  low-income  areas.  The  Smithfield  study  found  in  1994  that  those  who
+
+bypassed  their  closest  school  where  it  was  “low  circuit”  (a  low  mean  socioeconomic  status  of
+
+students, co-educational, and declining rolls) were more likely to be from high and middle income
+
+families,  and  to  be  PÃÂ¤kekÃÂ¤  (Lauder  and  Hughes  1999).  A  1996  study  in  the  low-income  South
+
+Auckland area of Auckland found that preference for schools outside that area was higher among
+
+those  in  the  higher-income  part  of  this  area,  and  among  PÃÂ¤kehÃÂ¤  (Stockwell  and  Hewitt  1996).
+
+Reasons for preferring a school out of this local area were given as the standard of education, a
+
+preference for schools with “less cultural emphasis”, and to a lesser extent, that the local schools
+
+had  a  reputation  of  being  “rough”.  A  similar  pattern  was  evident  in  a  parent  survey  in  a  low
+
+income area with some middle income pockets in Lower Hutt in 1997 (no author 1997).
+
+Parental choice, if based on deciles, may further increase existing social segregation (rather than
+
+create it), where there are high-income areas adjacent to low-income areas. Manukau city (a low
+
+income area of the largest urban area in New Zealand, Auckland), for example, has no mid-decile
+
+schools, though it has some mid-decile communities (Gerritson 2006).
+
+Thus we have some evidence that the New Zealand system has not been able to counter housing-based  social  segregation  (as  we  shall  see,  this  is  not  surprising  since  school enrolment schemes
+
+are geographically based), and that this has most impact on those in low-income areas.
+
+The New Zealand research brings out some themes that are related to the pattern of, on the one
+
+hand,  relatively  high  attendance  at  the  school  of  first  choice,  and  on  the  other,  indications  of
+
+different  patterns  in  some  locations,  particularly  low-income  adjacent  to  higher-income  areas.
+
+These themes are important to consider in gauging the nature and role of family choice in other
+
+countries.
+
+Decisionmaking around school choice  Information  about  schools  used  to  make  decisions  is  often  received  through  informal  channels,
+
+consistent with family and friends being important in school choice. The importance of informed
+
+choice is often emphasised by the advocates of choice-based provision, but this role of informal
+
+information raises questions about how realistic this would be (even if full timely information can
+
+be  given  and  understood),  and  whether  personal  relationships  would  nonetheless  carry  more
+
+weight  for  many  students  and  families  than  the  kind  of  information  that  school  choice  theorists
+
+believe decisions should be made on.
+
+In an interview for a study of effective schools’ financial management, the principal of a school
+
+that  was  highly  regarded  by  educators  was  grappling  with  trying  to  maintain  the  school’s
+
+programme by trying to sustain roll numbers in an area where there were fewer younger families.
+
+She  spoke  to  me  of  the  frustration  she  felt  when  student  decisions  were  made  on  the  basis  of
+
+where  their  (then)  friends  were  going,  rather  than  whether  the  chosen  school  could  meet  their
+
+needs, and offer an effective programme.
+
+Page 6 of 28
+
+Students are often involved in the choice of school (though parents and their children may see this
+
+somewhat differently, and there are different patterns of children’s involvement across different
+
+social  groups).  Again,  student  considerations  do  not  always  match  those  of  the  school  choice
+
+theorists.
+
+A  sizeable  minority  of  parents  in  fact  do  not  consider  more  than  one  school.  The  Palmerston
+
+North  study  found  that  around  half  the  primary  and  a  quarter  of  the  secondary  school  parents
+
+considered only one school in making their choice. Others who did consider two or more schools
+
+looked beyond a neighbourhood or familiar school only if they were dissatisfied, or heard more
+
+favourable reports of another. Thus location and familiarity continue to matter in an open-choice
+
+system (rather than comparative effectiveness, for example).
+
+Few parents give only one reason when they are asked about the reasons for their preference. The
+
+main reasons found in 2003 with the Competent Children, Competent Learners study sample were
+
+the school’s ‘reputation’, its proximity, family tradition, and friends going there. There were no
+
+clear  social  differences  here,  either  in  relation  to  the  socioeconomic  status  of  the  family,  or  the
+
+decile  level  of  the  school  chosen  (Wylie  and  Hipkins  2006).  Other  surveys  have  found  that
+
+parents choosing high decile schools are more likely to mention academic results specifically (e.g.
+
+Stockwell and Duckworth 1997).
+
+Does it matter that students are in the first choice school?  While  not  everyone  may  get  their  first  choice  of  school,  experience  of  the  school  can  change
+
+perceptions: half of those who were not in their first choice secondary school in the Competent
+
+Children,  Competent  Learners  study  would  in  fact  choose  their  current  school  if  they  could  go
+
+back in time - and conversely, 18 percent of those who were at their first school choice would not
+
+do  so.  The  1997  Christchurch  study  found  that  levels  of  parental  satisfaction  with  their  child’s
+
+secondary school were just as high for those whose child was not at the first choice school, as for
+
+those who were.
+
+Attending the school of first choice was not related to early secondary students’ engagement with
+
+school or overall levels of class achievement in multivariate analysis carried out in the Competent
+
+Children, Competent Learners study. Other factors had more weight, particularly prior levels of
+
+performance  and  school  engagement,  and  parental  interests.  The  latter  is  consistent  with  the
+
+qualitative  analyses  of  Lareau  (2000)  and  others  showing  that  different  parental  strategies  have
+
+different results for children; it is not clear how extending school competition would address these
+
+differences in parental strategy.
+
+It is important to note that parental satisfaction with the quality of schooling was high at the start
+
+of  the  New  Zealand  reforms,  and  has  remained  so.  In  the  2003  NZCER  national  surveys,  87
+
+percent  of  primary  parents  were  generally  happy  with  the  quality  of  their  child’s  schooling  -  a
+
+proportion that has remained much the same over the NZCER surveys since 1989, the first year of
+
+decentralisation.  The  NZCER  2003  secondary  survey  found  85  percent  of  parents  were  also
+
+generally  happy;  a  1997  survey  of  Christchurch  parents  of  Years  9  and  10  students  found  93
+
+Page 7 of 28
+
+percent  were  satisfied  or  very  satisfied  with  the  school  their  child  attended  9  (Stockwell  and
+
+Duckworth  1998).  These  surveys  are  consistent  with  the  figure  of  nearly  80  percent  of  parents
+
+saying  they  were  satisfied  with  the  standard  of  education  their  children  received  in  a  National
+
+Business Review opinion poll also in 2003.7
+
+There has not been a marked swing to innovative schools (this is consistent with Brown’s (1997)
+
+analysis  of  the  imperfection  of  the  education  market  in  economic  terms).  Support  for  schools
+
+offering markedly different approaches is limited to a handful of small schools in urban areas, to
+
+kura  kaupapa  MÃÂ¤ori  (also  in  rural  areas  with  strong  MÃÂ¤ori  traditions)  and  some  Pacific  island
+
+immersion  programmes.  Vaughan  (2004)  charts  some  changes  in  the  diversity  available  within
+
+state schools, and the way in which formerly ‘alternative’ approaches have been incorporated into
+
+mainstream provision in an evolutionary rather than revolutionary way. Boyd’s (2005) evaluation
+
+of curriculum innovation programmes in secondary schools and Gilbert’s (2005) analysis of the
+
+way that the current organisation of secondary education militates against the providing the kind
+
+of educational experience best suited to the development of the knowledge and skills needed in
+
+the 21st century show that the obstacles facing positive innovation are not solvable through either
+
+family choice or individual schools acting in isolation. Positive innovation of this kind will take
+
+substantial  political  will,  additional  funding  to  support  demonstrations,  the  development  of
+
+infrastructure, and work with parents and the wider community (including business).
+
+The  experience  of  extending  family  choice  of  schools  may  be  different  in  countries  or  systems
+
+that  start  with  lower  parental  satisfaction  with  schools  (or  trust),  higher  social  segregation,  and
+
+shortages of schools or places in schools.
+
+Some of the other themes that have emerged in New Zealand indicate that the education market
+
+remains imperfect (in terms of economic theory), and also raise questions about whether family
+
+choice should be the litmus test of the worth of a system, since many of those who are not at their
+
+first  choice  come  to  enjoy  where  they  are,  and  not  being  at  the  first  choice  of  school  does  not
+
+seem to disadvantage students. However, the fact that those in low-income areas are less able to
+
+access schools they regard as preferable raises questions about how one can create fair systems of
+
+choice, or, if this seems too difficult, what is needed to improve perceptions of the worth of low-decile schools, and ensure that they are able to provide the rich education that students in these
+
+areas need and deserve.
+
+Enrolment schemes
+
+The main reason why New Zealand students are not at the first choice of school is that the school
+
+preferred had an enrolment scheme, whose geographical zone did not include the place where the
+
+family lived. The table below compares reasons given by parents using late 1990s surveys and the
+
+
+
+7   Parental complaints to the government agency responsible for reviewing schools, ERO, did increase markedly  from  the  2001/02  year  (218,  including  early  childhood  education  centres)  to  411  in  2003/04  (360  about   schools); and have since stabilised.
+
+Page 8 of 28
+
+2003  NZCER  surveys.  With  the  caveats  around  the  small  numbers  involved,  and  that  the  data
+
+used  for  secondary  students  compares  a  single-location  survey  and  the  national  cross-section
+
+survey,  there  are  indications  here  that  while  the  proportion  of  those  not  at  their  first  preferred
+
+school  has  not  risen,  enrolment  schemes  may  be  playing  more  of  a  role  in  not  getting  in  than
+
+previously. Certainly they are not playing less of a role. This seems more likely to be because the
+
+number of schools with enrolment schemes increased markedly over this period, rather than the
+
+return to balloting from 2001 (though to be sure of that, one would probably need a closer locality
+
+analysis). Cost and transport also feature.
+
+Table 2 Reasons for not being at school of first choice - late 1990s and 2003
+
+For students not at their  first choice school  NZCER 2003  survey -
+
+Primary  (n = 54)  %
+
+NZCER 1999  survey - Primary
+
+(n = 146)  %
+
+NZCER 2003  survey  Secondary  (n = 76)
+
+%
+
+Christchurch  1997 survey  Secondary  (n = 38)
+
+%
+
+Enrolment  scheme  27  19  46  32
+
+Child’s choice 7 Unknown 25 14
+
+Cost  14  18  22  5
+
+Transport  20  29  18  N/a
+
+Child not accepted N/a (ballots)  Unknown  N/a  (ballots)  22
+
+
+
+There were no statistically significant differences among social groups in relation to these reasons
+
+(but the numbers were small once broken down further into different social groups).
+
+The chart below shows the changes in enrolment schemes since the 1989 reforms.
+
+
+
+Changes in enrolment schemes:
+
+before 1989: many secondary schools had home zones, agreed with the Department of Education.
+
+Primary  schools  did  not  have  zones;  parents  could  choose  -  rare  to  choose  anything  other  than
+
+nearest school; established ‘feeder’ patterns with particular secondary schools.
+
+1989-1991: home zones for all secondary schools operating at capacity; spare places decided by
+
+ballot
+
+1992  -  National  government  abolishes  home  zones;  schools  that  are  operating  at  capacity
+
+(primary  as  well  as  secondary)  can  set  their  own  enrolment  scheme.  (“Most  start  with  a  small
+
+geographic  zone  and  then  give  preference  to  siblings  of  current  students  and  to  the  children  of
+
+staff  members  and  former  students.  But  many  schools,  especially  the  most  popular  ones,  have
+
+rules  that  for  all  practical  purposes  allow  the  principal  to  admit  whomever  he  or  she  chooses”
+
+Fiske & Ladd (2000), p. 182).
+
+Page 9 of 28
+
+1998  -  National  government  restores  home  zones;  Ministry  of  Education  approval  needed  for
+
+enrolment  schemes,  taking  into  account  the  ‘reasonable  use  of  the  network  of  schools’,  and
+
+schools should consult with local communities in developing their scheme.
+
+2000 - Labour-led government provides a set priority order for any spare places after students in
+
+the  defined  zone  (those  in  a  special  programme  run  by  the  school8;  siblings;  children  of  school
+
+staff); all others decided by ballot. Ballots would also be used if the number applying within each
+
+of  the  priority  groups  was  higher  than  the  number  of  spare  places  (Dowler  2005,  personal
+
+communication).9
+
+Before  1989,  many  secondary  schools  were  zoned,  but  students  were  free  to  apply  to  other
+
+schools,  which  could  take  them  if  they  had  room.  McCulloch  (1991)  provides  a  valuable
+
+description of what this meant in practice. He notes that zoning appealed to a range of purposes
+
+including planning and efficiency in resource use at both the school and national levels, and some
+
+regulation  of  schools  taking  action  that  could  negatively  affect  their  neighbours.  However,  the
+
+existence  of  zones  did  not  stop  some  schools  growing  by  taking  out-of-zone  students  -  and  the
+
+schools  that  gained  tended  to  be  the  more  prestigious,  longer-established,  or  those  in  higher
+
+income communities. They were also able to do their own selection, often on the basis of student
+
+tests.
+
+The schools that were bypassed tended to be in lower-income areas. Even before 1989, this meant
+
+loss  of  staff  and  funding  if  rolls  fell.  It  also  increased  social  segregation  in  some  cities,  and
+
+allowed  some  schools  to  retain  or  enhance  their  “academic”  status  by  selecting  the  out-of-zone
+
+applicants  most  likely  to  enhance  that  status.  What  happened  in  1991  was  that  the  purpose  of
+
+zoning changed, and the existence of a school zone became an additional signal of high status, as
+
+well as a protection of advantage for those living in the high income areas wanting access to these
+
+schools.
+
+The spread of schools with enrolment schemes is one of the most striking aspects of the changes
+
+in the New Zealand school landscape since 1989. In 1990, no primary schools had zones, and only
+
+9  percent  of  secondary  schools,  most  in  Auckland,  had  zones.  By  2004,  there  were  zones  for
+
+around  a  quarter  of  secondary  schools,  and  18  percent  of  primary  schools.  National  roll  growth
+
+1999-2004  was  5.2%;  however,  the  proportion  of  students  attending  enrolment-scheme  schools
+
+grew to 38% (including those at 22 integrated schools), and the number of schools with enrolment
+
+schemes (termed ES schools below) doubled. They are more likely to be in cities.
+
+
+
+8   These include special education classes, MÃÂ¤ori language immersion programmes, Pacific language immersion  or  bilingual  programmes;  programmes  for  students  who  have  refugee  status;  teen  parent  units;  alternative   education programmes; adult migrant programmes; Montessori programmes; a specialist music programmes at
+
+one Christchurch secondary and a feeder primary; and a French language programme at an Auckland primary  school.   9   Twenty-two  integrated  schools  had  enrolment  schemes  in  2004  (covering  6.4  percent  of  integrated  school
+
+rolls): most of these are Catholic. These schemes do not have to be geographically based.
+
+Page 10 of 28
+
+Table 3 Growth of enrolment schemes
+
+1990
+
+%
+
+1999  %
+
+2002  %
+
+2004  %
+
+Number of secondary schools with  enrolment schemes  31/349  48/320  62/319  79/320
+
+9  15  19  24.7
+
+Number of primary schools with  enrolment schemes
+
+161/2055  246/1971  344/1916
+
+0  7.8  12.5  18
+
+Percentage of state students in  schools with enrolment schemes    20.3  28.6  36.1
+
+Percentage of major city schools  15  21.6 28.6
+
+Percentage of provincial city schools  8.4 14 17
+
+Percentage of small town schools  2.1 4.1 6.1
+
+Percentage of rural schools  1.9 4.1 7.1
+
+
+
+The  table  below  shows  that  while  there  are  some  low  decile  ES  schools,  they  are  very  few.  By
+
+2004, the proportion of ES schools in each socioeconomic decile followed the decile ranking in a
+
+pretty linear fashion, and just under half the decile 10 schools were also ES schools.
+
+Table 4 Growth in enrolment scheme schools 1999-2004, by socioeconomic decile
+
+Decile Proportion with
+
+enrolment scheme  1999
+
+Proportion with  enrolment scheme  2002
+
+Proportion with  enrolment scheme  2004
+
+Decile 1 schools 4 5.4 7.1
+
+Decile 2 schools 3 5.2 6.7
+
+Decile 3 schools 6 10.1 12.2
+
+Decile 4 schools 2.8 8.4 14
+
+Decile 5 schools 6 11.2 14
+
+Decile 6 schools 8 13.6 19
+
+Decile 7 schools 8 10.8 20
+
+Decile 8 schools 8.8 14.9 19
+
+Decile 9 schools 15 21.1 32
+
+Decile 10 schools 27 38.4 46
+
+Overall  10.1  15.4  21.3
+
+
+
+Pearce  and  Gordon  (2005)  show  that  the  ideology  of  self-managing  schools,  coupled  with  a
+
+hands-off role for the Ministry of Education during the 1990s, allowing schools to set their own
+
+criteria, was not in fact politically sustainable. They describe the pressure that led to the return of
+
+Page 11 of 28
+
+zones  in  1998  -  cases  of  students  living  close  to  a  school  who  could  not  attend  it;  cases  of
+
+students who missed out without clear reason. These cases were often in middle-class areas. There
+
+continues to be pressure from some principals of schools at the ‘top end’ of the decile ranking to
+
+be allowed to select students, usually on grounds that can be thought of as ‘cream-skimming’ if
+
+looked at from a school perspective; or as ‘meritocracy’ if looked at from the perspective of the
+
+small number of students who would thereby access a school that they could not otherwise access,
+
+or afford. Their ideal is probably the situation of 1998-2000. However, most of the small number
+
+of these prestige schools are by now victims of their own popularity, and do not have spare places.
+
+Auckland Boys Grammar, for example, now employs someone to check claims of zone residence,
+
+given  its  experience  of  false  claims,  or  temporary  lodging  taken  at  the  time  of  enrolment.  Real
+
+estate  agents  routinely  include  school  zones  in  advertisements  where  these  are  for  prestigious
+
+schools; and house prices in prestigious school zones have increased at a higher rate than in other
+
+areas  (Auckland  Property  Review  2002;  McClay  and  Harrison  2003).10  Last-minute  enrolments
+
+can  cause  difficulties  for  popular  schools  in  relation  to  having  to  hire  new  teachers  (at  a  time
+
+when they may have less selection than they would want, and be uncertain whether they can offer
+
+a more attractive permanent appointment), and timetables. In 2006 one school noted that because
+
+of  late  enrolments  in  senior  levels,  some  students  would  miss  out  on  their  first  subject  choices
+
+because class sizes were now too big (Boyes 2006).
+
+But  it  is  not  clear  whether  the  spread  of  ES  schools  has  merely  reflected  existing  social
+
+stratification  patterns,  or  increased  it  in  relation  to  narrowing  educational  opportunities.  The
+
+number  of  schools  with  really  small  zones  is  not  high.  In  a  study  of  zoning  patterns  in
+
+Christchurch,  Pearce  and  Gordon  (n.d).  note  that  “quite  large  areas  of  low  deprivation  [are]
+
+guaranteed access to a high decile secondary school.” However, they also describe how primary
+
+schools  in  one  high-income  area  have  set  zones  that,  while  overlapping  and  thereby  providing
+
+choice  within  the  area,  have  carefully  excluded  some  lower-income  areas  that  are  physically
+
+closer  to  individual  schools.  Other  examples  of  what  appears  to  be  strategic  zone-setting  to
+
+exclude  students  from  low  income  areas  are  from  schools  situated  in  high  income  areas  with  a
+
+lower-income  area  close  by.  By  contrast,  examples  of  high  decile  primary  schools  without
+
+enrolment schemes occur where primary schools’ neighbours are of similar high decile.
+
+Some  further  strategic  decisions  around  enrolment  may  also  occur  in  relation  to  deciding  the
+
+number of spare places. Enrolment schemes do not set a maximum roll number, and government
+
+funding  that  is  determined  by  roll  is  based  on  the  actual  number  of  enrolments.  Boards  are
+
+required  to  determine  by  September  the  number  of  places  they  will  have  available  for  students
+
+who live outside the home zone. Foreign fee-paying students (whose numbers grew dramatically
+
+
+
+10   Removing  zoning  could  therefore  reduce  the  value  of  homes  in  these  areas;  political  commentators  in  one   business magazine cited this as a tension for the National party’s policy of relaxing zoning to improve school  choice, given that its voters could be the ones most likely to lose out on selling their house (Young & Thomas
+
+2006). McCulloch (1991) noted earlier that the National party’s policy of abandoning zoning cost it votes in  key conservative electorates in 1987 in the “Grammar zone” in Auckland, both for concerns about preserving  the value of family investments, and access as of right to prestigious schools.
+
+Page 12 of 28
+
+in  recent  years  before  starting  to  decline  in  2004)  must  not  fill  places  provided  for  domestic
+
+students.11
+
+There are no national figures available on the number of students who do apply out-of-zone, and
+
+their acceptance rates, so it is difficult to know to what extent ES status is both an attraction, and a
+
+difficulty for would-be students, and how that has changed over time. While the NZCER survey
+
+figures show around a third of students bypassing their closest school, Pearce and Gordon (n.d.)
+
+have shown that not every student in fact has access as of right to their closest school.
+
+Lauder and Hughes (1999) suggested that the 1998 changes would not lead to substantial changes
+
+in school enrolment schemes, or produce more equitable student access to schools with enrolment
+
+schemes.  This  prediction  appears  to  have  been  borne  out;  but  there  is  some  evidence  (largely
+
+anecdotal) that the changes that began in 2001 have widened access, where there were sufficient
+
+spare  places  for  a  ballot  of  those  not  in  the  priority  groups.  For  example,  management  staff  in
+
+several high decile schools in the NZCER school funding study (Wylie and King 2005) who were
+
+in  this  position  talked  of  seeing  lower  average  achievement  scores  in  their  year  9  entrants  after
+
+they  switched  to  selection  for  remaining  places  by  ballot,  and  this  had  led  to  their  providing  a
+
+wider range of courses.
+
+Being an ES school appears to confer some advantages in terms of attracting students - but not
+
+always.
+
+
+
+
+
+11   It is not clear how the latter can be assessed; many schools with enrolment schemes that do not take all who  apply  also  take  foreign  fee-paying  students.  Fees  from  these  students  cover  the  cost  of  providing  specific   additional courses, e.g. English as a second language, as well as revenue for the school as a whole, often used
+
+to  extend  the  range  of  subjects  offered.  The  self-funding  nature  of  foreign  fee-paying  students  makes  it   problematic to judge whether in fact they may in some cases be taking places that would otherwise have gone  to domestic out-of-zone applicants. One school principal talked to me in 2005 of taking far more out-of-zone  applicants than usual because of the drop in foreign fee-paying students between 2004 and 2005.
+
+Page 13 of 28
+
+Table 5 Roll  changes  1999-2004  by  decile  and  enrolment  scheme  (primary  and
+
+secondary schools)
+
+Schools with
+
+enrolment  scheme in 1999
+
+Percentage  change 1999-2004 in roll  numbers  %
+
+Schools  without  enrolment  scheme in 1999
+
+Percentage  change 1999-2004 in roll  numbers
+
+%
+
+Overall roll  number  change 1999-2004
+
+%
+
+Decile 1-2 schools -14.3 +6.6 -2
+
+Decile 3-4 schools +15.4 -10 -7.2
+
+Decile 5-6 schools -0.3 +4 +3.3
+
+Decile 7-8 schools +12.5 +4.7 +6.3
+
+Decile 9-10 schools +14.7 +7.1 +10.3
+
+Overall  +9.9 +4 5.2
+
+
+
+Table 5 also shows that the changes to enrolment schemes did little to change the loss of students
+
+at low decile schools and the continued growth of rolls at higher decile schools that was evident in
+
+the 1990s. Fiske and Ladd (2000) show that low decile schools in Wellington, Christchurch and
+
+Auckland  lost  students  over  the  1991-96  period  to  higher  decile  schools;  a  pattern  that  was
+
+different from the previous five years. Harker (2000a) shows that nationally, low decile primary
+
+schools grew less than higher decile primary schools (decile 5 schools showed the most growth)
+
+over a period of growing rolls 1994-98. In terms of social selection, he also found that the median
+
+roll  at  high  decile  schools  with  more  than  20  percent  MÃÂ¤ori  students  declined  -  but  increased
+
+substantially at high decile schools with less than 20 percent MÃÂ¤ori enrolment. Roll changes 1991-1998 in secondary schools showed the same trends more starkly.
+
+Thus we have an interesting picture. There is some fluidity of individual student movement that
+
+does not seem to decrease with the increase with the growth of ES schools. However, it is in only
+
+one direction, as predicted by most researchers who have analysed reasons for school choice. The
+
+evidence  suggests  that  competition  for  students  does  not  create  more  even  social  mixes.  The
+
+proportions  of  students  from  lower  income  backgrounds  entering  higher  decile  schools  are  not
+
+high enough to change their decile substantially.
+
+The New Zealand picture is of particular interest because it is one of the longest running systems
+
+of open choice coupled with school self-management. Under the New Zealand conditions, there is
+
+little evidence that the hopes of some school choice advocates of using choice to counter social
+
+segregation within educational provision can be met.
+
+I turn next to the other great hope, that it will improve schools, and thus student achievement.
+
+Page 14 of 28
+
+Does competition improve student achievement?
+
+On international comparisons, New Zealand students score well; they are usually within the group
+
+scoring above average. This was the case before 1989; and the picture has not changed. However,
+
+while New Zealand usually has a larger proportion of students scoring at the top end, it also has a
+
+large  proportion  scoring  at  the  lower  end,  and  a  relatively  wide  range  compared  to  other  high
+
+scoring countries. This has been of policy concern for some time, with added attention in recent
+
+years as economists note population growth in groups with lower educational achievement, in an
+
+era where further economic stability and growth will need high national educational levels.
+
+Harker (2000b) noted that roll drops in low decile secondary schools left many with rolls under
+
+500, and argued that this size was too small to allow effective education, or to provide a full range
+
+of subject options. His analysis shows a small decline in the proportion of students in decile 1-2
+
+schools leaving with a 7th form qualification, in contrast to increases for other schools, particularly
+
+decile  9-10  schools,  and  his  interpretation  is  that  “skimming”  is  occurring  to  the  benefit  of  the
+
+non-decile 1-2 schools. (This is unlikely to account for all the difference.)
+
+In its 2005 briefing to the incoming Minister of Education, the Ministry of Education noted the
+
+rise  in  students  gaining  some  qualification  from  2002,  when  NCEA  was  introduced.  “These
+
+results represent for the first time, in at least a decade, a significant reduction in the proportion of
+
+school leavers with little or no formal attainment.” (Ministry of Education 2005, p. 46).
+
+Thus at an overall level, there is little evidence to show that the 1989 reforms had any effect on
+
+student achievement. It was only when the country changed its approach to qualifications at the
+
+secondary  level  (for  reasons  that  have  to  do  with  trying  to  engage  a  wider  range  of  students  in
+
+school,  and  provide  more  equity  in  recognition  of  “vocational”  and  “academic”  knowledge  and
+
+skills; see Hipkins and Vaughan 2005), that this stubborn indicator of system difficulty or failure
+
+started to shift.
+
+To  see  whether  they  might  have  affected  schools  differentially,  or  reduced  the  gap  between
+
+schools,  we  compared  trends  over  time  in  the  median  proportion  of  school  leavers  with  no
+
+qualification  for  secondary  schools  with  different  places  in  the  education  “market”  (those  with
+
+enrolment schemes in 1999 (ES schools), those without (non-ES schools), and integrated schools),
+
+within school quintile groups (decile 1 and 2, 3 and 4 etc). Only schools with complete data on
+
+school leavers qualifications held by the Ministry of Education are included in this analysis.
+
+The comparison is over average percentages of school leavers without qualification for three time-periods  corresponding  to  different  versions  of  the  enrolment  scheme  criteria.  The  first  period,
+
+1995-1998 is for the time when ES schools could decide who they would select (and how much
+
+weight  to  give  their  home  zone);  the  second  period,  1999-2000  is  when  they  were  to  give
+
+preference to home zone students, but could make their selection of out-of-zone students on their
+
+own grounds; and the third period is from 2001-2004, when ES schools had to decide any spare
+
+places for out of zone students by ballot. We have used 1999 ES and decile categories partly as a
+
+Page 15 of 28
+
+mid-point  over  the  time-period,  but  also  to  see  if  the  advantages  of  having  ES  status  would  be
+
+evident over time (from 1999 to 2004).
+
+The figure below shows that:
+
+ÃÂ  At  the  same  socioeconomic  quintile  level,  ES  and  integrated  schools  had  lower
+
+proportions of students leaving without any qualification than non ES schools over this
+
+ten-year  period.  The  only  schools  that  had  40  percent  or  more  of  their  students  leave
+
+without any qualification were decile 1-6 non-ES schools;
+
+ÃÂ  Whatever  the  school  status,  there  is  no  improvement  in  the  pattern  following  the
+
+modification to the enrolment scheme criteria taking effect in 1999 - thus there seems to
+
+have  been  no  advantage  for  ES  schools,  and  no  (further)  disadvantage  for  non-ES
+
+schools;
+
+ÃÂ  There is little improvement in the pattern following the switch to balloting taking effect
+
+in 2001; and
+
+ÃÂ  There  is  little  evidence  that  the  range  of  school  proportions  of  leavers  without
+
+qualifications has narrowed over time - in other words, there are still similar proportions
+
+of schools with high levels of leavers without qualifications. Within each decile, non-ES
+
+schools have the widest range as a group.
+
+At  this  level,  there  are  no  clear  signs  that  competition  is  operating  as  a  lever  to  improve  less
+
+popular schools (non-ES schools). There are indications that it may be preserving the advantages
+
+for those attending ES schools - but not enhancing those further.
+
+Figure 1 Proportion of school-leavers without qualification, ES, non-ES and integrated
+
+schools compared within socioeconomic quintiles*
+
+Page 16 of 28
+
+Period
+
+%  un
+
+qua
+
+li fi e
+
+d  s c
+
+ho ol
+
+le
+
+av er
+
+s
+
+95-98 99-00 01-04
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Quintile Integrated
+
+95-98 99-00 01-04
+
+Quintile Integrated
+
+95-98 99-00 01-04
+
+Quintile Integrated
+
+95-98 99-00 01-04
+
+Quintile Integrated
+
+95-98 99-00 01-04
+
+Quintile Integrated
+
+Quintile ES schools
+
+Quintile ES schools
+
+Quintile ES schools
+
+Quintile ES schools
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Quintile ES schools
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Quintile
+
+Non-ES schools Quintile Non-ES schools Quintile
+
+Non-ES schools Quintile Non-ES schools Quintile
+
+Non-ES schools
+
+
+
+*  reading  from  left  to  right:  the  first  quintile  =  decile  1  and  2  schools,  and  at  the  far  right,  the  final  quintile  =   decile 9-10 schools.
+
+
+
+There  are  insufficient  numbers  of  schools  in  some  of  the  categories  above  to  analyse  whether
+
+there were changes in the range of proportions of school-leavers without qualification in relation
+
+to school status, either by enrolment scheme or decile.12 We therefore had to analyse these two
+
+aspects separately.
+
+Figure 2 shows:
+
+ÃÂ  little change in either the median or range of school proportions of school leavers without
+
+qualification  after  1999  for  either  the  ES  or  integrated  schools:  in  other  words,  any
+
+advantage  from  this  status  did  not  translate  into  improvements  in  student  achievement.
+
+For ES schools, there is some lowering of the median and bringing down the top quartile
+
+after  1998,  when  schools  had  to  have  a  home  zone.  But  there  is  minimal  difference
+
+between  the  home-zone/no  ballot  and  home-zone/ballot  periods.  That  may  be  of  some
+
+
+
+12   For example, there were only 2 decile 1-2 ES schools, and 5 decile 3-4 ES schools.
+
+Page 17 of 28
+
+comfort  for  those  in  these  schools  who  are  uncomfortable  with  the  idea  of  a  ballot
+
+deciding school entry;
+
+ÃÂ  The introduction of balloting may, on the other hand, have helped the non-ES schools a
+
+little, with some reduction of the proportion of schools with higher proportions of school-leavers without qualifications between 1999-00 and 2001-04.
+
+Figure 2  Changes in school proportions of leavers without qualification 1995-2004, by
+
+enrolment scheme and integrated status
+
+Period
+
+% u
+
+nqua
+
+lif ied
+
+s
+
+c h o
+
+ol lea
+
+v e r s
+
+95-98 99-00 01-04
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Inte grated
+
+95-98 99-00 01-04
+
+ES schools
+
+95-98 99-00 01-04
+
+Non-ES schools
+
+
+
+
+
+Figure  3  is  less  comforting.  It  seems  to  indicate  that  while  decile  9-10  schools  have  kept  their
+
+proportion  of  leavers  without  qualification  low,  and  fewer  schools  in  the  2001-04  period  had
+
+higher  proportions  (but  still  substantially  below  the  median  for  decile  1-4  schools),  schools  in
+
+other  decile  groups  show  fewer  gains  in  either  median  or  range.  This  suggests  that  decile,  or
+
+socio-economic  factors,  are  more  important  to  patterns  of  student  achievement  than  whether
+
+schools  have  enrolment  schemes  or  are  integrated  -  whatever  those  traits  signal  to  families  in
+
+terms of preference or reputation.13
+
+Figure 3  Changes in school proportions of leavers without qualification 1995-2004, by
+
+school socioeconomic quintile
+
+
+
+13   ES schools were less likely to have had a supplementary Education Review Office review (indicating major  problems in the regular 3-yearly cycle of school reviews by this government agency): 14 percent cf. 33 percent  of Non-ES schools, and 33 percent of integrated schools). They were also likely to have more stable finances
+
+overall: 2.6 percent of the ES schools ran a deficit over the last 3 years c.f. 5% of Non-ES schools, and 5.8  percent had posted a surplus for all three years cf. 3.6 percent of Non-ES schools.
+
+Page 18 of 28
+
+Period
+
+%  unq
+
+ua lif
+
+ie d s
+
+c ho
+
+ol le
+
+av er
+
+s
+
+95-98 99-00 01-04
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Quintile
+
+95-98 99-00 01-04
+
+Quintile
+
+95-98 99-00 01-04
+
+Quintile
+
+95-98 99-00 01-04
+
+Quintile
+
+95-98 99-00 01-04
+
+Quintile
+
+
+
+
+
+* reading from left to right: the first quintile = decile 1 and 2 schools, and at the far right, the final quintile  = decile 9-10 schools.
+
+School experiences of competition
+
+Why should we see so little change over more than a decade? Why hasn’t competition on its own
+
+sharpened schools’ capability to address the problem of students leaving without qualifications?
+
+One  of  the  most  insightful  studies  of  what  competition  might  mean  in  education  is  Levacic’s
+
+(2001)  study  of  the  relationship  between  a  structural  definition  of  competition  (the  number  of
+
+schools in a local market or the degree of concentration), and competitive behaviour, and between
+
+these different conceptualisations of competition and student performance. The study has further
+
+significance  because  it  looks  at  the  effects  over  time  where  there  is  systemic  competition,  as  in
+
+New Zealand. She found little relationship between English secondary head teachers’ perceptions
+
+of competition and structural indicators, suggesting that this may be because perceptions of a high
+
+degree  of  competition  were  more  likely  to  be  associated  with  “rivalrous  competitive  conduct”;
+
+and if so, this would account for why student achievement did not rise more where head teachers
+
+thought  their  school  faced  a  high  degree  of  competition.  She  observes  that  “As  in  commercial
+
+markets, not all forms of competitive conduct stimulate improved performance for the consumer."
+
+There was no positive impact in relation to structural measures of concentration, or the proportion
+
+of schools that were grant-maintained (usually higher-status). Nor was there any association with
+
+any  of  these  measures  of  competition  and  school  performance  on  “the  more  inclusive  but  less
+
+publicised GCSE2 indicator.” However, where head teachers said they had 5 or more competitors,
+
+the  estimated  impact  was  a  4.5-5  percent  increase  in  the  percentage  of  students  obtaining  5  or
+
+more  grade  A*  to  C  for  the  GCSE  examinations,  which  are  used  to  rank  schools  against  each
+
+other in league tables (and to identify “failing” schools).
+
+Levacic concludes that:
+
+Page 19 of 28
+
+… schools exhibit better performance in terms of the headline indicator when there is more  perceived  competition.  It  is  suggested  that  this  is  due  both  to  greater  stimulus  to  improve   and maintain the school’s position in the local hierarchy and to more opportunities for co-operation and emulation related to product quality.14
+
+She makes the case for using a more inclusive measure of school performance:
+
+Putting  to  one  side  the  problems  of  a  raw  examination  score  as  an  indicator  of  school   quality,  the  total  average  GCSE  score  per  pupil  is  a  better  raw  exam  score  indicator  than   GCSE1.  It  does  not  induce  schools  to  concentrate  on  particular  pupils  and  reflects  the   achievements of all pupils in a school. (p 40).
+
+Unlike the Levacic study, most studies of education markets continue to rely on secondary cross-sectional  data,  and  to  approach  competition  in  structural  terms  only.  Belfield  and  Levin  (2005)
+
+review US studies of the effects of competitive pressure on schools, using such data-sets. Much of
+
+the comparison is not between individual schools (as it is in studies in England and New Zealand,
+
+where  school  choice  and  self-managing  schools  are  systemic)  but  between  systems,  such  as
+
+private  vs  public  school;  or  one  district  vs  another.  Their  review  shows  modest  benefits  for
+
+student achievement from this kind of competition, but they raise questions about the degree and
+
+feasibility of reform required to increase competition, in order to get (only) modest results.
+
+Gibbons and Silva (2006) raise questions about the use of concentration of schools as a measure
+
+of  school  competition  because  families  may  have  already  “sorted”  themselves  through  housing
+
+choices,  thus  presenting  some  potential  endogeneity  between  school  concentration  and  school
+
+quality. They have focused on the performance of schools, using school value-added point scores
+
+(the  difference  between  age-11  and  age-7  point  scores,  averaged  at  school  level)  They  find  no
+
+causal effect on English primary school performance from competition:
+
+Most  of  the  observed  positive  correlation  between  the  number  of  competing  schools  and   pupil  attainments  is  driven  by  unobserved  neighbourhood  characteristics  or  endogenous   selection of pupils with choice into better quality schools.15
+
+
+
+14   Gibbons  (2002)  found  in  a  study  of  English  primary  schools  that  even  after  controlling  for  socioeconomic   characteristics of both schools and catchment areas (thus allowing for spatial autocorrelation), “good primary  schools tend to be located near other good primary schools and bad schools near other bad schools… could be
+
+[due  to]  a  neighbourhood  human  capital  spillover,  operating  through  social  interaction  of  pupils  from   neighbouring schools, or a knowledge spillover in terms of teaching technologies.” (pp. 28-29).   15   Castle and Evans (2006) also raise the issue of endogeneity in their analysis of research on the effects of the
+
+specialist  school  policy  in  England,  and  conclude  that  it  is  impossible  to  tell  whether  it  is  their  nature  (as   specialist  schools)  that  lies  behind  their  being  more  high  performing  than  other  secondary  schools,  or  their   effectiveness anyway, because the more effective schools were most likely to have become specialist schools.  Much the same issue would probably confront any analysis in New Zealand comparing performance over time  of ES and non-ES schools. They also note that comparisons of specialist and non-specialist schools do not take  into account comparative costs, or whether the greater selectivity of specialist schools led to increased social  stratification  in  an  area,  and  more  concentration  of  less  motivated  students  at  non-specialist  schools.  Citing   Levacic’s 2004 study of specialist schools that found 92 percent of the unexplained variance in examination  results to lie at the student level, and only 7 percent at the school level, they argue that “This implies that for a
+
+Page 20 of 28
+
+Their analysis also suggests that “school competition may exacerbate stratification of schools by
+
+student attainment.” (pp. 30-31)
+
+How real is competition in New Zealand?
+
+How real is competition in New Zealand? If we define it structurally, in terms of concentration of
+
+numbers of schools, and bearing in mind Levacic’s finding of a positive effect only where there
+
+were more than 5 schools competing, and not for fewer numbers, then much of New Zealand does
+
+not  experience  competition  that  might  make  a  positive  difference.  The  social  and  economic
+
+landscape of the country would have to change substantially to provide such competition: hardly a
+
+feasible proposition either politically or practically.
+
+If we define it in terms of perceptions, on the grounds that this is how it can be a driver of change,
+
+then the evidence is that competition is still not pervasive in New Zealand, more than a decade
+
+after  the  1989  reforms.  Sixty  percent  of  secondary  principals  in  the  2003  NZCER  survey  said
+
+there was some competition in their relations with other local secondary schools, as did 43 percent
+
+of the primary principals in the NZCER 2003 survey, up from 30 percent in 1999, and 21 percent
+
+in 1996.
+
+This  is  not  unalloyed  competition.  Primary  principals  in  2003  who  thought  their  school
+
+experienced  some  competition  were  just  as  likely  as  those  who  did  not  to  share  professional
+
+development  (61  percent),  and  information  on  individual  students  (42  percent).  They  were  less
+
+likely  to  share  resources  or  give  mutual  support  (38  percent  cf.  58  percent  of  non-competitive
+
+schools).  This  indicates  that  schools’  sense  of  competition  is  not  wholesale  or  open-ended,  but
+
+may be limited to particular schools. Fourteen percent had no/limited contact with other schools,
+
+cf. 6 percent of non-competition schools.
+
+Primary  school  competition  was  more  likely  to  be  experienced  in  small  town  and  small  city
+
+schools,  where  perhaps  rivalries  are  more  transparent.  As  in  1999,  there  was  no  relationship
+
+between a sense of competition and the school characteristics of decile or type. The median roll
+
+was slightly lower for non-competition schools (166 cf. 180 for competitive schools)
+
+Competition schools were just as likely as non-competition schools to have an enrolment scheme,
+
+and  have  schools  around  them  with  enrolment  schemes,  places  for  all  who  apply,  or  want  an
+
+increase in school’s physical capacity to take all applicants.
+
+Twenty-three percent of the primary competition schools had made major changes to their school
+
+promotion/marketing  cf.  12  percent  of  non-competitors.  This  is  similar  to  previous  surveys.
+
+Otherwise,  and  also  in  line  with  previous  NZCER  surveys,  there  is  no  difference  between
+
+competing  and  non-competing  schools  in  their  initiation  of  different  programmes  and  policies
+
+aimed at improving achievement and engagement for particular social groups, or taking up some
+
+
+
+really  big  impact  on  attainment,  education  policy  would  need  to  exert  leverage  on  families’  and  young   peoples’ attitudes and motivations.”
+
+Page 21 of 28
+
+of  the  innovative  approaches  that  try  to  integrate  thinking  and  problem-solving  skills  with  the
+
+traditional  academic  areas.16  Unlike  in  1999,  those  who  thought  of  themselves  as  facing
+
+competition  in  2003  were  no  more  likely  than  those  who  were  not  to  feel  there  was  some
+
+curriculum or programme innovation they would like to implement, but could not.
+
+How enduring is the sense of competition?
+
+Of  the  157  schools  whose  principals  took  part  in  both  the  1999  and  2003  NZCER  national
+
+primary school surveys:
+
+Ã¢ÂÂ¢ 48 percent were not in competitive relations in either 1999 or 2003
+
+Ã¢ÂÂ¢ 20 percent experienced some competition in 2003, but not in 1999;
+
+Ã¢ÂÂ¢ 15 percent experienced some competition in 1999, but not 2003; and
+
+Ã¢ÂÂ¢ only 17 percent experienced competition at both ends of the 5-year period.
+
+Thus  if  principals  need  to  feel  in  competition  to  be  motivated  to  provide  good  leadership  or
+
+improve the quality of education at their school, or to improve efficiencies in their operation just
+
+over half experienced some over this 5-year period; and it was a continuing reality for only about
+
+1 in 6: hardly a reliable lever.
+
+The  schools  that  experienced  competition  in  both  1999  and  2003  were  least  likely  to  have
+
+reasonably stable rolls (roll stability helps schools plan; Wylie and King 2004), and most likely to
+
+have lost more than a fifth of their roll over the 5-year period. More of these schools had another
+
+local school with an enrolment scheme (rather than all nearby schools), suggesting a local winner
+
+at the expense of one or more losers. They had lower levels of parent and community support, or
+
+parents discussing student reports with teachers. They were more likely to have school-business
+
+links, and to be involved in three or more externally funded projects. They were no more, or less
+
+likely  to  be  undertaking  programmes  based  on  more  individualised  learning,  though  they  were
+
+more likely to offer accelerated learning programmes (which appeal to some parents). They were
+
+more  likely  to  say  they  could  not  make  desired  programme/curriculum  innovations  because  of
+
+lack of time, money, staffing levels, or staff expertise. They were no more likely than others to
+
+cite national curriculum requirements as an obstacle to these innovations.
+
+These schools experiencing continual competition were just as likely to “pass” their ERO review
+
+over the 1996-2004 period: there were no signs that these were either substantially more effective,
+
+or less effective schools than those who did not experience competition.
+
+
+
+16   Ladd & Fiske undertook further analysis of principal and teacher data from the 1996 NZCER national survey.  This analysis suggested that “neither competition among schools nor the loss of students had much impact on  [principals’] perceptions of student learning.” (Ladd and Fiske 2003, p. 107). However, both were related to
+
+teachers’  perceptions  of  the  impact  of  decentralisation  on  student  learning;  with  gains  less  likely  to  be  seen   where  schools  were  seen  as  in  competition  or  had  roll  drops.  Competition  was  also  negatively  related  to   teacher job satisfaction.
+
+Page 22 of 28
+
+
+
+Secondary schools and competition
+
+The  2003  NZCER  survey  data  show  a  similar  lack  of  substantial  difference  between  secondary
+
+schools  in  competition,  and  those  who  are  not.  Roll  stability  was  highest  where  schools  were
+
+neither  in  competitive  situations,  nor  had  an  enrolment  scheme  -  often  because  there  were  no
+
+other local secondary schools.
+
+Conclusion
+
+The  New  Zealand  evidence,  from  a  national  system  of  open-choice  and  self-managing  schools
+
+that  is  now  well-established,  shows  just  how  complex  competition  really  is,  and  raises  some
+
+sobering questions for the proponents of this approach.
+
+Competition of the kind that is theorised will sharpen school performance and therefore “lift all
+
+boats” does not occur pervasively for many reasons. To provide competition between schools of
+
+the  level  that  is  suggested  by  some  research  is  needed  to  get  some  modest  gains  would  be
+
+prohibitively  expensive  in  New  Zealand  (and  other  systems  that  are  more  than  a  single  city  or
+
+densely settled area), or it would entail major social and economic disruption.
+
+Competition between schools does not enter an empty landscape, with all schools or families on
+
+the same level, or all families. Competition does not seem able to change that landscape; it does
+
+not  solve  or  improve,  and  indeed  probably  makes  somewhat  more  difficult,  the  provision  of
+
+education  in  low  income  areas.  But  such  provision  is  one  of  the  key  educational  issues.  The
+
+evidence  is  that  open  choice  as  it  is  in  New  Zealand  is  not  so  much  creating  as  cementing  a
+
+situation where these schools will continue to struggle to preserve or extend programmes that will
+
+provide rich education for students from low-income homes, because they find it harder to keep
+
+those  who  may  show  more  motivation  towards  education, and  because  their  resourcing  is  more
+
+precarious. In the Competent Children, Competent Learners study, motivation levels were much
+
+lower among decile 1-2 students, and highest among decile 9-10 students. There were other signs
+
+too of increased disengagement with school, and lower levels of parental satisfaction that pointed
+
+to this group of schools facing issues that competition and choice on their own have not solved, or
+
+made any easier (Wylie and Hipkins 2006).
+
+Although  there  are  also  difficulties  with  the  enrolment  scheme  structure,  it  is  unlikely  to  shift
+
+from  a  geographical  approach.  That  is  politically  too  difficult  (whether  one  was  approaching  it
+
+from a “hands-off” extreme market approach, or a concern for social equality). The concept of the
+
+school  as  a  community  focus,  if  not  fulcrum,  remains  strong  in  New  Zealand  (and  has  indeed
+
+made  it  difficult  for  the  government  to  allocate  education  resources  more  efficiently  in  areas
+
+where there is an oversupply of schools and places). There will continue to be those who cannot
+
+access  schools  they  would  like  to  (as  in  any  system).  In  terms  of  trying  to  improve  access  to
+
+higher decile schools for students in adjacent low income areas, there is obviously scope for fine-
+
+Page 23 of 28
+
+tuning,  and  for  government  to  look  carefully  at  enrolment  schemes  across  cities  with  this  in
+
+mind.17 However, that does not provide a solution to the question of ensuring adequate provision
+
+in low decile schools.
+
+Until  the  late  1990s,  New  Zealand  relied  only  on  structural  competition  as  a  lever  for  school
+
+improvement  and  innovation.  While  New  Zealand  state  and  integrated  schools  must  operate
+
+within a national curriculum framework, it is a framework rather than a prescriptive scheme: there
+
+is considerable latitude given to schools to decide what to teach, when, and how. Schools make
+
+their  own  decisions  about  curriculum  resources,  including  textbooks.  They  can  also  make  their
+
+own  decisions  about  which  assessments  they  will  use;  and  the  senior  qualifications  regime  also
+
+provides  school-level  scope  for  deciding  what  mix  of  external  and  internal  assessments  to  use,
+
+although external examinations continue to be seen as higher status (Hipkins and Vaughan 2005).
+
+There is a limited amount of funding for schools to try out new approaches, for example, to use
+
+project-based learning at secondary level, for which schools compete. Nonetheless, we have not
+
+seen widespread innovation.
+
+What  strikes  a  New  Zealand  researcher  about  the  examples  where  increased  diversity  or
+
+specialisation  of  schools  has  occurred  alongside  increased  choice  is  that  these  examples  are  of
+
+districts within wider systems; usually in urban areas where it is feasible for schools to specialise;
+
+usually  where  districts  have  been  able  to  afford  the  additional  costs  (e.g.  transport;  increasing
+
+school  capability);  and  where  there  is  in  fact  a  more  active  role  for  the  district  working  with
+
+individual  self-managing  schools  than  we  have  in  New  Zealand.  The  legacy  of  the  “hands-off”
+
+1990s makes that active role more difficult to work out now.
+
+Hill (2005), as with others arguing for increased family choice, and the diversity of choice also
+
+notes the cost of providing this, if it is to be done so that low income students benefit as much as
+
+they need to. Indeed, he does not advocate so much a market, left to the suppliers, as it was in the
+
+early-mid 1990s in New Zealand, but makes the case for public agencies to ensure that there is
+
+
+
+17  Zones  are  not  used  in  England,  but  distance  between  a  child’s  home  and  the  preferred  school  is
+
+usually  one  criterion,  as  is  siblingship.  In  their  recent  analysis  of  London  secondary  schools’
+
+admissions criteria and practice Pennell, West, and Hind (2005) noted that there was still some partial
+
+selection  on  the  basis  of  ability,  particularly  among  schools  that  were  responsible  for  their  own
+
+admissions,  and  recommended  that  allocations  to  schools  should  not  be  made  this  way,  but  by  local
+
+authorities  (as  in  the  choice  based  system  of  Sweden)  or  the  appropriate  local  level  organisation  for
+
+faith-based  schools.  Comparing  existing  parental  satisfaction  rates  now  with  the  higher  rates  of  20
+
+years  previously  in  London,  West  (2005)  also  argues  that  local  authority  allocation  on  the  basis  of
+
+aiming to provide an even ability mix among the schools in its jurisdiction, as previously in London, is
+
+fairer than either the use of distance alone, or school-based banding, and most likely to reduce social
+
+segregation.
+
+
+
+Page 24 of 28
+
+sufficient diversity of choice. Ouchi (2005) in his analysis of systems of effective districts based
+
+on  autonomous  schools  demonstrates  the  importance  of  district  strategies  to  improve  capability
+
+and support schools.
+
+New Zealand started to move in this direction around 1997, when it became reasonably clear that
+
+there  were  few  marked  gains  at  a  system  level,  and  particularly  in  low  income  areas.  The
+
+government’s  first  moves  were  tentative  support  for  schools  in  difficulty  (often  in  low  income
+
+areas), but then it started to taking the lead with carefully thought-out professional development
+
+coupled  with  the  development  of  more  useful  assessment  resources:  none  of  which  could  be
+
+created or disseminated by schools acting on their own, but which needed central leadership and
+
+resourcing. More recently, it has been supporting professional learning communities, both within
+
+and across schools.
+
+This is interesting in light of the analyses by Levacic and Gibbons, who in going further than most
+
+analysts of competition in education, and trying to understand why particular kinds of competition
+
+appear  to  be  associated  with  positive  change,  point  to  the  role  of  professional  learning  from
+
+colleagues. This is something also emphasised in studies of effective schools and districts.
+
+The New Zealand government is also providing the basis for schools to make better use of better
+
+formative assessment data, so that they can both diagnose and respond effectively to student needs
+
+and  gaps.  Work  started  with  primary  schools,  and  in  the  last  couple  of  years,  shifted  into
+
+secondary schools. This is a long-term strategy, that needs continued political support. There are
+
+some  signs  that  it  is  beginning  to  pay  off  (e.g.  Higgins,  Irwin,  Thomas,  Trinick,  &  Young-Loveridge 2005).
+
+For some, the lack of change in New Zealand would reflect a lack of accountability: schools are
+
+not  being  held  up  to  the  fire  of  league  tables  or  the  fear  of  being  placed  in  ‘failing’  categories.
+
+Levacic’s  cautionary  note  about  the  gaming  behaviour  that  can  ensue,  18  and  the  importance  of
+
+having  inclusionary  measures  is  important.  There  is  also  continued  dispute  about  whether  the
+
+English  approach  has  actually  raised  achievement,  and  improved  the  educational  outcomes  for
+
+students from disadvantaged backgrounds, or simply raised performance on the visible measures.
+
+In  New  Zealand,  perceptions  of  competition  do  not  seem  to  act  as  strong  drivers  to  improve
+
+school  programmes  or  approaches.  The  signals  sent  by  competition  do  not  result  in  markedly
+
+different approaches to provision. Student numbers matter for the sustainability or enrichment of
+
+provision,  but  few  principals  are  interested  in  continuous  expansion.  Competition  may  not  be
+
+needed as the spur its proponents believe. Educators’ desire to give their students as much as they
+
+can, coupled with ensuring that they have the ability to do so effectively, are likely to have more
+
+effect.
+
+
+
+18  Further examples are provided in regular stories in the Times Educational Supplement; and are now
+
+beginning to come through in the US, with the pressure of the No Child Left Behind legislation.
+
+Page 25 of 28
+
+Acknowledgements
+
+I am very grateful for the help of two NZCER colleagues: Edith Hodgen for her analysis of the
+
+Ministry of Education and NZCER national survey data used in this paper, and Robyn Baker for
+
+her  comments  on  a  draft.  I  am  also  very  grateful  to  the  Ministry  of  Education  and  Education
+
+Review Office staff who provided data-sets used for the analysis in this paper, and answered my
+
+queries, and to Diane Pearce, who provided copies of her and Liz Gordon’s research on zoning.
+
+References
+
+Auckland Property Review (n.d.)  www.prendos.co.nz/prendos/auckland_property_review.htm.
+
+Belfield,  C.  R.  and  Levin,  H.M.  (2005).  Privatizing  educational  choice.  Consequences  for  parents,
+
+schools, and public policy.  Boulder: Paradigm Publishers.
+
+Boyd, S. (2005). Making school-driven innovations happen. Set: research information for teachers, 3,
+
+pp. 31-35.
+
+Boyes, N. (2006). Government may act over enrolment cheats. The New Zealand Herald, 7 February.
+
+Brown, B. (1997). Why governments run schools. In E. Cohn (Ed). Market approaches to education -
+
+Vouchers and school choice Oxford: Pergamon, pp. 77-96.
+
+Castle, F., and Evans, J. (2006). Specialist schools - what do we know? A report for RISE.
+
+Dowler, H. (2005). Queries about enrolment schemes. Email, 27 July 2005.
+
+Fiske,  E.B.  &  Ladd,  H.F.  (2000).  When  schools  compete. A  cautionary  tale.  Washington,  D.C.:
+
+Brookings Institution Press.
+
+Gerritson, J. (2006). Finding seats in social classes. Education Review March 9-15, pp. 6-9.
+
+Gibbons, S. (2002).  Geography, resources and primary school performance. Centre for the Economics
+
+of Education, London School of Economics and Political Science.
+
+Gibbons, S. and Silva, O. (2006). Competition and accessibility in school markets: empirical analysis
+
+using  boundary  discontinuities.   Center  for  the  Economics  of  Education,  amd  Centre  for
+
+Economic Performance, London School of Economics.
+
+Gilbert, J. (2005). Catching the knowledge wave? The knowledge society and the future of education.
+
+Wellington: New Zealand Council for Educational Research.
+
+Harker, R. (2000a). Roll change and the removal of zoning, 1991-1998. SET: Research Information for
+
+Teachers 2, pp., 4-6.
+
+Harker,  R.  (2000b).  The  impact  of  de-zoning  on  New  Zealand  secondary  schools.  Paper  given  at
+
+NZARE annual conference, University of Waikato, December.
+
+Higgins,  J.,  Irwin,  K.C.,  Thomas,  G.,  Trinick,  T.,  &  Young-Loveridge,  J.  (2005).  Findings  from  the
+
+New Zealand numeracy development project 2004. Wellington: Ministry of Education.
+
+Hill, P.T. (2005). Doing school choice right. American Journal of Education. 111 (2), 141-150.
+
+Hipkins, R. and Vaughan, K. (2005). Shaping our futures: meeting secondary students’ learning needs
+
+in  a  time  of  evolving  qualifications.   Wellington:  New  Zealand  Council  for  Educational
+
+Research.
+
+Page 26 of 28
+
+Hoxby,   C.  M.  (2003a).  School  choice  and  school  competition:  Evidence  from  the  United  States.
+
+Swedish Economic Policy Review 10, 13-66.
+
+Hoxby,  C.  M.  (2003b).  School  choice  and  school  productivity  (or  could  school  choice  be  a  tide  that
+
+lifts all boats?) In Hoxby, C.M. (Ed), The economics of school choice. Chicago: University of
+
+Chicago and NBER Press.
+
+Jenkins,  S.P.,  Micklewright,  J.,  and  Schnepf,  S.V.  (2006).  Social  segregation  in  secondary  schools:
+
+how  does  England  compare  with  other  countries?  ISER  working  paper  2006-2.  Colchester:
+
+University of Essex.  www.iser.essex.ac.uk/pubs/workpaps/
+
+Ladd, H. and Fiske, E. (2003). Does competition improve teaching and learning? Evidence from New
+
+Zealand.  Educational Evaluation and Policy Analysis 25 (1), pp. 97-112.
+
+Lareau, A. (2000). Home advantage. New York: Rowman and Littlefield.
+
+Lauder,  H.  and  Hughes,  D.  (1999).  Trading  in  futures:  Why  markets  in  education  don’t  work.
+
+Buckingham: Open University Press.
+
+Levacic,  R.  (2001).  An  analysis  of  competition  and  its  impact  on  secondary  school  examination
+
+performance  in  England.  Occasional  Paper  No.  34,  National  Center  for  the  Study  of
+
+Privatization in Education. (www.ncspe.org).
+
+McClay,  S.  &  Harrison,  R.  (2003)  The  impact  of  school  zoning  on  residential  house  prices  in
+
+Christchurch.           http://www.nzae.org.nz/conferences/2003/93-HARRISON.pdf
+
+McCulloch,  G.  (1991).  School  zoning,  equity  and  freedom  in  New  Zealand.  Journal  of  Education
+
+Policy 6 (2), pp. 155 - 168
+
+Ministry of Education (2005). Briefing for the Incoming Minister of Education. Wellington: Author.
+
+No author (1997). Survey of preferred options for intermediate and secondary schooling in the Taita
+
+College and Avalon Intermediate catchment areas prepared for the Ministry of Education.
+
+Ouchi,  W.  G.  (2005).  Power  to  the  principals:  decentralization  in  three  large  school  districts.
+
+Forthcoming in Organization Science.
+
+Pearce,  D.  and  Gordon,  L.  (2005).   In  the  zone:  New  Zealand’s  legislation  for  a  system  of  school
+
+choice and its effects. London Review of Education 3 (2), pp. 145-157.
+
+Pearce, D. and Gordon, L. (n.d.).  School zoning since 1990: a Christchurch study.
+
+Pennell,  H.,  West,  A.,  and  Hind,  A.  (2005).  Secondary  school  admissions  in  London.
+
+www.lse.ac.uk/collections/CER/research.htm.
+
+Stockwell, W. and Hewitt, S. (1996). Demand for an all girls’ school in Mangere. Wellington: MRL
+
+Research Group.
+
+Stockwell,  W.  and  Duckworth,  S.  (1998).  ‘Drivers  of  choice’  and  customer  satisfaction  with
+
+Christchurch  secondary  schools.  Report  prepared  for  Ministry  of  Education.  Wellington:
+
+ACNielsen
+
+Vaughan, K. (2004). Beyond the age of Aquarius. Reframing alternative education. Wellington: New
+
+Zealand Council for Educational Research.
+
+West,  A.  (2005).   ‘Banding’  and  secondary  school  admissions:  1972-2004.  British  Journal  of
+
+Educational Studies, 53 (1), pp. 19 -33.
+
+Wylie,  C.  (1998).  Can  vouchers  deliver  better  education?  A  review  of  the  literature,  with  special
+
+reference to New Zealand. Wellington: New Zealand Council for Educational Research.
+
+Page 27 of 28
+
+Page 28 of 28
+
+Wylie,  C.  (2000).   New  Zealand  -  innovation  and  tensions  in  a  devolved  education  system.  In
+
+Townsend, T., & Cheng, Y.C. (Eds). Educational change and development in the Asia-Pacific
+
+region (pp. 267-284).  Lisse: Swets & Zeitlinger.
+
+Wylie, C. and Chalmers, A. (1999). Future schooling in Palmerston North. Report for the Ministry of
+
+Education.
+
+Wylie, C. & King, J. (2004). How do effective schools manage their finances? Wellington, N.Z: New
+
+Zealand Council for Educational Research.
+
+Wylie,  C.  &  King,  J.  (2005).   An  increasing  tightness  -  pressure  points  for  schools’  financial
+
+management. Wellington: New Zealand Council for Educational Research.
+
+Wylie,  C.  and  Hipkins,  R.  (2006).  Growing  independence.  Competent  Learners  @  14.  Wellington:
+
+New Zealand Council for Educational Research.
+
+Young, D.W. and Thomas, B. (2006).  Has a dog eaten National’s homework? The National Business
+
+Review, February 10, 2006, p. 13.
+
+
+
