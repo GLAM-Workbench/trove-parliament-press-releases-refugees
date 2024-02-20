@@ -1,0 +1,192 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "datePublished": "2024-02-20",
+            "description": "*A GLAM Workbench data repository*\n\nTrove includes more than 380,000 press releases, speeches, and interview transcripts issued by Australian federal politicians and saved by the Parliamentary Library. This dataset contains metadata and full text of items from the press releases collection that include the term 'refugees' (or a number of related terms).\n\nThe dataset was created in two stages. First, Trove was searched for relevant resources, and metadata from each search result was saved in a CSV file. Then links to ParlInfo contained within the metadata were used to download the full text.\n\nKnown issues:\n- some items had no downloadable text available in Parlinfo, so the number of text files is less than the number of metadata records\n- some items have different metadata but the same text, for example when a press release is issued by both a political party and an individual member\n- because of the way Trove groups records, it's possible some of the records don't include any of the search terms.",
+            "hasPart": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
+                },
+                {
+                    "@id": "text/"
+                },
+                {
+                    "@id": "results.csv"
+                },
+                {
+                    "@id": "results-schema.json"
+                }
+            ],
+            "isBasedOn": {
+                "@id": "https://github.com/GLAM-Workbench/trove-government/"
+            },
+            "license": {
+                "@id": "https://spdx.org/licenses/MIT"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-government"
+            },
+            "name": "trove-parliament-press-releases-refugees",
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees"
+        },
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-government/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "",
+            "encodingFormat": "application/x-ipynb+json",
+            "name": "Harvest parliament press releases from Trove",
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
+        },
+        {
+            "@id": "text/",
+            "@type": "Dataset",
+            "dateModified": "2024-02-15",
+            "name": "text",
+            "sdDatePublished": "2024-02-16",
+            "size": 14145,
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/tree/main/text/",
+            "description": "Contains individual text files, each containing the contents of an item from the press releases collection. Files are named using the following metadata fields: `date`, `contributor`, and `version_id`. For example: `1960-01-22-casey-richard-213589278.txt`."
+        },
+        {
+            "@id": "results.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "conformsTo": {
+                "@id": "results-schema.json"
+            },
+            "contentSize": 12948858,
+            "dateModified": "2024-02-20",
+            "encodingFormat": "text/csv",
+            "name": "results.csv",
+            "sdDatePublished": "2024-02-16",
+            "size": 14225,
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/blob/main/results.csv"
+        },
+        {
+            "@id": "results-schema.json",
+            "@type": [
+                "File"
+            ],
+            "conformsTo": {
+                "@id": "https://specs.frictionlessdata.io/table-schema/"
+            },
+            "encodingFormat": "application/json",
+            "name": "Frictionless Table Schema for results.csv dataset"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-government",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net/"
+            },
+            "name": "Trove government",
+            "url": "https://glam-workbench.net/trove-government"
+        },
+        {
+            "@id": "https://glam-workbench.net/",
+            "@type": "CreativeWork",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "description": "A collection of tools, tutorials, examples, and hacks to help researchers work with data from galleries, libraries, archives, and museums (the GLAM sector).",
+            "name": "GLAM Workbench",
+            "url": "https://glam-workbench.net/"
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-7956-4498",
+            "@type": "Person",
+            "mainEntityOfPage": "https://timsherratt.au",
+            "name": "Sherratt, Tim",
+            "orcid": "https://orcid.org/0000-0001-7956-4498"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-government/",
+            "@type": "Dataset",
+            "name": "trove-government",
+            "url": "https://github.com/GLAM-Workbench/trove-government/"
+        },
+        {
+            "@id": "https://spdx.org/licenses/MIT",
+            "@type": "CreativeWork",
+            "name": "MIT License",
+            "url": "https://spdx.org/licenses/MIT.html"
+        },
+        {
+            "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "@type": "CreativeWork",
+            "name": "CC0 Public Domain Dedication",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+            "@id": "https://www.python.org/downloads/release/python-31012/",
+            "@type": [
+                "ComputerLanguage",
+                "SoftwareApplication"
+            ],
+            "name": "Python 3.10.12",
+            "url": "https://www.python.org/downloads/release/python-31012/",
+            "version": "3.10.12"
+        },
+        {
+            "@id": "#harvest-parliament-press-releases_run",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-02-20",
+            "instrument": {
+                "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
+            },
+            "name": "Run of notebook: harvest-parliament-press-releases.ipynb",
+            "query": "nuc:\"APAR:PR\" AND (\"illegal arrival\" OR text:\"immigrant\" OR text:\"immigrants\" OR \"asylum seeker\" OR \"boat people\" OR refugee OR \"boat arrivals\")",
+            "result": [
+                {
+                    "@id": "text/"
+                },
+                {
+                    "@id": "results.csv"
+                }
+            ]
+        }
+    ]
+}

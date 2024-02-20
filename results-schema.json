@@ -1,0 +1,88 @@
+{
+  "fields": [
+    {
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "name": "contributor",
+      "type": "string",
+      "description": "names of people and organisations contributing to this item; multiple values separated by | symbol"
+    },
+    {
+      "name": "date",
+      "type": "date",
+      "description": "date when this item was presented or published; ISO format 'YYYY-MM-DD'"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "description": "usually includes the beginning of the full text content (truncated at approx 200 characters)"
+    },
+    {
+      "name": "type",
+      "type": "string",
+      "description": "type of resource, eg 'Press Release' or 'Speech'; multiple values separated by | symbol"
+    },
+    {
+      "name": "format",
+      "type": "string",
+      "description": "format of resource, usually either 'Online Text' or empty; multiple values separated by | symbol"
+    },
+    {
+      "name": "work_type",
+      "type": "string",
+      "description": "Trove work format, eg 'Article'; multiple values separated by | symbol"
+    },
+    {
+      "name": "language",
+      "type": "string",
+      "description": "language of resource, eg 'eng'; multiple values separated by | symbol"
+    },
+    {
+      "name": "extent",
+      "type": "string",
+      "description": "often includes the number of pages; multiple values separated by | symbol"
+    },
+    {
+      "name": "rights",
+      "type": "string",
+      "description": "information about copyright; multiple values separated by | symbol"
+    },
+    {
+      "name": "subject",
+      "type": "string",
+      "description": "subject or topic headings; multiple values separated by | symbol"
+    },
+    {
+      "name": "is_part_of",
+      "type": "string",
+      "description": "collection containing this item; multiple values separated by | symbol"
+    },
+    {
+      "name": "fulltext_url",
+      "type": "string",
+      "description": "Link to the full text version in ParlInfo"
+    },
+    {
+      "name": "trove_url",
+      "type": "string",
+      "description": "link to the version record in Trove"
+    },
+    {
+      "name": "work_id",
+      "type": "integer",
+      "description": "Trove work identifier"
+    },
+    {
+      "name": "version_id",
+      "type": "integer",
+      "description": "Trove version identifier"
+    },
+    {
+      "name": "hash",
+      "type": "string",
+      "description": "SHA-1 hash value generated from the full text; useful for identifying duplicate texts"
+    }
+  ]
+}
