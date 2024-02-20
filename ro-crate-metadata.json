@@ -29,7 +29,7 @@
                 "@id": "https://github.com/GLAM-Workbench/trove-government/"
             },
             "license": {
-                "@id": "https://spdx.org/licenses/MIT"
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
             },
             "mainEntityOfPage": {
                 "@id": "https://glam-workbench.net/trove-government"
@@ -81,7 +81,10 @@
             "sdDatePublished": "2024-02-16",
             "size": 14145,
             "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/tree/main/text/",
-            "description": "Contains individual text files, each containing the contents of an item from the press releases collection. Files are named using the following metadata fields: `date`, `contributor`, and `version_id`. For example: `1960-01-22-casey-richard-213589278.txt`."
+            "description": "Contains individual text files, each containing the contents of an item from the press releases collection. Files are named using the following metadata fields: `date`, `contributor`, and `version_id`. For example: `1960-01-22-casey-richard-213589278.txt`.",
+            "license": {
+                "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+            }
         },
         {
             "@id": "results.csv",
@@ -98,7 +101,10 @@
             "name": "results.csv",
             "sdDatePublished": "2024-02-16",
             "size": 14225,
-            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/blob/main/results.csv"
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/blob/main/results.csv",
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
         },
         {
             "@id": "results-schema.json",
@@ -156,6 +162,20 @@
             "@type": "CreativeWork",
             "name": "CC0 Public Domain Dedication",
             "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+            "@type": "CreativeWork",
+            "description": "The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.",
+            "name": "No Known Copyright",
+            "url": "http://rightsstatements.org/vocab/NKC/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+            "@type": "CreativeWork",
+            "description": "The copyright and related rights status of this Item has not been evaluated.",
+            "name": "Copyright Not Evaluated",
+            "url": "http://rightsstatements.org/vocab/CNE/1.0/"
         },
         {
             "@id": "https://www.python.org/downloads/release/python-31012/",

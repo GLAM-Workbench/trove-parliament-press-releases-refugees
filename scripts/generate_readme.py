@@ -57,8 +57,12 @@ for datafile in crate.get_by_type("Dataset"):
             stats["query"] = f"`{query}`"
         if description := datafile.get("description"):
             stats["description"] = description
+        if licence_id := datafile.get("license"):
+            licence = crate.get(licence_id["@id"])
+            stats["license"] = f"[{licence['name']}]({licence['url']})"
         #details += pd.DataFrame([stats]).T.style.format(thousands=",").hide(axis=1).to_markdown() + "\n\n"
         details += pd.DataFrame([stats]).T.to_markdown(headers=["",""]) + "\n\n"
+
 
         if "workExample" in datafile:
             details += "#### Examples of use\n\n"
