@@ -52,7 +52,7 @@ For more information and documentation see the [Trove government](https://glam-w
 
 | name           | type    | description                                                                                        |
 |:---------------|:--------|:---------------------------------------------------------------------------------------------------|
-| `title`        | string  | nan                                                                                                |
+| `title`        | string  | title of the press release, interview, or speech                                                   |
 | `contributor`  | string  | names of people and organisations contributing to this item; multiple values separated by | symbol |
 | `date`         | date    | date when this item was presented or published; ISO format 'YYYY-MM-DD'                            |
 | `description`  | string  | usually includes the beginning of the full text content (truncated at approx 200 characters)       |
