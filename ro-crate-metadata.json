@@ -81,13 +81,13 @@
             "@type": "Dataset",
             "dateModified": "2024-02-15",
             "description": "Contains individual text files, each containing the contents of an item from the press releases collection. Files are named using the following metadata fields: `date`, `contributor`, and `version_id`. For example: `1960-01-22-casey-richard-213589278.txt`.",
+            "license": {
+                "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+            },
             "name": "text",
             "sdDatePublished": "2024-02-22",
             "size": 14145,
-            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/tree/main/text/",
-            "license": {
-                "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
-            }
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/tree/main/text/"
         },
         {
             "@id": "results.csv",
@@ -101,13 +101,25 @@
             "contentSize": 12948858,
             "dateModified": "2024-02-20",
             "encodingFormat": "text/csv",
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
             "name": "results.csv",
             "sdDatePublished": "2024-02-22",
             "size": 14225,
-            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/blob/main/results.csv",
-            "license": {
-                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
-            }
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv"
+        },
+        {
+            "@id": "results-schema.json",
+            "@type": [
+                "File"
+            ],
+            "conformsTo": {
+                "@id": "https://specs.frictionlessdata.io/table-schema/"
+            },
+            "encodingFormat": "application/json",
+            "name": "Frictionless Table Schema for results.csv dataset",
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results-schema.json"
         },
         {
             "@id": "https://glam-workbench.net/trove-government",
@@ -208,17 +220,6 @@
                     "@id": "results.csv"
                 }
             ]
-        },
-        {
-            "@id": "results-schema.json",
-            "@type": [
-                "File"
-            ],
-            "conformsTo": {
-                "@id": "https://specs.frictionlessdata.io/table-schema/"
-            },
-            "encodingFormat": "application/json",
-            "name": "Frictionless Table Schema for results.csv dataset"
         }
     ]
 }
