@@ -38,7 +38,7 @@
             "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees",
             "workExample": [
                 {
-                    "@id": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv&fts=title,contributor,subject"
+                    "@id": "https://glam-workbench.net/datasette-lite/?csv=https://raw.githubusercontent.com/GLAM-Workbench/trove-parliament-press-releases-refugees/main/results.csv&fts=title,contributor,subject"
                 }
             ]
         },
@@ -127,10 +127,10 @@
             "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results-schema.json"
         },
         {
-            "@id": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv&fts=title,contributor,subject",
+            "@id": "https://glam-workbench.net/datasette-lite/?csv=https://raw.githubusercontent.com/GLAM-Workbench/trove-parliament-press-releases-refugees/main/results.csv&fts=title,contributor,subject",
             "@type": "CreativeWork",
             "name": "Explore using Datasette",
-            "url": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv&fts=title,contributor,subject"
+            "url": "https://glam-workbench.net/datasette-lite/?csv=https://raw.githubusercontent.com/GLAM-Workbench/trove-parliament-press-releases-refugees/main/results.csv&fts=title,contributor,subject"
         },
         {
             "@id": "https://glam-workbench.net/trove-government",
