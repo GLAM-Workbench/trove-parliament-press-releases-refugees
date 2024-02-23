@@ -35,7 +35,12 @@
                 "@id": "https://glam-workbench.net/trove-government"
             },
             "name": "trove-parliament-press-releases-refugees",
-            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees"
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv&fts=title,contributor,subject"
+                }
+            ]
         },
         {
             "@id": "ro-crate-metadata.json",
@@ -120,6 +125,12 @@
             "encodingFormat": "application/json",
             "name": "Frictionless Table Schema for results.csv dataset",
             "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results-schema.json"
+        },
+        {
+            "@id": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv&fts=title,contributor,subject",
+            "@type": "CreativeWork",
+            "name": "Explore using Datasette",
+            "url": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv&fts=title,contributor,subject"
         },
         {
             "@id": "https://glam-workbench.net/trove-government",
