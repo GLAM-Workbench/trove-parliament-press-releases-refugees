@@ -38,7 +38,7 @@ for datafile in crate.get_by_type("Dataset"):
                 "date harvested": datafile["dateModified"],
                 "number of files": f"{datafile['size']:,}",
                 "format": "directory",
-                "created by": f"<a href='{nb['url']}'>{nb['name']}</a> ([documentation]({nb['documentation']['@id']}))"
+                "created by": f"<a href='{nb['url']}'>{nb['name']}</a> ([documentation]({nb['mainEntityOfPage']['@id']}))"
             }
         else:
             format = datafile.get("encodingFormat")
@@ -49,7 +49,7 @@ for datafile in crate.get_by_type("Dataset"):
                 "date harvested": datafile["dateModified"],
                 "file size": naturalsize(datafile["contentSize"]),
                 "format": format,
-                "created by": f"<a href='{nb['url']}'>{nb['name']}</a> ([documentation]({nb['documentation']['@id']}))"
+                "created by": f"<a href='{nb['url']}'>{nb['name']}</a> ([documentation]({nb['mainEntityOfPage']['@id']}))"
             }
             if rows := datafile.get("size"):
                 stats["number of rows"] = rows
@@ -63,18 +63,19 @@ for datafile in crate.get_by_type("Dataset"):
         #details += pd.DataFrame([stats]).T.style.format(thousands=",").hide(axis=1).to_markdown() + "\n\n"
         details += pd.DataFrame([stats]).T.to_markdown(headers=["",""]) + "\n\n"
 
+
+        if "workExample" in datafile:
+            details += "#### Examples of use\n\n"
+            for example_id in datafile["workExample"]:
+                example = crate.get(example_id["@id"]).properties()
+                details += f"- [{example['name']}]({example['url']})\n"
+
         if "conformsTo" in datafile:
             details += "#### Columns\n\n"
             with Path(datafile["conformsTo"]["@id"]).open() as json_file:
                 df = pd.json_normalize(json.load(json_file), record_path="fields")
             df["name"] = df["name"].apply(lambda x: f"`{x}`")
             details += df.to_markdown(index=False)
-
-if "workExample" in root:
-    details += "## Examples of use\n\n"
-    for example_id in root["workExample"]:
-        example = crate.get(example_id["@id"]).properties()
-        details += f"- [{example['name']}]({example['url']})\n"
 
 md += details
 
