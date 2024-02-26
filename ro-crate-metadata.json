@@ -9,7 +9,7 @@
                     "@id": "https://orcid.org/0000-0001-7956-4498"
                 }
             ],
-            "datePublished": "2024-02-26T03:19:12+00:00",
+            "datePublished": "2024-02-26",
             "description": "Trove includes more than 380,000 press releases, speeches, and interview transcripts issued by Australian federal politicians and saved by the Parliamentary Library. This dataset contains metadata and full text of items from the press releases collection that include the term 'refugees' (or a number of related terms).\n\nThe dataset was created in two stages. First, Trove was searched for relevant resources, and metadata from each search result was saved in a CSV file. Then links to ParlInfo contained within the metadata were used to download the full text.\n\nKnown issues:\n\n- some items had no downloadable text available in Parlinfo, so the number of text files is less than the number of metadata records\n- some items have different metadata but the same text, for example when a press release is issued by both a political party and an individual member\n- because of the way Trove groups records, it's possible some of the records don't include any of the search terms.",
             "distribution": {
                 "@id": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/archive/refs/heads/main.zip"
@@ -23,6 +23,9 @@
                 },
                 {
                     "@id": "results.csv"
+                },
+                {
+                    "@id": "results-schema.json"
                 }
             ],
             "isBasedOn": {
@@ -54,6 +57,65 @@
             "license": {
                 "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
             }
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-government/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Trove includes more than 380,000 press releases, speeches, and interview transcripts issued by Australian federal politicians and saved by the Parliamentary Library. This notebook shows you how to harvest both metadata and full text from a search of the parliamentary press releases. The metadata is available from Trove, but to get the full text we have to go back to the Parliamentary Library's database, ParlInfo.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-government/harvest-parliament-press-releases/"
+            },
+            "name": "Harvest parliament press releases from Trove",
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
+        },
+        {
+            "@id": "text/",
+            "@type": "Dataset",
+            "dateModified": "2024-02-26",
+            "description": "Contains individual text files, each containing the contents of an item from the press releases collection. Files are named using the following metadata fields: `date`, `contributor`, and `version_id`. For example: `1960-01-22-casey-richard-213589278.txt`.",
+            "license": {
+                "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
+            },
+            "name": "text",
+            "sdDatePublished": "2024-02-26",
+            "size": 14145,
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/tree/main/text/"
+        },
+        {
+            "@id": "results.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "conformsTo": {
+                "@id": "results-schema.json"
+            },
+            "contentSize": 12948858,
+            "dateModified": "2024-02-26",
+            "encodingFormat": "text/csv",
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            },
+            "name": "results.csv",
+            "sdDatePublished": "2024-02-26",
+            "size": 14225,
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv"
         },
         {
             "@id": "https://orcid.org/0000-0001-7956-4498",
@@ -120,68 +182,12 @@
             "url": "https://glam-workbench.net/trove-government/harvest-parliament-press-releases/"
         },
         {
-            "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb",
-            "@type": [
-                "File",
-                "SoftwareSourceCode"
-            ],
-            "author": [
-                {
-                    "@id": "https://orcid.org/0000-0001-7956-4498"
-                }
-            ],
-            "codeRepository": "https://github.com/GLAM-Workbench/trove-government/",
-            "conformsTo": {
-                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
-            },
-            "description": "Trove includes more than 380,000 press releases, speeches, and interview transcripts issued by Australian federal politicians and saved by the Parliamentary Library. This notebook shows you how to harvest both metadata and full text from a search of the parliamentary press releases. The metadata is available from Trove, but to get the full text we have to go back to the Parliamentary Library's database, ParlInfo.",
-            "encodingFormat": "application/x-ipynb+json",
-            "mainEntityOfPage": {
-                "@id": "https://glam-workbench.net/trove-government/harvest-parliament-press-releases/"
-            },
-            "name": "Harvest parliament press releases from Trove",
-            "programmingLanguage": {
-                "@id": "https://www.python.org/downloads/release/python-31012/"
-            },
-            "url": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
-        },
-        {
-            "@id": "text/",
-            "@type": "Dataset",
-            "dateModified": "2024-02-21",
-            "description": "Contains individual text files, each containing the contents of an item from the press releases collection. Files are named using the following metadata fields: `date`, `contributor`, and `version_id`. For example: `1960-01-22-casey-richard-213589278.txt`.",
-            "license": {
-                "@id": "http://rightsstatements.org/vocab/CNE/1.0/"
-            },
-            "name": "text",
-            "sdDatePublished": "2024-02-26",
-            "size": 14251,
-            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/tree/main/text/"
-        },
-        {
-            "@id": "results.csv",
-            "@type": [
-                "File",
-                "Dataset"
-            ],
-            "contentSize": 12948858,
-            "dateModified": "2024-02-20",
-            "encodingFormat": "text/csv",
-            "license": {
-                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
-            },
-            "name": "results.csv",
-            "sdDatePublished": "2024-02-26",
-            "size": 14224,
-            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results.csv"
-        },
-        {
             "@id": "#harvest-parliament-press-releases_run_0",
             "@type": "CreateAction",
             "actionStatus": {
                 "@id": "http://schema.org/CompletedActionStatus"
             },
-            "endDate": "2024-02-21",
+            "endDate": "2024-02-26",
             "instrument": {
                 "@id": "https://github.com/GLAM-Workbench/trove-government/blob/master/harvest-parliament-press-releases.ipynb"
             },
@@ -210,6 +216,18 @@
             "@type": "CreativeWork",
             "name": "Explore using Datasette",
             "url": "https://glam-workbench.net/datasette-lite/?csv=https://raw.githubusercontent.com/GLAM-Workbench/trove-parliament-press-releases-refugees/main/results.csv&fts=title,contributor,subject"
+        },
+        {
+            "@id": "results-schema.json",
+            "@type": [
+                "File"
+            ],
+            "conformsTo": {
+                "@id": "https://specs.frictionlessdata.io/table-schema/"
+            },
+            "encodingFormat": "application/json",
+            "name": "Frictionless Table Schema for results.csv dataset",
+            "url": "https://github.com/GLAM-Workbench/trove-parliament-press-releases-refugees/raw/main/results-schema.json"
         }
     ]
 }
